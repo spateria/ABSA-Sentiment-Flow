@@ -1,0 +1,5308 @@
+((u'judging', u'VBG'), u'dobj', (u'posts', u'NNS'))
+((u'posts', u'NNS'), u'amod', (u'previous', u'JJ'))
+((u'judging', u'VBG'), u'dep', (u'used', u'VBD'))
+((u'used', u'VBD'), u'xcomp', (u'good', u'JJ'))
+((u'good', u'JJ'), u'cop', (u'be', u'VB'))
+((u'judging', u'VBG'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'longer', u'JJR'))
+((u'longer', u'JJR'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'arrived', u'VBD'), u'nsubj', (u'four', u'CD'))
+((u'arrived', u'VBD'), u'ccomp', (u'empty', u'VBP'))
+((u'empty', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'compound', (u'noon', u'NN'))
+((u'empty', u'VBP'), u'ccomp', (u'acted', u'VBD'))
+((u'acted', u'VBD'), u'nsubj', (u'staff', u'NN'))
+((u'acted', u'VBD'), u'advcl', (u'imposing', u'VBG'))
+((u'imposing', u'VBG'), u'mark', (u'like', u'IN'))
+((u'imposing', u'VBG'), u'dobj', (u'rude', u'JJ'))
+((u'rude', u'JJ'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'brought', u'VBD'), u'neg', (u'never', u'RB'))
+((u'brought', u'VBD'), u'ccomp', (u'ignored', u'VBD'))
+((u'ignored', u'VBD'), u'nsubj', (u'noodles', u'NNS'))
+((u'noodles', u'NNS'), u'amod', (u'complimentary', u'JJ'))
+((u'ignored', u'VBD'), u'iobj', (u'requests', u'NNS'))
+((u'requests', u'NNS'), u'amod', (u'repeated', u'JJ'))
+((u'ignored', u'VBD'), u'dobj', (u'sugar', u'NN'))
+((u'brought', u'VBD'), u'nsubj', (u'table', u'NN'))
+((u'table', u'NN'), u'nummod', (u'threw', u'CD'))
+((u'table', u'NN'), u'compound', (u'dishes', u'NNS'))
+
+$$$$
+
+((u'lousy', u'NNS'), u'compound', (u'food', u'NN'))
+((u'lousy', u'NNS'), u'amod', (u'sweet', u'JJ'))
+((u'sweet', u'JJ'), u'advmod', (u'too', u'RB'))
+((u'lousy', u'NNS'), u'dep', (u'tiny', u'JJ'))
+((u'tiny', u'JJ'), u'nmod:npmod', (u'portions', u'NNS'))
+((u'portions', u'NNS'), u'advmod', (u'too', u'RB'))
+((u'portions', u'NNS'), u'nummod', (u'salty', u'CD'))
+
+$$$$
+
+((u'complained', u'VBD'), u'nsubj', (u'tip', u'NN'))
+((u'tip', u'NN'), u'amod', (u'small', u'JJ'))
+
+$$$$
+
+((u'avoid', u'VB'), u'dobj', (u'place', u'NN'))
+
+$$$$
+
+((u'food', u'NN'), u'nummod', (u'eaten', u'CD'))
+((u'food', u'NN'), u'amod', (u'saul', u'JJ'))
+((u'food', u'NN'), u'amod', (u'many', u'JJ'))
+((u'food', u'NN'), u'compound', (u'times', u'NNS'))
+((u'food', u'NN'), u'advmod', (u'always', u'RB'))
+((u'food', u'NN'), u'dep', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'consistently', u'RB'))
+((u'good', u'JJ'), u'advmod', (u'outrageously', u'RB'))
+
+$$$$
+
+((u'smith', u'VBP'), u'nsubj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'saul', u'JJ'))
+((u'saul', u'JJ'), u'dep', (u'best', u'JJS'))
+((u'smith', u'VBP'), u'dobj', (u'brooklyn', u'NN'))
+((u'brooklyn', u'NN'), u'compound', (u'street', u'NN'))
+
+$$$$
+
+((u'confit', u'NN'), u'compound', (u'duck', u'NN'))
+((u'confit', u'NN'), u'dep', (u'gras', u'NNS'))
+((u'gras', u'NNS'), u'amod', (u'amazing', u'JJ'))
+((u'amazing', u'JJ'), u'advmod', (u'always', u'RB'))
+((u'gras', u'NNS'), u'compound', (u'foie', u'NN'))
+((u'gras', u'NNS'), u'dep', (u'world', u'NN'))
+((u'world', u'NN'), u'amod', (u'terrine', u'JJ'))
+((u'world', u'NN'), u'compound', (u'figs', u'NNS'))
+
+$$$$
+
+((u'list', u'NN'), u'compound', (u'wine', u'NN'))
+((u'list', u'NN'), u'dep', (u'values', u'NNS'))
+((u'values', u'NNS'), u'amod', (u'interesting', u'JJ'))
+((u'values', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'values', u'NNS'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'eat', u'VB'), u'nsubj', (u'price', u'NN'))
+((u'eat', u'VB'), u'aux', (u'can', u'MD'))
+((u'eat', u'VB'), u'neg', (u'not', u'RB'))
+((u'eat', u'VB'), u'xcomp', (u'manhattan', u'JJ'))
+((u'manhattan', u'JJ'), u'advmod', (u'well', u'RB'))
+
+$$$$
+
+((u'restaurant', u'NN'), u'amod', (u'disappointed', u'JJ'))
+((u'disappointed', u'JJ'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'asked', u'VBD'), u'nsubj', (u'ive', u'NN'))
+((u'asked', u'VBD'), u'ccomp', (u'wrapped', u'VBD'))
+((u'wrapped', u'VBD'), u'nsubj', (u'leaf', u'NN'))
+((u'leaf', u'NN'), u'compound', (u'cart', u'NN'))
+((u'leaf', u'NN'), u'compound', (u'attendant', u'NN'))
+((u'leaf', u'NN'), u'compound', (u'lotus', u'NNS'))
+((u'wrapped', u'VBD'), u'ccomp', (u'replied', u'VBD'))
+((u'replied', u'VBD'), u'nsubj', (u'rice', u'NN'))
+((u'replied', u'VBD'), u'ccomp', (u'walked', u'VBD'))
+((u'walked', u'VBD'), u'nsubj', (u'rice', u'NN'))
+((u'rice', u'NN'), u'amod', (u'back', u'JJ'))
+((u'walked', u'VBD'), u'compound:prt', (u'away', u'RP'))
+
+$$$$
+
+((u'ask', u'VB'), u'ccomp', (u'came', u'VBD'))
+((u'came', u'VBD'), u'nsubj', (u'times', u'NNS'))
+((u'times', u'NNS'), u'nummod', (u'three', u'CD'))
+((u'came', u'VBD'), u'advmod', (u'finally', u'RB'))
+((u'came', u'VBD'), u'compound:prt', (u'back', u'RP'))
+((u'came', u'VBD'), u'dobj', (u'ive', u'NN'))
+((u'ive', u'NN'), u'compound', (u'dish', u'NN'))
+((u'ive', u'NN'), u'acl', (u'requested', u'VBN'))
+
+$$$$
+
+((u'food', u'NN'), u'amod', (u'nothing', u'NN'))
+((u'nothing', u'NN'), u'dep', (u'okay', u'JJ'))
+((u'food', u'NN'), u'dep', (u'great', u'JJ'))
+
+$$$$
+
+((u'fun', u'NN'), u'compound', (u'chow', u'NN'))
+((u'fun', u'NN'), u'dep', (u'mai', u'NN'))
+((u'mai', u'NN'), u'amod', (u'dry', u'JJ'))
+((u'mai', u'NN'), u'compound', (u'pork', u'NN'))
+((u'mai', u'NN'), u'compound', (u'shu', u'NN'))
+((u'mai', u'NN'), u'dep', (u'table', u'NN'))
+((u'table', u'NN'), u'advmod', (u'usually', u'RB'))
+((u'table', u'NN'), u'compound', (u'greasy', u'NN'))
+((u'table', u'NN'), u'compound', (u'share', u'NN'))
+((u'fun', u'NN'), u'dep', (u'family', u'NN'))
+((u'family', u'NN'), u'amod', (u'loud', u'JJ'))
+((u'family', u'NN'), u'amod', (u'rude', u'JJ'))
+
+$$$$
+
+((u'go', u'VB'), u'neg', (u'never', u'RB'))
+((u'go', u'VB'), u'compound:prt', (u'back', u'RP'))
+((u'go', u'VB'), u'dobj', (u'place', u'NN'))
+
+$$$$
+
+((u'went', u'VBD'), u'nmod:tmod', (u'day', u'NN'))
+((u'went', u'VBD'), u'nsubj', (u'fish', u'NN'))
+((u'fish', u'NN'), u'compound', (u'oyster', u'NN'))
+((u'fish', u'NN'), u'compound', (u'binge', u'NN'))
+((u'fish', u'NN'), u'acl', (u'bringing', u'VBG'))
+((u'bringing', u'VBG'), u'advcl', (u'closing', u'VBG'))
+((u'closing', u'VBG'), u'xcomp', (u'glad', u'JJ'))
+((u'glad', u'JJ'), u'dep', (u'trip', u'NN'))
+((u'trip', u'NN'), u'compound', (u'place', u'NN'))
+((u'trip', u'NN'), u'compound', (u'o', u'NN'))
+((u'trip', u'NN'), u'acl', (u'ended', u'VBN'))
+((u'ended', u'VBN'), u'advcl', (u'great', u'JJ'))
+((u'great', u'JJ'), u'case', (u'because', u'IN'))
+
+$$$$
+
+((u'service', u'VB'), u'xcomp', (u'come', u'VBP'))
+((u'come', u'VBP'), u'nsubj', (u'oysters', u'NNS'))
+((u'oysters', u'NNS'), u'amod', (u'devine', u'JJ'))
+((u'come', u'VBP'), u'dep', (u'sensual', u'JJ'))
+((u'come', u'VBP'), u'nsubj', (u'price', u'NN'))
+((u'come', u'VBP'), u'dep', (u'beat', u'JJ'))
+((u'beat', u'JJ'), u'cop', (u'be', u'VB'))
+
+$$$$
+
+((u'go', u'VB'), u'xcomp', (u'wrong', u'JJ'))
+
+$$$$
+
+((u'make', u'VBP'), u'nsubj', (u'york', u'NN'))
+((u'york', u'NN'), u'compound', (u'time', u'NN'))
+((u'york', u'NN'), u'amod', (u'new', u'JJ'))
+((u'make', u'VBP'), u'ccomp', (u'saul', u'VB'))
+((u'saul', u'VB'), u'nsubj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'compound', (u'point', u'NN'))
+((u'restaurant', u'NN'), u'compound', (u'visit', u'NN'))
+((u'saul', u'VB'), u'dobj', (u'street', u'NN'))
+((u'street', u'NN'), u'amod', (u'smith', u'JJ'))
+
+$$$$
+
+((u'cooked', u'VBD'), u'nsubj', (u'everything', u'NN'))
+((u'cooked', u'VBD'), u'advmod', (u'always', u'RB'))
+((u'cooked', u'VBD'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'compound', (u'perfection', u'NN'))
+((u'service', u'NN'), u'acl:relcl', (u'understated', u'VBD'))
+((u'understated', u'VBD'), u'nsubj', (u'cool', u'NN'))
+((u'cool', u'NN'), u'amod', (u'excellent', u'JJ'))
+((u'cool', u'NN'), u'compound', (u'decor', u'NN'))
+
+$$$$
+
+((u'breast', u'NN'), u'compound', (u'duck', u'NN'))
+((u'breast', u'NN'), u'dep', (u'visit', u'NN'))
+((u'visit', u'NN'), u'amod', (u'special', u'JJ'))
+((u'visit', u'NN'), u'amod', (u'last', u'JJ'))
+((u'breast', u'NN'), u'dep', (u'incredible', u'JJ'))
+
+$$$$
+
+((u'wait', u'VB'), u'xcomp', (u'wait', u'VB'))
+((u'wait', u'VB'), u'dobj', (u'visit', u'NN'))
+((u'visit', u'NN'), u'amod', (u'next', u'JJ'))
+
+$$$$
+
+((u'give', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'compound', (u'eyes', u'NNS'))
+((u'give', u'VBP'), u'nsubj', (u'day', u'NN'))
+((u'day', u'NN'), u'amod', (u'promising', u'JJ'))
+((u'give', u'VBP'), u'xcomp', (u'try', u'VB'))
+
+$$$$
+
+((u'hate', u'VB'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'discourse', (u'say', u'UH'))
+((u'go', u'VB'), u'nsubj', (u'll', u'NN'))
+((u'll', u'NN'), u'compound', (u'doubt', u'NN'))
+((u'go', u'VB'), u'advmod', (u'ever', u'RB'))
+((u'go', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'food', u'NN'), u'dep', (u'very', u'RB'))
+((u'very', u'RB'), u'ccomp', (u'stuff', u'VBP'))
+((u'stuff', u'VBP'), u'nsubj', (u'fusion', u'NN'))
+((u'fusion', u'NN'), u'amod', (u'average', u'JJ'))
+((u'fusion', u'NN'), u'compound', (u'thai', u'NN'))
+((u'stuff', u'VBP'), u'ccomp', (u'serve', u'VB'))
+((u'serve', u'VB'), u'nsubj', (u'thing', u'NN'))
+((u'thing', u'NN'), u'advmod', (u'bit', u'RB'))
+((u'thing', u'NN'), u'advmod', (u'too', u'RB'))
+((u'thing', u'NN'), u'amod', (u'sweet', u'JJ'))
+((u'serve', u'VB'), u'xcomp', (u'sweet', u'JJ'))
+((u'sweet', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'thing', u'NN'), u'dep', (u'chicken', u'NN'))
+((u'chicken', u'NN'), u'amod', (u'enjoyed', u'JJ'))
+((u'enjoyed', u'JJ'), u'advmod', (u'moderately', u'RB'))
+((u'chicken', u'NN'), u'amod', (u'grilled', u'JJ'))
+((u'chicken', u'NN'), u'dep', (u'puree', u'NN'))
+((u'puree', u'NN'), u'amod', (u'special', u'JJ'))
+((u'puree', u'NN'), u'compound', (u'edamame', u'NN'))
+
+$$$$
+
+((u'edamame', u'VB'), u'neg', (u'never', u'RB'))
+((u'edamame', u'VB'), u'ccomp', (u've', u'VB'))
+((u've', u'VB'), u'nsubj', (u'thought', u'NN'))
+((u'thought', u'NN'), u'amod', (u'pureed', u'JJ'))
+((u'thought', u'NN'), u'amod', (u'tasty', u'JJ'))
+((u'tasty', u'JJ'), u'amod', (u'innovative', u'JJ'))
+((u've', u'VB'), u'aux', (u'could', u'MD'))
+((u've', u'VB'), u'dobj', (u'salt', u'NN'))
+((u'salt', u'NN'), u'amod', (u'used', u'JJ'))
+((u'salt', u'NN'), u'compound', (u'bit', u'NN'))
+
+$$$$
+
+((u'eat', u'VBP'), u'nsubj', (u'neighborhood', u'NN'))
+((u'neighborhood', u'NN'), u'amod', (u'anyways', u'JJ'))
+((u'neighborhood', u'NN'), u'compound', (u're', u'NN'))
+((u'eat', u'VBP'), u'dobj', (u'time', u'NN'))
+((u'time', u'NN'), u'amod', (u'good', u'JJ'))
+((u'time', u'NN'), u'compound', (u'food', u'NN'))
+((u'time', u'NN'), u'compound', (u'wouldn', u'NN'))
+((u'time', u'NN'), u'compound', (u'waste', u'NN'))
+((u'time', u'NN'), u'acl', (u'trying', u'VBG'))
+((u'trying', u'VBG'), u'ccomp', (u'find', u'VB'))
+((u'find', u'VB'), u'dobj', (u'something', u'NN'))
+((u'find', u'VB'), u'advmod', (u'rather', u'RB'))
+((u'find', u'VB'), u'dep', (u'go', u'VB'))
+((u'go', u'VB'), u'nmod', (u'tamari', u'NNS'))
+((u'tamari', u'NNS'), u'case', (u'across', u'IN'))
+((u'tamari', u'NNS'), u'compound', (u'street', u'NN'))
+
+$$$$
+
+((u'need', u'VBP'), u'nsubj', (u'tho', u'NN'))
+((u'tho', u'NN'), u'compound', (u'decor', u'NN'))
+((u'tho', u'NN'), u'compound', (u'night', u'NN'))
+((u'tho', u'NN'), u'advmod', (u'really', u'RB'))
+((u'need', u'VBP'), u'ccomp', (u'kills', u'VBZ'))
+((u'kills', u'VBZ'), u'nsubj', (u'ceiling', u'NN'))
+((u'ceiling', u'NN'), u'amod', (u'clean', u'JJ'))
+((u'ceiling', u'NN'), u'amod', (u'vent', u'JJ'))
+((u'ceiling', u'NN'), u'amod', (u'appetizing', u'JJ'))
+((u'appetizing', u'JJ'), u'advmod', (u'quite', u'RB'))
+((u'appetizing', u'JJ'), u'advmod', (u'un', u'RB'))
+((u'kills', u'VBZ'), u'ccomp', (u'make', u'VBP'))
+((u'make', u'VBP'), u'nsubj', (u'effort', u'NN'))
+((u'make', u'VBP'), u'ccomp', (u'look', u'VBP'))
+((u'look', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'look', u'VBP'), u'dobj', (u'modern', u'NN'))
+((u'modern', u'NN'), u'amod', (u'sleek', u'JJ'))
+
+$$$$
+
+((u'ate', u'VBD'), u'nmod', (u'bar', u'NN'))
+((u'bar', u'NN'), u'case', (u'outside', u'IN'))
+((u'bar', u'NN'), u'amod', (u'haru', u'JJ'))
+((u'bar', u'NN'), u'compound', (u'sake', u'NN'))
+((u'ate', u'VBD'), u'nmod', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'case', (u'because', u'IN'))
+((u'restaurant', u'NN'), u'amod', (u'haru', u'JJ'))
+((u'ate', u'VBD'), u'nsubj', (u'overflowing', u'NNS'))
+((u'overflowing', u'NNS'), u'amod', (u'next', u'JJ'))
+((u'overflowing', u'NNS'), u'compound', (u'door', u'NN'))
+
+$$$$
+
+((u'difference', u'NN'), u'nmod', (u'two', u'CD'))
+((u'two', u'CD'), u'case', (u'between', u'IN'))
+
+$$$$
+
+((u'list', u'NN'), u'compound', (u'sake', u'NN'))
+((u'list', u'NN'), u'dep', (u'extensive', u'JJ'))
+((u'extensive', u'JJ'), u'dep', (u'looking', u'VBG'))
+((u'looking', u'VBG'), u'dobj', (u'wasn', u'NN'))
+((u'wasn', u'NN'), u'amod', (u'purple', u'JJ'))
+((u'wasn', u'NN'), u'compound', (u'haze', u'NN'))
+((u'wasn', u'NN'), u'acl', (u'listed', u'VBN'))
+((u'listed', u'VBN'), u'dep', (u'made', u'VBN'))
+((u'made', u'VBN'), u'nmod', (u'request', u'NN'))
+((u'request', u'NN'), u'case', (u'upon', u'IN'))
+
+$$$$
+
+((u'roll', u'NN'), u'amod', (u'spicy', u'JJ'))
+((u'roll', u'NN'), u'compound', (u'tuna', u'NN'))
+((u'roll', u'NN'), u'dep', (u'tempura', u'NN'))
+((u'tempura', u'NN'), u'amod', (u'rock', u'NN'))
+((u'rock', u'NN'), u'advmod', (u'unusually', u'RB'))
+((u'rock', u'NN'), u'dep', (u'good', u'JJ'))
+((u'tempura', u'NN'), u'compound', (u'shrimp', u'NN'))
+((u'tempura', u'NN'), u'dep', (u'share', u'NN'))
+((u'share', u'NN'), u'amod', (u'awesome', u'JJ'))
+((u'share', u'NN'), u'amod', (u'great', u'JJ'))
+((u'share', u'NN'), u'compound', (u'appetizer', u'NN'))
+
+$$$$
+
+((u'went', u'VBD'), u'advmod', (u'around', u'RB'))
+((u'went', u'VBD'), u'nmod:tmod', (u'friday', u'NNP'))
+((u'friday', u'NNP'), u'nummod', (u'died', u'CD'))
+((u'went', u'VBD'), u'nsubj', (u'service', u'NN'))
+((u'service', u'NN'), u'compound', (u'bit', u'NN'))
+((u'service', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'love', u'VB'), u'dobj', (u'pink', u'NN'))
+((u'pink', u'NN'), u'compound', (u'th', u'NN'))
+((u'love', u'VB'), u'advmod', (u'pony', u'RB'))
+
+$$$$
+
+((u'spot', u'NN'), u'amod', (u'perfect', u'JJ'))
+
+$$$$
+
+((u'food', u'NN'), u'nummod', (u'awesome', u'CD'))
+
+$$$$
+
+((u'service', u'VB'), u'dobj', (u'attentive', u'NN'))
+((u'attentive', u'NN'), u'amod', (u'friendly', u'JJ'))
+
+$$$$
+
+((u'ambiance', u'VB'), u'dep', (u'relaxed', u'VBN'))
+((u'relaxed', u'VBN'), u'xcomp', (u'stylish', u'JJ'))
+
+$$$$
+
+((u'don', u'VBZ'), u'nsubj', (u'facie', u'NNP'))
+((u'facie', u'NNP'), u'compound', (u'judge', u'NN'))
+((u'facie', u'NNP'), u'compound', (u'place', u'NN'))
+((u'facie', u'NNP'), u'compound', (u'prima', u'NNP'))
+((u'don', u'VBZ'), u'dep', (u'try', u'VB'))
+((u'try', u'VB'), u'ccomp', (u'believe', u'VB'))
+((u'believe', u'VB'), u'dobj', (u'home', u'NN'))
+((u'believe', u'VB'), u'advmod', (u'away', u'RB'))
+((u'away', u'RB'), u'dep', (u'home', u'NN'))
+((u'believe', u'VB'), u'dep', (u'literate', u'VB'))
+((u'literate', u'VB'), u'dobj', (u'heart', u'NN'))
+
+$$$$
+
+((u'times', u'NNS'), u'amod', (u'eaten', u'JJ'))
+((u'times', u'NNS'), u'compound', (u'handful', u'NN'))
+((u'times', u'NNS'), u'dep', (u'reason', u'NN'))
+((u'reason', u'NN'), u'neg', (u'no', u'DT'))
+((u'reason', u'NN'), u'nmod', (u'convenience', u'NN'))
+((u'convenience', u'NN'), u'case', (u'besides', u'IN'))
+((u'convenience', u'NN'), u'amod', (u'sheer', u'JJ'))
+
+$$$$
+
+((u'hang', u'VB'), u'dobj', (u'neighborhood', u'NN'))
+((u'neighborhood', u'NN'), u'amod', (u'live', u'JJ'))
+
+$$$$
+
+((u'food', u'NN'), u'nummod', (u'decent', u'CD'))
+
+$$$$
+
+((u'service', u'NN'), u'dep', (u'however', u'RB'))
+((u'service', u'NN'), u'acl:relcl', (u'leaves', u'VBZ'))
+((u'leaves', u'VBZ'), u'dobj', (u'mouth', u'NN'))
+((u'mouth', u'NN'), u'amod', (u'bad', u'JJ'))
+((u'mouth', u'NN'), u'compound', (u'taste', u'NN'))
+
+$$$$
+
+((u'happen', u'VB'), u'ccomp', (u'make', u'VB'))
+((u'make', u'VB'), u'nsubj', (u'policy', u'NN'))
+((u'policy', u'NN'), u'dep', (u'goes', u'VBZ'))
+((u'goes', u'VBZ'), u'compound:prt', (u'along', u'RP'))
+((u'goes', u'VBZ'), u'dobj', (u'respect', u'NN'))
+((u'respect', u'NN'), u'amod', (u'little', u'JJ'))
+((u'respect', u'NN'), u'compound', (u'bit', u'NN'))
+((u'respect', u'NN'), u'compound', (u'self', u'NN'))
+((u'respect', u'NN'), u'acl:relcl', (u'includes', u'VBZ'))
+((u'includes', u'VBZ'), u'xcomp', (u'letting', u'VBG'))
+((u'letting', u'VBG'), u'neg', (u'not', u'RB'))
+((u'letting', u'VBG'), u'dobj', (u'intimidate', u'NNS'))
+((u'intimidate', u'NNS'), u'compound', (u'waiter', u'NN'))
+((u'letting', u'VBG'), u'dep', (u'e', u'SYM'))
+((u'make', u'VB'), u'xcomp', (u'feel', u'VB'))
+((u'feel', u'VB'), u'dobj', (u'trivialities', u'NNS'))
+((u'trivialities', u'NNS'), u'amod', (u'bad', u'JJ'))
+((u'trivialities', u'NNS'), u'compound', (u'asking', u'NN'))
+((u'feel', u'VB'), u'nmod', (u'check', u'NN'))
+((u'check', u'NN'), u'case', (u'like', u'IN'))
+((u'check', u'NN'), u'compound', (u'water', u'NN'))
+
+$$$$
+
+((u'know', u'VB'), u'xcomp', (u'busy', u'JJ'))
+((u'busy', u'JJ'), u'advmod', (u'too', u'RB'))
+((u'busy', u'JJ'), u'dep', (u'showing', u'VBG'))
+((u'showing', u'VBG'), u'dobj', (u'shirt', u'NN'))
+((u'shirt', u'NN'), u'amod', (u'vintage', u'JJ'))
+((u'shirt', u'NN'), u'compound', (u'tee', u'NN'))
+((u'showing', u'VBG'), u'advcl', (u'looking', u'VBG'))
+((u'looking', u'VBG'), u'xcomp', (u'bored', u'VBN'))
+((u'bored', u'VBN'), u'ccomp', (u'eat', u'VBP'))
+((u'eat', u'VBP'), u'nsubj', (u'agenda', u'NN'))
+((u'eat', u'VBP'), u'xcomp', (u'enjoy', u'VB'))
+((u'enjoy', u'VB'), u'dobj', (u'friends', u'NNS'))
+((u'friends', u'NNS'), u'compound', (u'company', u'NN'))
+((u'enjoy', u'VB'), u'xcomp', (u'seeking', u'VBG'))
+((u'seeking', u'VBG'), u'dobj', (u'experience', u'NN'))
+((u'experience', u'NN'), u'amod', (u'pleasant', u'JJ'))
+
+$$$$
+
+((u'find', u'VBP'), u'nsubj', (u'didn', u'NN'))
+((u'didn', u'NN'), u'advmod', (u'well', u'RB'))
+((u'find', u'VBP'), u'ccomp', (u'told', u'VBD'))
+((u'told', u'VBD'), u'nsubj', (u'trust', u'NN'))
+((u'told', u'VBD'), u'ccomp', (u'think', u'VBP'))
+((u'think', u'VBP'), u'nsubj', (u'everyone', u'NN'))
+((u'think', u'VBP'), u'dobj', (u'experience', u'NN'))
+
+$$$$
+
+((u'walked', u'VBD'), u'nsubj', (u'time', u'NN'))
+((u'time', u'NN'), u'amod', (u'last', u'JJ'))
+((u'walked', u'VBD'), u'ccomp', (u'looked', u'VBD'))
+((u'looked', u'VBD'), u'dobj', (u'hmmm', u'NN'))
+((u'hmmm', u'NN'), u'amod', (u'empty', u'JJ'))
+((u'empty', u'JJ'), u'advmod', (u'pretty', u'RB'))
+
+$$$$
+
+((u'japanese', u'JJ'), u'dep', (u'place', u'NN'))
+((u'japanese', u'JJ'), u'aux', (u'got', u'VBD'))
+((u'japanese', u'JJ'), u'cop', (u'be', u'VB'))
+((u'japanese', u'JJ'), u'advmod', (u'best', u'RB'))
+((u'japanese', u'JJ'), u'nsubj', (u'area', u'NN'))
+((u'area', u'NN'), u'nummod', (u'restaurant', u'CD'))
+((u'area', u'NN'), u'amod', (u'new', u'JJ'))
+((u'area', u'NN'), u'compound', (u'york', u'NN'))
+
+$$$$
+
+((u'experience', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'food', u'NN'), u'advmod', (u'great', u'RB'))
+
+$$$$
+
+((u'service', u'VB'), u'dobj', (u'notch', u'NNS'))
+((u'notch', u'NNS'), u'amod', (u'top', u'JJ'))
+
+$$$$
+
+((u'going', u'VBG'), u'aux', (u'been', u'VBN'))
+((u'going', u'VBG'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'tend', u'VB'), u'dobj', (u'urchin', u'NN'))
+((u'urchin', u'NN'), u'compound', (u'judge', u'NN'))
+((u'urchin', u'NN'), u'compound', (u'sushi', u'NN'))
+((u'urchin', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'urchin', u'NN'), u'compound', (u'sea', u'NN'))
+((u'urchin', u'NN'), u'acl:relcl', (u'rose', u'VBD'))
+((u'rose', u'VBD'), u'nsubj', (u'sushi', u'NN'))
+((u'sushi', u'NN'), u'amod', (u'heavenly', u'JJ'))
+
+$$$$
+
+((u'consistency', u'NN'), u'amod', (u'mouth', u'NN'))
+((u'mouth', u'NN'), u'amod', (u'melted', u'JJ'))
+((u'mouth', u'NN'), u'amod', (u'little', u'JJ'))
+((u'consistency', u'NN'), u'amod', (u'perfect', u'JJ'))
+((u'consistency', u'NN'), u'dep', (u'fishy', u'JJ'))
+((u'fishy', u'JJ'), u'neg', (u'not', u'RB'))
+((u'fishy', u'JJ'), u'advmod', (u'too', u'RB'))
+((u'consistency', u'NN'), u'parataxis', (u'slightly', u'RB'))
+((u'slightly', u'RB'), u'dep', (u'buttery', u'RB'))
+
+$$$$
+
+((u'seemed', u'VBD'), u'nsubj', (u'sushi', u'NN'))
+((u'seemed', u'VBD'), u'xcomp', (u'fresh', u'JJ'))
+((u'fresh', u'JJ'), u'advmod', (u'pretty', u'RB'))
+((u'seemed', u'VBD'), u'advmod', (u'adequately', u'RB'))
+((u'seemed', u'VBD'), u'advmod', (u'proportioned', u'RB'))
+
+$$$$
+
+((u'try', u'VBP'), u'nsubj', (u'ration', u'NN'))
+((u'ration', u'NN'), u'compound', (u'rice', u'NN'))
+((u'ration', u'NN'), u'compound', (u'fish', u'NN'))
+((u'ration', u'NN'), u'acl:relcl', (u'didn', u'NN'))
+((u'didn', u'NN'), u'advmod', (u'also', u'RB'))
+((u'didn', u'NN'), u'amod', (u'good', u'JJ'))
+((u'try', u'VBP'), u'dobj', (u'rice', u'NN'))
+((u'rice', u'NN'), u'compound', (u'overpack', u'NN'))
+
+$$$$
+
+((u'took', u'VBD'), u'dobj', (u'deal', u'NN'))
+((u'deal', u'NN'), u'amod', (u'advanatage', u'JJ'))
+((u'deal', u'NN'), u'compound', (u'half', u'NN'))
+((u'deal', u'NN'), u'compound', (u'price', u'NN'))
+((u'deal', u'NN'), u'compound', (u'sushi', u'NN'))
+((u'took', u'VBD'), u'nsubj', (u'saturday', u'NNP'))
+((u'saturday', u'NNP'), u'amod', (u'worth', u'JJ'))
+((u'worth', u'JJ'), u'advmod', (u'well', u'RB'))
+
+$$$$
+
+((u'went', u'VBD'), u'nsubj', (u'woman', u'NN'))
+((u'woman', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'woman', u'NN'), u'acl', (u'met', u'VBN'))
+((u'met', u'VBN'), u'advmod', (u'recently', u'RB'))
+
+$$$$
+
+((u'touristy', u'JJ'), u'nsubj', (u'lives', u'NNS'))
+((u'lives', u'NNS'), u'amod', (u'nearby', u'JJ'))
+((u'lives', u'NNS'), u'acl', (u'gone', u'VBN'))
+((u'gone', u'VBN'), u'neg', (u'never', u'RB'))
+((u'gone', u'VBN'), u'dobj', (u'thinking', u'NN'))
+((u'thinking', u'NN'), u'compound', (u'establishment', u'NN'))
+((u'touristy', u'JJ'), u'aux', (u'might', u'MD'))
+((u'touristy', u'JJ'), u'cop', (u'be', u'VB'))
+((u'touristy', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'truth', u'NN'), u'nsubj', (u'nothing', u'NN'))
+((u'nothing', u'NN'), u'advmod', (u'surprisingly', u'RB'))
+((u'truth', u'NN'), u'aux', (u'could', u'MD'))
+((u'truth', u'NN'), u'cop', (u'be', u'VB'))
+
+$$$$
+
+((u'dressed', u'VBD'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'compound', (u'evening', u'NN'))
+((u'place', u'NN'), u'acl', (u'attracted', u'VBN'))
+((u'attracted', u'VBN'), u'advmod', (u'well', u'RB'))
+((u'dressed', u'VBD'), u'dobj', (u'crowd', u'NN'))
+((u'crowd', u'NN'), u'compound', (u'ny', u'NN'))
+
+$$$$
+
+((u'prepared', u'VBN'), u'nsubj', (u'food', u'NN'))
+((u'prepared', u'VBN'), u'advmod', (u'well', u'RB'))
+((u'prepared', u'VBN'), u'dobj', (u'impecable', u'NN'))
+((u'impecable', u'NN'), u'compound', (u'service', u'NN'))
+
+$$$$
+
+((u'going', u'VBG'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'hunted', u'VBN'), u'aux', (u'having', u'VBG'))
+((u'hunted', u'VBN'), u'nmod', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'case', (u'around', u'IN'))
+((u'restaurant', u'NN'), u'amod', (u'romantic', u'JJ'))
+((u'romantic', u'JJ'), u'amod', (u'quiet', u'JJ'))
+((u'romantic', u'JJ'), u'cc', (u'yet', u'CC'))
+((u'romantic', u'JJ'), u'conj', (u'not', u'RB'))
+((u'romantic', u'JJ'), u'dep', (u'expensive', u'JJ'))
+((u'expensive', u'JJ'), u'advmod', (u'hideously', u'RB'))
+((u'restaurant', u'NN'), u'acl', (u'stumbled', u'VBN'))
+((u'stumbled', u'VBN'), u'nmod', (u'reviews', u'NNS'))
+((u'reviews', u'NNS'), u'case', (u'across', u'IN'))
+((u'reviews', u'NNS'), u'acl:relcl', (u'gave', u'VBD'))
+((u'gave', u'VBD'), u'nsubj', (u'lanterna', u'NN'))
+((u'lanterna', u'NN'), u'det', (u'la', u'DT'))
+((u'gave', u'VBD'), u'dobj', (u'shot', u'NN'))
+
+$$$$
+
+((u'tranquility', u'NN'), u'advmod', (u'quite', u'RB'))
+((u'tranquility', u'NN'), u'advmod', (u'simply', u'RB'))
+((u'tranquility', u'NN'), u'amod', (u'like', u'JJ'))
+((u'tranquility', u'NN'), u'amod', (u'stepping', u'JJ'))
+((u'tranquility', u'NN'), u'amod', (u'manhattan', u'JJ'))
+((u'tranquility', u'NN'), u'compound', (u'haven', u'NN'))
+
+$$$$
+
+((u'service', u'VB'), u'iobj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'attentive', u'JJ'))
+((u'attentive', u'JJ'), u'cc', (u'yet', u'CC'))
+((u'attentive', u'JJ'), u'conj', (u'unimposing', u'JJ'))
+((u'food', u'NN'), u'amod', (u'better', u'JJR'))
+((u'better', u'JJR'), u'advmod', (u'far', u'RB'))
+((u'service', u'VB'), u'dobj', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'restaurants', u'NNS'), u'amod', (u'notorious', u'JJ'))
+((u'restaurants', u'NNS'), u'dep', (u'list', u'NN'))
+((u'list', u'NN'), u'amod', (u'midtown', u'JJ'))
+((u'list', u'NN'), u'compound', (u'wine', u'NN'))
+((u'service', u'VB'), u'nsubj', (u'extensive', u'JJ'))
+((u'extensive', u'JJ'), u'amod', (u'priced', u'VBN'))
+((u'priced', u'VBN'), u'advmod', (u'well', u'RB'))
+
+$$$$
+
+((u'prix', u'VB'), u'ccomp', (u'get', u'VB'))
+((u'get', u'VB'), u'nsubj', (u'penny', u'NN'))
+((u'penny', u'NN'), u'amod', (u'fixe', u'JJ'))
+((u'penny', u'NN'), u'compound', (u'menu', u'NN'))
+((u'penny', u'NN'), u'compound', (u'worth', u'NN'))
+((u'get', u'VB'), u'dobj', (u'quality', u'NN'))
+((u'quality', u'NN'), u'amod', (u'enough', u'JJ'))
+((u'quality', u'NN'), u'compound', (u'quantity', u'NN'))
+
+$$$$
+
+((u'going', u'VBG'), u'aux', (u'be', u'VB'))
+((u'going', u'VBG'), u'compound:prt', (u'back', u'RP'))
+((u'going', u'VBG'), u'dobj', (u'recommend', u'NNS'))
+((u'recommend', u'NNS'), u'amod', (u'heartily', u'JJ'))
+
+$$$$
+
+((u'lunch', u'NN'), u'compound', (u've', u'NN'))
+((u'lunch', u'NN'), u'dep', (u'buffet', u'VB'))
+((u'buffet', u'VB'), u'dobj', (u'times', u'NNS'))
+((u'times', u'NNS'), u'amod', (u'chennai', u'JJ'))
+((u'times', u'NNS'), u'compound', (u'couple', u'NN'))
+((u'times', u'NNS'), u'acl', (u'neighborhood', u'NN'))
+((u'neighborhood', u'NN'), u'cop', (u'been', u'VBN'))
+
+$$$$
+
+((u'value', u'NN'), u'amod', (u'terrific', u'JJ'))
+
+$$$$
+
+((u'refilled', u'VBD'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'tasty', u'JJ'))
+((u'tasty', u'JJ'), u'advmod', (u'much', u'RB'))
+((u'food', u'NN'), u'amod', (u'fresh', u'JJ'))
+((u'refilled', u'VBD'), u'advmod', (u'continually', u'RB'))
+
+$$$$
+
+((u'not', u'RB'), u'dep', (u'great', u'JJ'))
+((u'great', u'JJ'), u'nmod:npmod', (u'vegetarian', u'NN'))
+((u'vegetarian', u'NN'), u'amod', (u'dishes', u'JJ'))
+((u'dishes', u'JJ'), u'advmod', (u'almost', u'RB'))
+
+$$$$
+
+((u'compare', u'VBP'), u'advmod', (u'frankly', u'RB'))
+((u'compare', u'VBP'), u'dobj', (u'lunch', u'NN'))
+((u'lunch', u'NN'), u'nmod', (u'city', u'NN'))
+((u'city', u'NN'), u'case', (u'versus', u'IN'))
+((u'city', u'NN'), u'amod', (u'mcds', u'JJ'))
+((u'city', u'NN'), u'amod', (u'many', u'JJ'))
+((u'city', u'NN'), u'compound', (u'sandwich', u'NN'))
+((u'city', u'NN'), u'compound', (u'shops', u'NNS'))
+((u'compare', u'VBP'), u'nsubj', (u'comparison', u'NN'))
+((u'comparison', u'NN'), u'neg', (u'no', u'DT'))
+
+$$$$
+
+((u'go', u'VB'), u'xcomp', (u'hungry', u'JJ'))
+((u'hungry', u'JJ'), u'ccomp', (u'enjoy', u'VBP'))
+
+$$$$
+
+((u'food', u'NN'), u'amod', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'rather', u'RB'))
+((u'food', u'NN'), u'nmod', (u'wait', u'NN'))
+((u'wait', u'NN'), u'case', (u'like', u'IN'))
+
+$$$$
+
+((u'somosas', u'NNS'), u'amod', (u'like', u'JJ'))
+((u'somosas', u'NNS'), u'dep', (u'dhosas', u'NNS'))
+((u'dhosas', u'NNS'), u'amod', (u'chai', u'JJ'))
+((u'dhosas', u'NNS'), u'compound', (u'chole', u'NN'))
+((u'somosas', u'NNS'), u'dep', (u'dissapointing', u'NN'))
+((u'dissapointing', u'NN'), u'amod', (u'dhal', u'JJ'))
+
+$$$$
+
+((u'day', u'NN'), u'compound', (u'service', u'NN'))
+((u'day', u'NN'), u'compound', (u'varys', u'NN'))
+((u'day', u'NN'), u'compound', (u'day', u'NN'))
+((u'day', u'NN'), u'dep', (u're', u'VB'))
+((u're', u'VB'), u'advmod', (u'sometimes', u'RB'))
+((u're', u'VB'), u'xcomp', (u'nice', u'JJ'))
+((u'nice', u'JJ'), u'advmod', (u'very', u'RB'))
+((u're', u'VB'), u'neg', (u'not', u'RB'))
+((u'not', u'RB'), u'advmod', (u'sometimes', u'RB'))
+
+$$$$
+
+((u'kitchen', u'NN'), u'advmod', (u'however', u'RB'))
+((u'kitchen', u'NN'), u'dep', (u'slow', u'JJ'))
+((u'slow', u'JJ'), u'advmod', (u'almost', u'RB'))
+((u'slow', u'JJ'), u'advmod', (u'always', u'RB'))
+
+$$$$
+
+((u'specify', u'VB'), u'advmod', (u'also', u'RB'))
+((u'specify', u'VB'), u'nmod', (u'food', u'NN'))
+((u'food', u'NN'), u'case', (u'like', u'IN'))
+((u'specify', u'VB'), u'advcl', (u'spicy', u'RB'))
+((u'spicy', u'RB'), u'dep', (u'rather', u'RB'))
+((u'spicy', u'RB'), u'dep', (u'don', u'NN'))
+((u'don', u'NN'), u'dep', (u'bland', u'JJ'))
+
+$$$$
+
+((u'ambience', u'VB'), u'dobj', (u'conversation', u'NN'))
+((u'conversation', u'NN'), u'amod', (u'nice', u'JJ'))
+((u'nice', u'JJ'), u'advmod', (u'pretty', u'RB'))
+((u'conversation', u'NN'), u'acl:relcl', (u'best', u'JJS'))
+((u'best', u'JJS'), u'nsubj', (u'lunch', u'NN'))
+((u'lunch', u'NN'), u'amod', (u'casual', u'JJ'))
+((u'best', u'JJS'), u'aux', (u'would', u'MD'))
+((u'best', u'JJS'), u'advmod', (u'probably', u'RB'))
+((u'best', u'JJS'), u'cop', (u'be', u'VB'))
+
+$$$$
+
+((u'went', u'VBD'), u'dobj', (u'girlfriends', u'NNS'))
+((u'went', u'VBD'), u'nsubj', (u'bday', u'NN'))
+((u'bday', u'NN'), u'nummod', (u'rd', u'CD'))
+
+$$$$
+
+((u've', u'VB'), u'dobj', (u'ever', u'RB'))
+((u'ever', u'RB'), u'acl', (u'idea', u'NN'))
+((u'idea', u'NN'), u'cop', (u'been', u'VBN'))
+((u'idea', u'NN'), u'case', (u'along', u'IN'))
+((u'idea', u'NN'), u'compound', (u'river', u'NN'))
+((u'idea', u'NN'), u'compound', (u'weehawken', u'NN'))
+((u'idea', u'NN'), u'dep', (u'offer', u'NN'))
+((u'offer', u'NN'), u'amod', (u'top', u'JJ'))
+((u'offer', u'NN'), u'compound', (u'view', u'NN'))
+((u'offer', u'NN'), u'compound', (u'chart', u'NN'))
+((u'offer', u'NN'), u'compound', (u'house', u'NN'))
+
+$$$$
+
+((u'add', u'VBP'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'great', u'JJ'))
+((u'food', u'NN'), u'compound', (u'service', u'NN'))
+((u'food', u'NN'), u'amod', (u'great', u'JJ'))
+((u'add', u'VBP'), u'nsubj', (u'price', u'NN'))
+((u'price', u'NN'), u'amod', (u'reasonable', u'JJ'))
+((u'price', u'NN'), u'acl', (u'beginning', u'VBG'))
+((u'beginning', u'VBG'), u'nmod:tmod', (u'evening', u'NN'))
+((u'evening', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'recommend', u'VBP'), u'nsubj', (u'incredible', u'NNS'))
+((u'incredible', u'NNS'), u'amod', (u'lava', u'JJ'))
+((u'incredible', u'NNS'), u'compound', (u'cake', u'NN'))
+((u'incredible', u'NNS'), u'compound', (u'dessert', u'NN'))
+
+$$$$
+
+((u'step', u'VB'), u'dobj', (u're', u'NN'))
+((u're', u'NN'), u'amod', (u'cosette', u'JJ'))
+((u're', u'NN'), u'amod', (u'small', u'JJ'))
+((u'small', u'JJ'), u'advmod', (u'miraculously', u'RB'))
+((u'step', u'VB'), u'nsubj', (u'bistro', u'NN'))
+((u'bistro', u'NN'), u'nummod', (u'beaten', u'CD'))
+((u'bistro', u'NN'), u'compound', (u'path', u'NN'))
+((u'bistro', u'NN'), u'compound', (u'parisian', u'NN'))
+
+$$$$
+
+((u'gets', u'VBZ'), u'nsubj', (u'cozy', u'NN'))
+((u'cozy', u'NN'), u'amod', (u'tiny', u'JJ'))
+((u'cozy', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'gets', u'VBZ'), u'dobj', (u'flair', u'NN'))
+((u'flair', u'NN'), u'amod', (u'certain', u'JJ'))
+((u'flair', u'NN'), u'compound', (u'parisian', u'NN'))
+
+$$$$
+
+((u'desserts', u'VBZ'), u'nsubj', (u'soup', u'NN'))
+((u'soup', u'NN'), u'compound', (u'food', u'NN'))
+((u'soup', u'NN'), u'amod', (u'average', u'JJ'))
+((u'soup', u'NN'), u'amod', (u'average', u'JJ'))
+((u'soup', u'NN'), u'amod', (u'french', u'JJ'))
+((u'soup', u'NN'), u'compound', (u'onion', u'NN'))
+((u'soup', u'NN'), u'acl', (u'filling', u'VBG'))
+((u'filling', u'VBG'), u'advmod', (u'yet', u'RB'))
+((u'filling', u'VBG'), u'advcl', (u'impressive', u'JJ'))
+((u'impressive', u'JJ'), u'neg', (u'not', u'RB'))
+((u'impressive', u'JJ'), u'advmod', (u'overly', u'RB'))
+((u'desserts', u'VBZ'), u'dobj', (u'way', u'NN'))
+((u'way', u'NN'), u'neg', (u'not', u'RB'))
+((u'way', u'NN'), u'amod', (u'brilliant', u'JJ'))
+
+$$$$
+
+((u'go', u'VB'), u'advmod', (u'however', u'RB'))
+((u'go', u'VB'), u'ccomp', (u'consider', u'VB'))
+((u'consider', u'VB'), u'nsubj', (u'ambience', u'NN'))
+((u'consider', u'VB'), u'dobj', (u'trip', u'NN'))
+((u'trip', u'NN'), u'compound', (u'food', u'NN'))
+((u'trip', u'NN'), u'compound', (u'companion', u'NN'))
+((u'trip', u'NN'), u'nmod', (u'world', u'NN'))
+((u'world', u'NN'), u'case', (u'across', u'IN'))
+
+$$$$
+
+((u'eaten', u'VBN'), u'neg', (u'never', u'RB'))
+((u'eaten', u'VBN'), u'dobj', (u'restaurant', u'NN'))
+((u'eaten', u'VBN'), u'advcl', (u'reading', u'VBG'))
+((u'reading', u'VBG'), u'advmod', (u'however', u'RB'))
+((u'reading', u'VBG'), u'mark', (u'upon', u'IN'))
+((u'reading', u'VBG'), u'ccomp', (u'take', u'VB'))
+((u'take', u'VB'), u'nsubj', (u'reviews', u'NNS'))
+((u'take', u'VB'), u'aux', (u'got', u'VBD'))
+((u'take', u'VB'), u'nmod:tmod', (u'week', u'NN'))
+((u'week', u'NN'), u'amod', (u'last', u'JJ'))
+
+$$$$
+
+
+$$$$
+
+((u'delivered', u'VBN'), u'nsubj', (u'pizza', u'NN'))
+((u'delivered', u'VBN'), u'xcomp', (u'melted', u'JJ'))
+((u
+
+
+=============================  NEW RUN ===============================================
+
+u'wasn', u'NN'), u'compound', (u'cheese', u'NN'))
+((u'melted', u'JJ'), u'advmod', (u'even', u'RB'))
+((u'melted', u'JJ'), u'advmod', (u'fully', u'RB'))
+
+$$$$
+
+((u'looked', u'VBD'), u'nmod', (u'cheese', u'NN'))
+((u'cheese', u'NN'), u'case', (u'like', u'IN'))
+((u'cheese', u'NN'), u'amod', (u'shredded', u'JJ'))
+((u'cheese', u'NN'), u'acl', (u'done', u'VBN'))
+((u'done', u'VBN'), u'advmod', (u'partly', u'RB'))
+((u'done', u'VBN'), u'advmod', (u'still', u'RB'))
+((u'looked', u'VBD'), u'nsubj', (u'strips', u'NNS'))
+
+$$$$
+
+((u'eaten', u'VBN'), u'xcomp', (u'worst', u'JJS'))
+((u'worst', u'JJS'), u'nsubj', (u'places', u'NNS'))
+((u'places', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'places', u'NNS'), u'compound', (u'pizza', u'NN'))
+((u'places', u'NNS'), u'nmod', (u'hands', u'NNS'))
+((u'hands', u'NNS'), u'case', (u'around', u'IN'))
+((u'hands', u'NNS'), u'compound', (u'nyc', u'NN'))
+
+$$$$
+
+((u'overrated', u'VBN'), u'aux', (u'got', u'VBD'))
+((u'overrated', u'VBN'), u'auxpass', (u'be', u'VB'))
+((u'overrated', u'VBN'), u'dobj', (u'restaurants', u'NNS'))
+((u'overrated', u'VBN'), u'nsubjpass', (u'brooklyn', u'NN'))
+
+$$$$
+
+((u'soggy', u'NNPS'), u'amod', (u'overpriced', u'JJ'))
+((u'overpriced', u'JJ'), u'advmod', (u'pizza', u'RB'))
+
+$$$$
+
+((u'yes', u'RB'), u'dep', (u'use', u'VB'))
+((u'use', u'VB'), u'dobj', (u'ingredients', u'NNS'))
+((u'ingredients', u'NNS'), u'amod', (u'fancy', u'JJ'))
+((u'use', u'VB'), u'dep', (u'don', u'VB'))
+((u'don', u'VB'), u'advmod', (u'even', u'RB'))
+((u'don', u'VB'), u'nsubj', (u'ingredients', u'NNS'))
+((u'ingredients', u'NNS'), u'amod', (u'fancy', u'JJ'))
+((u'don', u'VB'), u'xcomp', (u'make', u'VB'))
+((u'make', u'VB'), u'dobj', (u'pizza', u'NN'))
+((u'pizza', u'NN'), u'amod', (u'good', u'JJ'))
+((u'make', u'VB'), u'advcl', (u'knows', u'VBZ'))
+((u'knows', u'VBZ'), u'mark', (u'unless', u'IN'))
+((u'knows', u'VBZ'), u'xcomp', (u'get', u'VB'))
+((u'get', u'VB'), u'dobj', (u'right', u'NN'))
+((u'right', u'NN'), u'compound', (u'crust', u'NN'))
+
+$$$$
+
+((u'disappointment', u'NN'), u'amod', (u'big', u'JJ'))
+((u'disappointment', u'NN'), u'advmod', (u'around', u'RB'))
+
+$$$$
+
+((u'think', u'VBP'), u'dobj', (u've', u'NN'))
+((u'think', u'VBP'), u'advmod', (u'best', u'RBS'))
+((u'think', u'VBP'), u'nsubj', (u'minnow', u'NN'))
+((u'minnow', u'NN'), u'nummod', (u'meals', u'CD'))
+((u'minnow', u'NN'), u'compound', (u'life', u'NN'))
+
+$$$$
+
+((u'offers', u'VBZ'), u'nsubj', (u'list', u'NN'))
+((u'list', u'NN'), u'compound', (u'seafood', u'NN'))
+((u'list', u'NN'), u'amod', (u'amazing', u'JJ'))
+((u'list', u'NN'), u'amod', (u'good', u'JJ'))
+((u'list', u'NN'), u'compound', (u'wine', u'NN'))
+((u'list', u'NN'), u'acl', (u'changing', u'VBG'))
+((u'changing', u'VBG'), u'advmod', (u'ever', u'RB'))
+((u'changing', u'VBG'), u'dobj', (u'menu', u'NN'))
+((u'changing', u'VBG'), u'advmod', (u'always', u'RB'))
+((u'offers', u'VBZ'), u'dobj', (u'surprises', u'NNS'))
+((u'surprises', u'NNS'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'delicious', u'JJ'), u'dep', (u'ingredients', u'NNS'))
+((u'ingredients', u'NNS'), u'compound', (u'combination', u'NN'))
+((u'ingredients', u'NNS'), u'amod', (u'super', u'JJ'))
+((u'ingredients', u'NNS'), u'amod', (u'fresh', u'JJ'))
+((u'ingredients', u'NNS'), u'amod', (u'unusual', u'JJ'))
+((u'unusual', u'JJ'), u'advmod', (u'dishes', u'RB'))
+((u'delicious', u'JJ'), u'advmod', (u'really', u'RB'))
+
+$$$$
+
+((u'manhattan', u'NNS'), u'amod', (u'worth', u'JJ'))
+((u'manhattan', u'NNS'), u'compound', (u'trip', u'NN'))
+
+$$$$
+
+((u'night', u'NNP'), u'compound', (u'friday', u'NNP'))
+
+$$$$
+
+((u'pastrami', u'NNS'), u'amod', (u'best', u'JJS'))
+((u'pastrami', u'NNS'), u'dep', (u'portion', u'NN'))
+((u'portion', u'NN'), u'amod', (u'great', u'JJ'))
+((u'great', u'JJ'), u'advmod', (u'ever', u'RB'))
+((u'pastrami', u'NNS'), u'dep', (u'ridiculous', u'JJ'))
+((u'ridiculous', u'JJ'), u'mark', (u'without', u'IN'))
+((u'ridiculous', u'JJ'), u'cop', (u'being', u'VBG'))
+
+$$$$
+
+((u'delis', u'NNS'), u'aux', (u've', u'VB'))
+((u'delis', u'NNS'), u'cop', (u'been', u'VBN'))
+((u'delis', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'delis', u'NNS'), u'compound', (u'nyc', u'NN'))
+
+$$$$
+
+((u'wife', u'NN'), u'dep', (u'shrimp', u'NN'))
+((u'shrimp', u'NN'), u'amod', (u'fried', u'JJ'))
+((u'wife', u'NN'), u'dep', (u'loved', u'NNS'))
+((u'loved', u'NNS'), u'amod', (u'huge', u'JJ'))
+
+$$$$
+
+((u'price', u'VB'), u'xcomp', (u'better', u'JJR'))
+((u'better', u'JJR'), u'nsubj', (u'way', u'NN'))
+((u'way', u'NN'), u'neg', (u'no', u'DT'))
+((u'way', u'NN'), u'compound', (u'jersey', u'NN'))
+((u'way', u'NN'), u'compound', (u'deli', u'NNS'))
+
+$$$$
+
+((u'lived', u'VBD'), u'dep', (u've', u'NN'))
+((u've', u'NN'), u'amod', (u'japanese', u'JJ'))
+((u've', u'NN'), u'amod', (u'native', u'JJ'))
+((u'lived', u'VBD'), u'nmod:tmod', (u'years', u'NNS'))
+((u'years', u'NNS'), u'amod', (u'tristate', u'JJ'))
+((u'years', u'NNS'), u'compound', (u'area', u'NN'))
+((u'lived', u'VBD'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'amazed', u'JJ'))
+
+$$$$
+
+((u'place', u'VB'), u'dobj', (u'japanese', u'NN'))
+((u'place', u'VB'), u'advmod', (u'ever', u'RB'))
+((u'place', u'VB'), u'dep', (u'get', u'VB'))
+
+$$$$
+
+((u'signs', u'VBZ'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'compound', (u'specials', u'NNS'))
+((u'food', u'NN'), u'amod', (u'menus', u'VBG'))
+((u'signs', u'VBZ'), u'advmod', (u'even', u'RB'))
+((u'signs', u'VBZ'), u'nsubj', (u'waitstaff', u'NN'))
+((u'waitstaff', u'NN'), u'amod', (u'japanese', u'JJ'))
+((u'japanese', u'JJ'), u'advmod', (u'totally', u'RB'))
+
+$$$$
+
+((u'drive', u'NN'), u'compound', (u'place', u'NN'))
+((u'drive', u'NN'), u'compound', (u'worth', u'NN'))
+((u'drive', u'NN'), u'compound', (u'hour', u'NN'))
+
+$$$$
+
+((u'coming', u'VBG'), u'advmod', (u'much', u'RB'))
+((u'much', u'RB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'leon', u'VB'), u'dobj', (u'gem', u'NN'))
+((u'gem', u'NN'), u'amod', (u'east', u'JJ'))
+((u'gem', u'NN'), u'compound', (u'village', u'NN'))
+((u'gem', u'NN'), u'acl:relcl', (u'prepared', u'VBD'))
+((u'prepared', u'VBD'), u'nsubj', (u'hip', u'NN'))
+((u'hip', u'NN'), u'amod', (u'casual', u'JJ'))
+((u'prepared', u'VBD'), u'advmod', (u'well', u'RB'))
+((u'prepared', u'VBD'), u'ccomp', (u'fare', u'VBP'))
+((u'fare', u'VBP'), u'nsubj', (u'bistro', u'NN'))
+((u'bistro', u'NN'), u'amod', (u'basic', u'JJ'))
+((u'bistro', u'NN'), u'amod', (u'french', u'JJ'))
+((u'fare', u'VBP'), u'ccomp', (u'warm', u'VB'))
+((u'warm', u'VB'), u'nsubj', (u'specials', u'NNS'))
+((u'specials', u'NNS'), u'amod', (u'good', u'JJ'))
+((u'warm', u'VB'), u'dobj', (u'atmosphere', u'NN'))
+((u'atmosphere', u'NN'), u'amod', (u'lively', u'JJ'))
+
+$$$$
+
+((u'enjoy', u'VBP'), u'nsubj', (u'wife', u'NN'))
+((u'enjoy', u'VBP'), u'advmod', (u'always', u'RB'))
+((u'enjoy', u'VBP'), u'dobj', (u'young', u'JJ'))
+((u'young', u'JJ'), u'acl', (u'trained', u'VBN'))
+((u'trained', u'VBN'), u'advmod', (u'well', u'RB'))
+((u'well', u'RB'), u'dep', (u'not', u'RB'))
+((u'well', u'RB'), u'advmod', (u'always', u'RB'))
+((u'trained', u'VBN'), u'advmod', (u'nevertheless', u'RB'))
+((u'trained', u'VBN'), u'dobj', (u'story', u'NN'))
+((u'story', u'NN'), u'amod', (u'friendly', u'JJ'))
+((u'story', u'NN'), u'compound', (u'staff', u'NN'))
+
+$$$$
+
+((u'sit', u'VB'), u'nmod', (u'weather', u'NN'))
+((u'weather', u'NN'), u'case', (u'outside', u'IN'))
+((u'weather', u'NN'), u'amod', (u'warm', u'JJ'))
+((u'weather', u'NN'), u'nmod', (u'winter', u'NN'))
+((u'winter', u'NN'), u'case', (u'inside', u'IN'))
+((u'winter', u'NN'), u'amod', (u'cozy', u'JJ'))
+
+$$$$
+
+((u'wine', u'NN'), u'amod', (u'decent', u'JJ'))
+((u'wine', u'NN'), u'dep', (u'prices', u'NNS'))
+((u'prices', u'NNS'), u'amod', (u'reasonable', u'JJ'))
+
+$$$$
+
+((u'times', u'NNS'), u'cop', (u'been', u'VBN'))
+((u'times', u'NNS'), u'compound', (u'dozens', u'NNS'))
+((u'times', u'NNS'), u'neg', (u'never', u'RB'))
+((u'times', u'NNS'), u'dep', (u'failed', u'VBD'))
+((u'times', u'NNS'), u'nsubj', (u'experience', u'NN'))
+((u'experience', u'NN'), u'nummod', (u'enjoy', u'CD'))
+
+$$$$
+
+((u'love', u'VBP'), u'nsubj', (u'kids', u'NNS'))
+((u'kids', u'NNS'), u'amod', (u'teenage', u'JJ'))
+((u'love', u'VBP'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'everytime', u'VB'), u'xcomp', (u'decide', u'VB'))
+((u'decide', u'VB'), u'xcomp', (u'try', u'VB'))
+((u'try', u'VB'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'nsubj', (u'ues', u'NN'))
+((u'ues', u'NN'), u'det', (u'another', u'DT'))
+((u'ues', u'NN'), u'compound', (u'place', u'NN'))
+((u'go', u'VB'), u'aux', (u'get', u'VB'))
+((u'go', u'VB'), u'dobj', (u'didn', u'NN'))
+((u'didn', u'NN'), u'amod', (u'angry', u'JJ'))
+((u'go', u'VB'), u'dobj', (u'pomodori', u'NNS'))
+((u'pomodori', u'NNS'), u'compound', (u'zucchero', u'NN'))
+
+$$$$
+
+((u'neighborhood', u'NN'), u'dep', (u'far', u'RB'))
+((u'neighborhood', u'NN'), u'amod', (u'favorite', u'JJ'))
+((u'neighborhood', u'NN'), u'compound', (u'place', u'NN'))
+
+$$$$
+
+((u'service', u'VB'), u'dobj', (u'decor', u'NN'))
+((u'decor', u'NN'), u'amod', (u'excellent', u'JJ'))
+((u'service', u'VB'), u'dep', (u'comes', u'VBZ'))
+((u'comes', u'VBZ'), u'nsubj', (u'delicious', u'NNS'))
+((u'delicious', u'NNS'), u'amod', (u'great', u'JJ'))
+((u'delicious', u'NNS'), u'compound', (u'food', u'NN'))
+((u'comes', u'VBZ'), u'dobj', (u'portions', u'NNS'))
+((u'portions', u'NNS'), u'amod', (u'large', u'JJ'))
+
+$$$$
+
+((u'pay', u'VB'), u'aux', (u'll', u'VBP'))
+((u'pay', u'VB'), u'dobj', (u'city', u'NN'))
+((u'city', u'NN'), u'amod', (u'double', u'JJ'))
+((u'double', u'JJ'), u'dep', (u'least', u'JJS'))
+((u'city', u'NN'), u'amod', (u'italian', u'JJ'))
+((u'city', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'pay', u'VB'), u'advmod', (u'still', u'RB'))
+((u'pay', u'VB'), u'nsubj', (u'compare', u'NNP'))
+((u'compare', u'NNP'), u'compound', (u'don', u'NNP'))
+
+$$$$
+
+((u'gnocchi', u'NNS'), u'amod', (u'partial', u'JJ'))
+
+$$$$
+
+((u'place', u'VB'), u'xcomp', (u'tiny', u'JJ'))
+((u'tiny', u'JJ'), u'advmod', (u'incredibly', u'RB'))
+
+$$$$
+
+((u'refuse', u'VB'), u'iobj', (u'parties', u'NNS'))
+((u'parties', u'NNS'), u'compound', (u'seat', u'NN'))
+((u'refuse', u'VB'), u'dobj', (u'weekends', u'NNS'))
+
+$$$$
+
+((u'hostess', u'VBZ'), u'nsubj', (u'point', u'NN'))
+((u'point', u'NN'), u'amod', (u'rude', u'JJ'))
+((u'point', u'NN'), u'acl', (u'offensive', u'JJ'))
+((u'offensive', u'JJ'), u'cop', (u'being', u'VBG'))
+
+$$$$
+
+((u'oily', u'NNPS'), u'amod', (u'bland', u'JJ'))
+((u'bland', u'JJ'), u'nmod:npmod', (u'food', u'NN'))
+
+$$$$
+
+((u'don', u'VB'), u'xcomp', (u'understand', u'VB'))
+((u'understand', u'VB'), u'dobj', (u'hype', u'NN'))
+
+$$$$
+
+((u'went', u'VBD'), u'nsubj', (u'valentines', u'NNS'))
+((u'valentines', u'NNS'), u'compound', (u'ino', u'NN'))
+
+$$$$
+
+((u'place', u'NN'), u'cop', (u'been', u'VBN'))
+((u'place', u'NN'), u'dep', (u'times', u'NNS'))
+((u'times', u'NNS'), u'advmod', (u'many', u'JJ'))
+((u'place', u'NN'), u'advmod', (u'always', u'RB'))
+((u'place', u'NN'), u'advmod', (u'great', u'RB'))
+((u'place', u'NN'), u'dep', (u'service', u'NN'))
+((u'service', u'NN'), u'compound', (u'food', u'NN'))
+((u'service', u'NN'), u'compound', (u'wine', u'NN'))
+
+$$$$
+
+((u'trouble', u'VB'), u'dep', (u'worried', u'JJ'))
+((u'trouble', u'VB'), u'aux', (u'would', u'MD'))
+((u'trouble', u'VB'), u'xcomp', (u'getting', u'VBG'))
+((u'getting', u'VBG'), u'advmod', (u'somehow', u'RB'))
+((u'trouble', u'VB'), u'nsubj', (u'wait', u'NN'))
+((u'wait', u'NN'), u'nummod', (u'managed', u'CD'))
+((u'wait', u'NN'), u'amod', (u'short', u'JJ'))
+
+$$$$
+
+((u'wine', u'NN'), u'dep', (u'always', u'RB'))
+((u'wine', u'NN'), u'amod', (u'great', u'JJ'))
+((u'wine', u'NN'), u'compound', (u'glass', u'NN'))
+((u'wine', u'NN'), u'dep', (u'waited', u'VBD'))
+((u'waited', u'VBD'), u'mark', (u'while', u'IN'))
+
+$$$$
+
+((u'sat', u'VBD'), u'dep', (u'great', u'JJ'))
+((u'great', u'JJ'), u'dep', (u'got', u'VBN'))
+((u'great', u'JJ'), u'advmod', (u'fast', u'RB'))
+((u'sat', u'VBD'), u'nsubj', (u'service', u'VB'))
+
+$$$$
+
+((u'work', u'VBP'), u'nsubj', (u'people', u'NNS'))
+((u'work', u'VBP'), u'ccomp', (u'forget', u'VB'))
+((u'forget', u'VB'), u'nsubj', (u'friendly', u'JJ'))
+((u'friendly', u'JJ'), u'advmod', (u'always', u'RB'))
+((u'forget', u'VB'), u'dobj', (u'york', u'NN'))
+((u'york', u'NN'), u'amod', (u'new', u'JJ'))
+((u'forget', u'VB'), u'advmod', (u'sometimes', u'RB'))
+
+$$$$
+
+((u'make', u'VB'), u'xcomp', (u'sure', u'JJ'))
+((u'sure', u'JJ'), u'ccomp', (u'try', u'VBP'))
+((u'try', u'VBP'), u'dobj', (u'place', u'NN'))
+((u'try', u'VBP'), u'advmod', (u'often', u'RB'))
+
+$$$$
+
+((u'go', u'VBP'), u'nsubj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'compound', (u'fun', u'NN'))
+
+$$$$
+
+((u'yummy', u'NN'), u'compound', (u'pizza', u'NN'))
+((u'yummy', u'NN'), u'nmod', (u'atmoshpere', u'NN'))
+((u'atmoshpere', u'NN'), u'case', (u'like', u'IN'))
+
+$$$$
+
+((u'way', u'NN'), u'compound', (u'pizza', u'NN'))
+((u'way', u'NN'), u'amod', (u'expensive', u'JJ'))
+
+$$$$
+
+((u'toppings', u'NNS'), u'amod', (u'large', u'JJ'))
+
+$$$$
+
+((u'went', u'VBD'), u'xcomp', (u'good', u'JJ'))
+((u'good', u'JJ'), u'nsubj', (u'lunch', u'NN'))
+((u'good', u'JJ'), u'neg', (u'not', u'RB'))
+((u'went', u'VBD'), u'nsubj', (u'reviews', u'NNS'))
+((u'reviews', u'NNS'), u'amod', (u'expected', u'JJ'))
+((u'reviews', u'NNS'), u'acl', (u'read', u'VBN'))
+
+$$$$
+
+((u'sauce', u'NN'), u'dep', (u'didn', u'NN'))
+((u'didn', u'NN'), u'amod', (u'watery', u'JJ'))
+((u'didn', u'NN'), u'compound', (u'food', u'NN'))
+((u'sauce', u'NN'), u'dep', (u'flavor', u'NN'))
+((u'flavor', u'NN'), u'amod', (u'much', u'JJ'))
+
+$$$$
+
+((u'like', u'VB'), u'ccomp', (u'place', u'VB'))
+((u'place', u'VB'), u'nsubj', (u'value', u'NN'))
+((u'value', u'NN'), u'compound', (u'food', u'NN'))
+((u'place', u'VB'), u'aux', (u'get', u'VB'))
+((u'place', u'VB'), u'dobj', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'compound', (u'chinatown', u'NN'))
+((u'place', u'VB'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'don', u'VB'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'nsubj', (u'think', u'VB'))
+((u'go', u'VB'), u'aux', (u'would', u'MD'))
+
+$$$$
+
+((u'place', u'VB'), u'xcomp', (u'great', u'JJ'))
+
+$$$$
+
+((u'taken', u'VBN'), u'nsubj', (u'birthday', u'NN'))
+((u'birthday', u'NN'), u'amod', (u'huge', u'JJ'))
+((u'birthday', u'NN'), u'compound', (u'group', u'NN'))
+((u'taken', u'VBN'), u'advmod', (u'well', u'RB'))
+((u'taken', u'VBN'), u'dobj', (u'care', u'NN'))
+
+$$$$
+
+((u'waitress', u'VB'), u'dobj', (u'phenomenal', u'NNS'))
+((u'phenomenal', u'NNS'), u'amod', (u'patient', u'JJ'))
+((u'patient', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'phenomenal', u'NNS'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'service', u'NN'), u'amod', (u'friendly', u'JJ'))
+((u'friendly', u'JJ'), u'amod', (u'prompt', u'JJ'))
+((u'service', u'NN'), u'dep', (u'great', u'JJ'))
+
+$$$$
+
+((u'worth', u'NN'), u'dep', (u'slightly', u'RB'))
+((u'worth', u'NN'), u'amod', (u'pricey', u'JJ'))
+((u'worth', u'NN'), u'compound', (u'side', u'NN'))
+
+$$$$
+
+((u'pizza', u'NN'), u'amod', (u'great', u'JJ'))
+((u'pizza', u'NN'), u'dep', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'fantastic', u'JJ'))
+
+$$$$
+
+((u'expected', u'VBN'), u'nsubj', (u'shorter', u'NNS'))
+((u'shorter', u'NNS'), u'amod', (u'small', u'JJ'))
+((u'shorter', u'NNS'), u'compound', (u'wait', u'NN'))
+
+$$$$
+
+((u'located', u'VBN'), u'ccomp', (u'end', u'VB'))
+((u'end', u'VB'), u'dobj', (u'block', u'NN'))
+((u'block', u'NN'), u'amod', (u'magnificent', u'JJ'))
+
+$$$$
+
+((u'inside', u'NN'), u'amod', (u'cozy', u'JJ'))
+((u'cozy', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'inside', u'NN'), u'amod', (u'warm', u'JJ'))
+
+$$$$
+
+((u'be', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'best', u'JJS'), u'dep', (u'sushi', u'NN'))
+((u'best', u'JJS'), u'dep', (u'hands', u'NNS'))
+((u'hands', u'NNS'), u'amod', (u'new', u'JJ'))
+((u'hands', u'NNS'), u'compound', (u'york', u'NN'))
+((u'hands', u'NNS'), u'compound', (u'city', u'NN'))
+
+$$$$
+
+((u'place', u'VB'), u'xcomp', (u'fantastic', u'JJ'))
+((u'fantastic', u'JJ'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'small', u'JJ'))
+((u'food', u'NN'), u'amod', (u'cramped', u'JJ'))
+
+$$$$
+
+((u'get', u'VB'), u'dobj', (u'gari', u'NNS'))
+((u'gari', u'NNS'), u'compound', (u'tuna', u'NN'))
+
+$$$$
+
+((u'side', u'VB'), u'advmod', (u'east', u'RB'))
+((u'side', u'VB'), u'dobj', (u'side', u'NN'))
+((u'side', u'NN'), u'amod', (u'better', u'JJR'))
+((u'better', u'JJR'), u'advmod', (u'much', u'RB'))
+((u'side', u'NN'), u'compound', (u'west', u'NN'))
+
+$$$$
+
+((u'thailand', u'VBP'), u'nsubj', (u'planet', u'NN'))
+((u'thailand', u'VBP'), u'advmod', (u'always', u'RB'))
+((u'thailand', u'VBP'), u'dep', (u'hit', u'VBN'))
+((u'hit', u'VBN'), u'auxpass', (u'been', u'VBN'))
+((u'hit', u'VBN'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'sushi', u'JJ'))
+((u'sushi', u'JJ'), u'advmod', (u'usually', u'RB'))
+((u'food', u'NN'), u'amod', (u'great', u'JJ'))
+((u'food', u'NN'), u'amod', (u'thai', u'JJ'))
+((u'food', u'NN'), u'amod', (u'excellent', u'JJ'))
+((u'excellent', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'eat', u'VBP'), u'nsubj', (u'menu', u'NN'))
+((u'menu', u'NN'), u'amod', (u'great', u'JJ'))
+((u'menu', u'NN'), u'compound', (u'variety', u'NN'))
+((u'eat', u'VBP'), u'advmod', (u'often', u'RB'))
+((u'eat', u'VBP'), u'neg', (u'never', u'RB'))
+((u'eat', u'VBP'), u'dep', (u'bored', u'JJ'))
+((u'bored', u'JJ'), u'dep', (u'get', u'VB'))
+
+$$$$
+
+((u'isn', u'VBP'), u'nsubj', (u'atmosphere', u'NN'))
+((u'isn', u'VBP'), u'ccomp', (u'suppose', u'VBP'))
+((u'suppose', u'VBP'), u'nsubj', (u'greatest', u'JJS'))
+((u'suppose', u'VBP'), u'xcomp', (u'keep', u'VB'))
+((u'keep', u'VB'), u'dobj', (u'prices', u'NNS'))
+
+$$$$
+
+
+$$$$
+
+((u'went', u'VBD'), u'dobj', (u'friend', u'NN'))
+((u'went', u'VBD'), u'nmod:tmod', (u'saturday', u'NNP'))
+((u'saturday', u'NNP'), u'amod', (u'last', u'JJ'))
+
+$$$$
+
+((u'took', u'VBD'), u'nsubj', (u'first', u'JJ'))
+((u'took', u'VBD'), u'ccomp', (u'find', u'VBP'))
+((u'find', u'VBP'), u'nsubj', (u'time', u'NN'))
+((u'time', u'NN'), u'amod', (u'long', u'JJ'))
+((u'find', u'VBP'), u'dobj', (u'place', u'NN'))
+
+$$$$
+
+((u'got', u'VBD'), u'nsubj', (u'cold', u'NN'))
+((u'cold', u'NN'), u'amod', (u'tired', u'JJ'))
+((u'got', u'VBD'), u'ccomp', (u'sat', u'VBD'))
+((u'sat', u'VBD'), u'nsubj', (u'restaurant', u'NN'))
+((u'sat', u'VBD'), u'xcomp', (u'begin', u'VB'))
+((u'begin', u'VB'), u'xcomp', (u'ordering', u'VBG'))
+((u'ordering', u'VBG'), u'dobj', (u'appetizers', u'NNS'))
+
+$$$$
+
+((u'looked', u'VBD'), u'dobj', (u'dumplings', u'NNS'))
+((u'dumplings', u'NNS'), u'compound', (u'menu', u'NN'))
+((u'dumplings', u'NNS'), u'compound', (u'weren', u'NN'))
+((u'dumplings', u'NNS'), u'compound', (u'lot', u'NN'))
+((u'dumplings', u'NNS'), u'compound', (u'choices', u'NNS'))
+((u'looked', u'VBD'), u'nsubj', (u'section', u'NN'))
+((u'section', u'NN'), u'amod', (u'appetizer', u'JJ'))
+
+$$$$
+
+((u'ordered', u'VBD'), u'dobj', (u'rolls', u'NNS'))
+((u'rolls', u'NNS'), u'compound', (u'dinosaur', u'NN'))
+((u'ordered', u'VBD'), u'nsubj', (u'sashimi', u'NNS'))
+((u'sashimi', u'NNS'), u'amod', (u'white', u'JJ'))
+((u'sashimi', u'NNS'), u'compo
+
+
+=============================  NEW RUN ===============================================
+
+himi', u'NNS'), u'amod', (u'big', u'JJ'))
+((u'sashimi', u'NNS'), u'neg', (u'not', u'RB'))
+((u'sashimi', u'NNS'), u'amod', (u'good', u'JJ'))
+((u'sashimi', u'NNS'), u'amod', (u'fresh', u'JJ'))
+((u'fresh', u'JJ'), u'amod', (u'wasn', u'JJ'))
+
+$$$$
+
+((u'dry', u'VB'), u'dobj', (u'didn', u'NN'))
+((u'didn', u'NN'), u'amod', (u'disgusting', u'JJ'))
+((u'dry', u'VB'), u'advmod', (u'even', u'RB'))
+((u'dry', u'VB'), u'dep', (u'finish', u'VB'))
+((u'finish', u'VB'), u'dobj', (u'piece', u'NN'))
+((u'piece', u'NN'), u'amod', (u'first', u'JJ'))
+
+$$$$
+
+((u'hurley', u'RB'), u'dep', (u'knows', u'VBZ'))
+((u'knows', u'VBZ'), u'mark', (u'like', u'IN'))
+((u'knows', u'VBZ'), u'nsubj', (u'everyone', u'NN'))
+((u'everyone', u'NN'), u'compound', (u'cheers', u'NNS'))
+((u'knows', u'VBZ'), u'ccomp', (u'came', u'VBD'))
+((u'came', u'VBD'), u'nsubj', (u'name', u'NN'))
+((u'name', u'NN'), u'amod', (u'glad', u'JJ'))
+((u'glad', u'JJ'), u'advmod', (u'actually', u'RB'))
+
+$$$$
+
+((u'try', u'VB'), u'dobj', (u'tuna', u'NN'))
+((u'tuna', u'NN'), u'amod', (u'crunchy', u'JJ'))
+((u'try', u'VB'), u'dep', (u'die', u'VB'))
+
+$$$$
+
+((u'try', u'VB'), u'xcomp', (u'good', u'JJ'))
+((u'good', u'JJ'), u'nsubj', (u'matter', u'NN'))
+((u'matter', u'NN'), u'compound', (u'everything', u'NN'))
+
+$$$$
+
+((u'going', u'VBG'), u'aux', (u'been', u'VBN'))
+((u'going', u'VBG'), u'advcl', (u'opened', u'VBD'))
+((u'opened', u'VBD'), u'mark', (u'since', u'IN'))
+((u'going', u'VBG'), u'dep', (u'get', u'VBP'))
+((u'going', u'VBG'), u'nsubj', (u'enough', u'RB'))
+
+$$$$
+
+((u'went', u'VBD'), u'advmod', (u'first', u'RB'))
+((u'went', u'VBD'), u'nsubj', (u'terrace', u'NN'))
+((u'terrace', u'NN'), u'nummod', (u'enjoy', u'CD'))
+((u'terrace', u'NN'), u'compound', (u'garden', u'NN'))
+
+$$$$
+
+((u'rushed', u'VBD'), u'nsubj', (u'service', u'NN'))
+((u'service', u'NN'), u'compound', (u'food', u'NN'))
+((u'service', u'NN'), u'amod', (u'amazing', u'JJ'))
+((u'service', u'NN'), u'amod', (u'helpful', u'JJ'))
+((u'helpful', u'JJ'), u'amod', (u'prompt', u'JJ'))
+((u'service', u'NN'), u'acl', (u'bearing', u'VBG'))
+((u'bearing', u'VBG'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'tartare', u'NN'), u'compound', (u'steak', u'NN'))
+((u'tartare', u'NN'), u'dep', (u'bet', u'NN'))
+((u'bet', u'NN'), u'amod', (u'great', u'JJ'))
+((u'tartare', u'NN'), u'dep', (u'table', u'NN'))
+((u'table', u'NN'), u'compound', (u'fix', u'NN'))
+
+$$$$
+
+((u'nights', u'NNS'), u'nummod', (u'admittedly', u'CD'))
+((u'nights', u'NNS'), u'nmod', (u'charm', u'NN'))
+((u'charm', u'NN'), u'case', (u'inside', u'IN'))
+((u'charm', u'NN'), u'compound', (u'restaurant', u'NNP'))
+((u'charm', u'NN'), u'amod', (u'warm', u'JJ'))
+((u'warm', u'JJ'), u'advmod', (u'rather', u'RB'))
+((u'charm', u'NN'), u'amod', (u'open', u'JJ'))
+((u'charm', u'NN'), u'compound', (u'kitchen', u'NN'))
+((u'charm', u'NN'), u'compound', (u'part', u'NN'))
+
+$$$$
+
+((u'gigondas', u'NNS'), u'amod', (u'great', u'JJ'))
+((u'gigondas', u'NNS'), u'compound', (u'wine', u'NN'))
+((u'gigondas', u'NNS'), u'compound', (u'selection', u'NN'))
+((u'gigondas', u'NNS'), u'dep', (u'champagne', u'NN'))
+((u'champagne', u'NN'), u'amod', (u'worth', u'JJ'))
+((u'champagne', u'NN'), u'compound', (u'price', u'NN'))
+((u'champagne', u'NN'), u'compound', (u'house', u'NN'))
+((u'gigondas', u'NNS'), u'dep', (u'value', u'NN'))
+((u'value', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'weekends', u'NNS'), u'aux', (u'may', u'MD'))
+((u'weekends', u'NNS'), u'cop', (u'be', u'VB'))
+((u'weekends', u'NNS'), u'amod', (u'packed', u'VBN'))
+((u'packed', u'VBN'), u'dep', (u'bit', u'NN'))
+((u'weekends', u'NNS'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'vibe', u'JJ'))
+((u'food', u'NN'), u'amod', (u'good', u'JJ'))
+((u'food', u'NN'), u'amod', (u'best', u'JJS'))
+((u'food', u'NN'), u'amod', (u'french', u'JJ'))
+((u'food', u'NN'), u'acl:relcl', (u'find', u'VBP'))
+((u'find', u'VBP'), u'dobj', (u'area', u'NN'))
+
+$$$$
+
+((u'gets', u'VBZ'), u'nsubj', (u'friends', u'NNS'))
+((u'friends', u'NNS'), u'amod', (u'recommended', u'VBN'))
+((u'friends', u'NNS'), u'compound', (u'place', u'NN'))
+((u'gets', u'VBZ'), u'advmod', (u'always', u'RB'))
+((u'gets', u'VBZ'), u'dobj', (u'response', u'NN'))
+((u'response', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'like', u'VB'), u'nsubj', (u'nyc', u'NN'))
+((u'nyc', u'NN'), u'compound', (u'pizza', u'NN'))
+((u'nyc', u'NN'), u'compound', (u'pizza', u'NN'))
+((u'like', u'VB'), u'aux', (u'should', u'MD'))
+((u'like', u'VB'), u'dep', (u'toppings', u'NNS'))
+((u'toppings', u'NNS'), u'dep', (u'not', u'RB'))
+((u'toppings', u'NNS'), u'amod', (u'additional', u'JJ'))
+((u'toppings', u'NNS'), u'dep', (u'tastes', u'NNS'))
+((u'tastes', u'NNS'), u'compound', (u'crust', u'NN'))
+((u'like', u'VB'), u'compound:prt', (u'best', u'RBS'))
+((u'like', u'VB'), u'dobj', (u'bread', u'NN'))
+((u'bread', u'NN'), u'advmod', (u'freshly', u'RB'))
+((u'bread', u'NN'), u'amod', (u'baked', u'JJ'))
+
+$$$$
+
+((u'parmigana', u'NN'), u'compound', (u'veal', u'NN'))
+((u'parmigana', u'NN'), u'dep', (u'patsy', u'NN'))
+((u'patsy', u'NN'), u'amod', (u'better', u'JJR'))
+
+$$$$
+
+((u'reasonably', u'RB'), u'advmod', (u'much', u'RB'))
+((u'reasonably', u'RB'), u'dep', (u'priced', u'VBN'))
+((u'priced', u'VBN'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'take', u'VB'), u'dobj', (u'vt', u'NN'))
+((u'vt', u'NN'), u'compound', (u'nyc', u'NN'))
+((u'vt', u'NN'), u'compound', (u'guests', u'NNS'))
+
+$$$$
+
+((u'lonk', u'VBP'), u'dep', (u'reviewer', u'NN'))
+((u'reviewer', u'NN'), u'amod', (u'sure', u'JJ'))
+((u'sure', u'JJ'), u'neg', (u'not', u'RB'))
+((u'reviewer', u'NN'), u'amod', (u'previous', u'JJ'))
+((u'lonk', u'VBP'), u'dobj', (u'neighborhood', u'NN'))
+((u'neighborhood', u'NN'), u'amod', (u'dined', u'JJ'))
+((u'neighborhood', u'NN'), u'amod', (u'saul', u'JJ'))
+((u'neighborhood', u'NN'), u'amod', (u'great', u'JJ'))
+((u'lonk', u'VBP'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u've', u'NN'), u'acl', (u'times', u'NNS'))
+((u'times', u'NNS'), u'cop', (u'been', u'VBN'))
+((u'times', u'NNS'), u'nummod', (u'three', u'CD'))
+((u've', u'NN'), u'dep', (u'experiences', u'NNS'))
+((u'experiences', u'NNS'), u'dep', (u'always', u'RB'))
+((u'experiences', u'NNS'), u'amod', (u'wonderful', u'JJ'))
+
+$$$$
+
+((u'highly', u'RB'), u'ccomp', (u'recommend', u'VBP'))
+((u'recommend', u'VBP'), u'ccomp', (u'provides', u'VBZ'))
+((u'provides', u'VBZ'), u'nsubj', (u'occasion', u'NN'))
+((u'occasion', u'NN'), u'amod', (u'special', u'JJ'))
+((u'provides', u'VBZ'), u'xcomp', (u'intimate', u'JJ'))
+((u'provides', u'VBZ'), u'xcomp', (u'setting', u'VBG'))
+((u'setting', u'VBG'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'nice', u'JJ'))
+
+$$$$
+
+((u'ate', u'VBD'), u'nsubj', (u'reviewers', u'NNS'))
+((u'reviewers', u'NNS'), u'amod', (u'sure', u'JJ'))
+((u'sure', u'JJ'), u'neg', (u'not', u'RB'))
+((u'ate', u'VBD'), u'ccomp', (u'seems', u'VBZ'))
+((u'seems', u'VBZ'), u'ccomp', (u'visited', u'VBD'))
+((u'visited', u'VBD'), u'dobj', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'nummod', (u'two', u'CD'))
+((u'restaurants', u'NNS'), u'amod', (u'different', u'JJ'))
+((u'visited', u'VBD'), u'advcl', (u'enjoy', u'VBP'))
+((u'enjoy', u'VBP'), u'mark', (u'because', u'IN'))
+((u'enjoy', u'VBP'), u'nsubj', (u'friends', u'NNS'))
+((u'enjoy', u'VBP'), u'dobj', (u'customers', u'NNS'))
+((u'customers', u'NNS'), u'amod', (u'mizu', u'JJ'))
+((u'customers', u'NNS'), u'amod', (u'much', u'JJ'))
+((u'much', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'customers', u'NNS'), u'compound', (u're', u'NN'))
+((u'customers', u'NNS'), u'compound', (u'repeat', u'NN'))
+
+$$$$
+
+((u'even', u'RB'), u'dep', (u'time', u'NN'))
+((u'time', u'NN'), u'amod', (u'overcharged', u'JJ'))
+((u'time', u'NN'), u'amod', (u'last', u'JJ'))
+
+$$$$
+
+((u'make', u'VB'), u'dobj', (u'roll', u'NN'))
+((u'roll', u'NN'), u'amod', (u'spicy', u'JJ'))
+((u'spicy', u'JJ'), u'amod', (u'sure', u'JJ'))
+((u'roll', u'NN'), u'compound', (u'scallop', u'NN'))
+
+$$$$
+
+
+$$$$
+
+((u'moules', u'VBZ'), u'nsubj', (u'ravioli', u'NNS'))
+((u'ravioli', u'NNS'), u'amod', (u'excellent', u'JJ'))
+((u'ravioli', u'NNS'), u'compound', (u'lobster', u'NN'))
+((u'ravioli', u'NNS'), u'amod', (u'salty', u'JJ'))
+((u'salty', u'JJ'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'took', u'VBD'), u'dobj', (u'mother', u'NN'))
+((u'mother', u'NN'), u'compound', (u'mom', u'NN'))
+((u'took', u'VBD'), u'nmod:tmod', (u'day', u'NN'))
+((u'took', u'VBD'), u'nsubj', (u'maitre', u'NNP'))
+((u'maitre', u'NNP'), u'amod', (u'rude', u'JJ'))
+((u'rude', u'JJ'), u'advmod', (u'pretty', u'RB'))
+
+$$$$
+
+((u'told', u'VBN'), u'ccomp', (u'sit', u'VB'))
+((u'sit', u'VB'), u'dep', (u'sat', u'VBN'))
+((u'sat', u'VBN'), u'advmod', (u'anywhere', u'RB'))
+((u'told', u'VBN'), u'dep', (u'said', u'VBD'))
+((u'told', u'VBN'), u'nsubj', (u'table', u'NN'))
+((u'table', u'NN'), u'acl', (u'reserved', u'VBN'))
+
+$$$$
+
+((u'stepped', u'VBD'), u'nsubj', (u'time', u'NN'))
+((u'time', u'NN'), u'compound', (u'foot', u'NN'))
+((u'time', u'NN'), u'amod', (u'second', u'JJ'))
+((u'time', u'NN'), u'acl', (u'reached', u'VBN'))
+((u'reached', u'VBN'), u'ccomp', (u'adjust', u'VB'))
+((u'adjust', u'VB'), u'dobj', (u'lighting', u'NN'))
+
+$$$$
+
+((u'dessert', u'NN'), u'amod', (u'tiny', u'JJ'))
+((u'dessert', u'NN'), u'amod', (u'overpriced', u'JJ'))
+((u'overpriced', u'JJ'), u'advmod', (u'plain', u'RB'))
+
+$$$$
+
+((u'made', u'VBD'), u'nsubj', (u'drinks', u'NNS'))
+((u'drinks', u'NNS'), u'amod', (u'welll', u'JJ'))
+((u'welll', u'JJ'), u'advmod', (u'always', u'RB'))
+((u'made', u'VBD'), u'dobj', (u'selection', u'NN'))
+((u'selection', u'NN'), u'compound', (u'wine', u'NN'))
+((u'selection', u'NN'), u'amod', (u'priced', u'VBN'))
+((u'priced', u'VBN'), u'advmod', (u'fairly', u'RB'))
+
+$$$$
+
+((u'try', u'VB'), u'ccomp', (u'die', u'VB'))
+((u'die', u'VB'), u'nsubj', (u'specials', u'NNS'))
+((u'specials', u'NNS'), u'compound', (u'chef', u'NN'))
+
+$$$$
+
+((u'thats', u'VBZ'), u'dep', (u'service', u'NN'))
+((u'thats', u'VBZ'), u'neg', (u'not', u'RB'))
+((u'not', u'RB'), u'nmod:npmod', (u'star', u'NN'))
+((u'star', u'NN'), u'advmod', (u'exactly', u'RB'))
+((u'star', u'NN'), u'nummod', (u'five', u'CD'))
+((u'thats', u'VBZ'), u'neg', (u'not', u'RB'))
+((u'thats', u'VBZ'), u'advmod', (u'really', u'RB'))
+((u'thats', u'VBZ'), u'nsubj', (u'deal', u'NN'))
+((u'deal', u'NN'), u'amod', (u'big', u'JJ'))
+
+$$$$
+
+((u'downstairs', u'VBZ'), u'dobj', (u'lounge', u'NN'))
+((u'downstairs', u'VBZ'), u'advmod', (u'always', u'RB'))
+((u'downstairs', u'VBZ'), u'nsubj', (u'attraction', u'NN'))
+((u'attraction', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'raga', u'NN'), u'dep', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'romantic', u'JJ'))
+((u'restaurant', u'NN'), u'compound', (u'cozy', u'NN'))
+
+$$$$
+
+((u'presented', u'VBD'), u'nsubj', (u'beautifully', u'NN'))
+((u'beautifully', u'NN'), u'amod', (u'exotic', u'JJ'))
+((u'beautifully', u'NN'), u'compound', (u'food', u'NN'))
+((u'presented', u'VBD'), u'dobj', (u'combinations', u'NNS'))
+((u'combinations', u'NNS'), u'amod', (u'delicious', u'JJ'))
+((u'delicious', u'JJ'), u'advmod', (u'delight', u'RB'))
+
+$$$$
+
+((u'well', u'RB'), u'dep', (u'also', u'RB'))
+((u'well', u'RB'), u'advmod', (u'extremely', u'RB'))
+((u'well', u'RB'), u'acl', (u'priced', u'VBN'))
+
+$$$$
+
+((u'staff', u'NN'), u'amod', (u'helpful', u'JJ'))
+((u'helpful', u'JJ'), u'advmod', (u'incredibly', u'RB'))
+((u'staff', u'NN'), u'dep', (u'attentive', u'JJ'))
+
+$$$$
+
+((u'stocked', u'VBN'), u'nsubj', (u'bar', u'NN'))
+((u'stocked', u'VBN'), u'advmod', (u'well', u'RB'))
+((u'well', u'RB'), u'advmod', (u'very', u'RB'))
+((u'stocked', u'VBN'), u'dobj', (u'beers', u'NNS'))
+((u'beers', u'NNS'), u'amod', (u'interesting', u'JJ'))
+((u'beers', u'NNS'), u'acl', (u'priced', u'VBN'))
+((u'priced', u'VBN'), u'advmod', (u'well', u'RB'))
+((u'priced', u'VBN'), u'dobj', (u'wines', u'NNS'))
+
+$$$$
+
+((u'missed', u'VBN'), u'neg', (u'not', u'RB'))
+((u'not', u'RB'), u'nmod:npmod', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'amod', (u'favorite', u'JJ'))
+((u'missed', u'VBN'), u'auxpass', (u'be', u'VB'))
+
+$$$$
+
+((u'thank', u'VBP'), u'nsubj', (u'friends', u'NNS'))
+((u'thank', u'VBP'), u'xcomp', (u'introducing', u'VBG'))
+((u'introducing', u'VBG'), u'dobj', (u'gem', u'NN'))
+
+$$$$
+
+((u'stumbled', u'VBD'), u'ccomp', (u'found', u'VBD'))
+((u'found', u'VBD'), u'nsubj', (u'thought', u'NN'))
+((u'thought', u'NN'), u'compound', (u'leon', u'NN'))
+((u'stumbled', u'VBD'), u'nsubj', (u'gem', u'NN'))
+((u'gem', u'NN'), u'advmod', (u'quite', u'RB'))
+((u'gem', u'NN'), u'advmod', (u'wrong', u'JJ'))
+((u'wrong', u'JJ'), u'advmod', (u'certainly', u'RB'))
+
+$$$$
+
+((u'moved', u'VBD'), u'nsubj', (u'waitress', u'NN'))
+((u'moved', u'VBD'), u'ccomp', (u'told', u'VBD'))
+((u'told', u'VBD'), u'nsubj', (u'table', u'NN'))
+((u'table', u'NN'), u'acl:relcl', (u'asked', u'VBD'))
+((u'asked', u'VBD'), u'nsubj', (u'bathroom', u'NN'))
+((u'bathroom', u'NN'), u'advmod', (u'practically', u'RB'))
+((u'asked', u'VBD'), u'xcomp', (u'cancel', u'VB'))
+((u'cancel', u'VB'), u'dobj', (u'orders', u'NNS'))
+((u'orders', u'NNS'), u'compound', (u'dinner', u'NN'))
+((u'cancel', u'VB'), u'advcl', (u'want', u'VBP'))
+((u'want', u'VBP'), u'mark', (u'because', u'IN'))
+((u'want', u'VBP'), u'dep', (u'not', u'RB'))
+((u'want', u'VBP'), u'xcomp', (u'eat', u'VB'))
+((u'eat', u'VB'), u'xcomp', (u'sitting', u'VBG'))
+((u'sitting', u'VBG'), u'dobj', (u'toilet', u'NN'))
+((u'told', u'VBD'), u'discourse', (u'no', u'UH'))
+
+$$$$
+
+((u'dropped', u'VBD'), u'nsubj', (u'things', u'NNS'))
+((u'things', u'NNS'), u'amod', (u'top', u'JJ'))
+((u'dropped', u'VBD'), u'dep', (u'used', u'VBN'))
+((u'used', u'VBN'), u'dobj', (u'jacket', u'NN'))
+((u'jacket', u'NN'), u'amod', (u'silverware', u'JJ'))
+((u'jacket', u'NN'), u'compound', (u'boyfriend', u'NN'))
+((u'used', u'VBN'), u'dep', (u'stop', u'VB'))
+((u'stop', u'VB'), u'neg', (u'not', u'RB'))
+((u'stop', u'VB'), u'xcomp', (u'apologize', u'VB'))
+((u'apologize', u'VB'), u'dobj', (u'clothes', u'NNS'))
+((u'clothes', u'NNS'), u'amod', (u'clean', u'JJ'))
+((u'clothes', u'NNS'), u'compound', (u'mess', u'NN'))
+((u'clothes', u'NNS'), u'compound', (u'left', u'NN'))
+
+$$$$
+
+
+$$$$
+
+((u'ny', u'VBP'), u'nsubj', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'amod', (u'rude', u'JJ'))
+((u'restaurants', u'NNS'), u'compound', (u'service', u'NN'))
+((u'restaurants', u'NNS'), u'compound', (u'medicore', u'NN'))
+((u'restaurants', u'NNS'), u'compound', (u'food', u'NN'))
+((u'restaurants', u'NNS'), u'compound', (u'tons', u'NNS'))
+((u'ny', u'VBP'), u'ccomp', (u'stay', u'VB'))
+((u'stay', u'VB'), u'compound:prt', (u'away', u'RP'))
+
+$$$$
+
+((u'hyde', u'NNS'), u'compound', (u'grat', u'NN'))
+((u'hyde', u'NNS'), u'compound', (u'time', u'NN'))
+((u'hyde', u'NNS'), u'compound', (u'jekyll', u'NN'))
+
+$$$$
+
+((u'loved', u'VBN'), u'xcomp', (u'everythig', u'VBG'))
+((u'everythig', u'VBG'), u'advmod', (u'especially', u'RB'))
+((u'loved', u'VBN'), u'dep', (u'shows', u'VBZ'))
+((u'loved', u'VBN'), u'nsubj', (u'actors', u'NNS'))
+
+$$$$
+
+((u'server', u'NN'), u'amod', (u'helpful', u'JJ'))
+((u'helpful', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'server', u'NN'), u'dep', (u'friendly', u'JJ'))
+
+$$$$
+
+((u'bringing', u'VBG'), u'iobj', (u'family', u'NN'))
+((u'family', u'NN'), u'amod', (u'whole', u'JJ'))
+((u'bringing', u'VBG'), u'dobj', (u'time', u'NN'))
+((u'time', u'NN'), u'advmod', (u'back', u'RB'))
+((u'time', u'NN'), u'amod', (u'next', u'JJ'))
+
+$$$$
+
+((u'food', u'NN'), u'amod', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'tuna', u'VB'), u'xcomp', (u'excellent', u'JJ'))
+((u'excellent', u'JJ'), u'nsubj', (u'potatoes', u'NNS'))
+((u'potatoes', u'NNS'), u'amod', (u'wasabe', u'JJ'))
+
+$$$$
+
+((u'go', u'VBP'), u'nsubj', (u'sidewalk', u'NN'))
+((u'sidewalk', u'NN'), u'amod', (u'outdoor', u'JJ'))
+((u'sidewalk', u'NN'), u'compound', (u'atmosphere', u'NN'))
+((u'sidewalk', u'NN'), u'amod', (u'sitting', u'VBG'))
+((u'sidewalk', u'NN'), u'acl', (u'watching', u'VBG'))
+((u'watching', u'VBG'), u'dobj', (u'world', u'NN'))
+((u'go', u'VBP'), u'ccomp', (u'th', u'VBP'))
+((u'th', u'VBP'), u'nsubj', (u'feet', u'NNS'))
+((u'th', u'VBP'), u'advmod', (u'away', u'RB'))
+((u'th', u'VBP'), u'xcomp', (u'wonderful', u'JJ'))
+((u'wonderful', u'JJ'), u'nsubj', (u'avenue', u'NN'))
+((u'avenue', u'NN'), u'dep', (u'evening', u'NN'))
+((u'evening', u'NN'), u'amod', (u'cool', u'JJ'))
+
+$$$$
+
+((u'cramped', u'NN'), u'amod', (u'inside', u'JJ'))
+((u'cramped', u'NN'), u'amod', (u'little', u'JJ'))
+((u'cramped', u'NN'), u'dep', (u'expected', u'VBN'))
+((u'expected', u'VBN'), u'auxpass', (u'be', u'VB'))
+
+$$$$
+
+((u'service', u'VB'), u'dobj', (u'courteous', u'NNS'))
+((u'courteous', u'NNS'), u'amod', (u'prompt', u'JJ'))
+
+$$$$
+
+((u'repeat', u'VB'), u'dobj', (u'll', u'NN'))
+((u'll', u'NN'), u'compound', (u'visit', u'NN'))
+((u'repeat', u'VB'), u'advmod', (u'definitely', u'RB'))
+((u'repeat', u'VB'), u'dep', (u'be', u'VB'))
+((u'be', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'service', u'NN'), u'amod', (u'great', u'JJ'))
+((u'service', u'NN'), u'dep', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'prices', u'NNS'), u'dep', (u'line', u'NN'))
+
+$$$$
+
+((u'compared', u'VBN'), u'dobj', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'amod', (u'shabu', u'JJ'))
+((u'compared', u'VBN'), u'nmod', (u'places', u'NNS'))
+((u'places', u'NNS'), u'case', (u'around', u'IN'))
+((u'places', u'NNS'), u'compound', (u'town', u'NN'))
+((u'compared', u'VBN'), u'dep', (u'wins', u'VBZ'))
+((u'compared', u'VBN'), u'nsubj', (u'hands', u'NNS'))
+
+$$$$
+
+((u'far', u'RB'), u'advmod', (u'too', u'RB'))
+((u'far', u'RB'), u'dep', (u'east', u'JJ'))
+
+$$$$
+
+((u'live', u'VB'), u'dobj', (u'block', u'NN'))
+((u'live', u'VB'), u'advmod', (u'away', u'RB'))
+((u'live', u'VB'), u'dep', (u'go', u'VB'))
+((u'go', u'VB'), u'advmod', (u'patsy', u'RB'))
+((u'go', u'VB'), u'advmod', (u'frequently', u'RB'))
+
+$$$$
+
+((u'use', u'VBP'), u'nsubj', (u'delicious', u'NNS'))
+((u'delicious', u'NNS'), u'compound', (u'pizza', u'NN'))
+((u'use', u'VBP'), u'dobj', (u'mozzarella', u'NN'))
+((u'mozzarella', u'NN'), u'amod', (u'fresh', u'JJ'))
+((u'mozzarella', u'NN'), u'nmod', (u'pizzaria', u'NNS'))
+((u'pizzaria', u'NNS'), u'advmod', (u'instead', u'RB'))
+((u'pizzaria', u'NNS'), u'amod', (u'cheap', u'JJ'))
+((u'pizzaria', u'NNS'), u'amod', (u'frozen', u'VBN'))
+((u'pizzaria', u'NNS'), u'amod', (u'shredded', u'JJ'))
+((u'pizzaria', u'NNS'), u'compound', (u'cheese', u'NN'))
+((u'pizzaria', u'NNS'), u'amod', (u'common', u'JJ'))
+
+$$$$
+
+((u'get', u'VBP'), u'nsubj', (u'complaints', u'NNS'))
+((u'complaints', u'NNS'), u'nummod', (u'two', u'CD'))
+((u'complaints', u'NNS'), u'acl:relcl', (u'nice', u'JJ'))
+((u'nice', u'JJ'), u'nsubj', (u'stinks', u'NNS'))
+((u'stinks', u'NNS'), u'compound', (u'appetizer', u'NN'))
+((u'stinks', u'NNS'), u'compound', (u'selection', u'NN'))
+((u'nice', u'JJ'), u'aux', (u'would', u'MD'))
+((u'nice', u'JJ'), u'cop', (u'be', u'VB'))
+((u'get', u'VBP'), u'ccomp', (u'sticks', u'VBZ'))
+((u'sticks', u'VBZ'), u'nsubj', (u'mozzarella', u'NN'))
+((u'sticks', u'VBZ'), u'dobj', (u'menu', u'NN'))
+
+$$$$
+
+((u'also', u'RB'), u'dep', (u'gets', u'VBZ'))
+((u'gets', u'VBZ'), u'mark', (u'because', u'IN'))
+((u'gets', u'VBZ'), u'nsubj', (u'thin', u'JJ'))
+((u'gets', u'VBZ'), u'dobj', (u'cold', u'JJ'))
+((u'cold', u'JJ'), u'acl', (u'filling', u'VBG'))
+((u'filling', u'VBG'), u'neg', (u'not', u'RB'))
+((u'not', u'RB'), u'advmod', (u'very', u'RB'))
+((u'not', u'RB'), u'advmod', (u'quickly', u'RB'))
+
+$$$$
+
+((u'eat', u'VB'), u'dobj', (u'lot', u'NN'))
+((u'lot', u'NN'), u'amod', (u'fast', u'JJ'))
+((u'lot', u'NN'), u'compound', (u'order', u'NN'))
+
+$$$$
+
+((u'staff', u'NN'), u'compound', (u'wait', u'NN'))
+((u'staff', u'NN'), u'dep', (u'business', u'NN'))
+((u'business', u'NN'), u'amod', (u'blantently', u'JJ'))
+((u'business', u'NN'), u'compound', (u'unappreciative', u'NN'))
+((u'staff', u'NN'), u'dep', (u'uws', u'NN'))
+((u'uws', u'NN'), u'amod', (u'best', u'JJS'))
+((u'uws', u'NN'), u'compound', (u'pie', u'NN'))
+
+$$$$
+
+((u'restaurant', u'NN'), u'dep', (u'salad', u'NN'))
+((u'salad', u'NN'), u'dep', (u'best', u'RB'))
+((u'best', u'RB'), u'advmod', (u'far', u'RB'))
+((u'restaurant', u'NN'), u'amod', (u'fast', u'JJ'))
+((u'restaurant', u'NN'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'fine', u'JJ'), u'dep', (u'dining', u'VBG'))
+((u'dining', u'VBG'), u'dobj', (u'quality', u'NN'))
+((u'quality', u'NN'), u'compound', (u'restaurant', u'NN'))
+
+$$$$
+
+((u'create', u'VBP'), u'nsubj', (u'choices', u'NNS'))
+((u'choices', u'NNS'), u'amod', (u'different', u'JJ'))
+
+$$$$
+
+((u'try', u'VB'), u'aux', (u'must', u'MD'))
+
+$$$$
+
+((u'found', u'VBD'), u'nsubj', (u'accidently', u'NNS'))
+((u'accidently', u'NNS'), u'amod', (u'recent', u'JJ'))
+((u'accidently', u'NNS'), u'compound', (u'sunday', u'NNP'))
+((u'accidently', u'NNS'), u'compound', (u'afternoon', u'NN'))
+((u'accidently', u'NNS'), u'compound', (u'friend', u'NN'))
+((u'found', u'VBD'), u'ccomp', (u'see', u'VBP'))
+((u'see', u'VBP'), u'nsubj', (u'way', u'NN'))
+((u'way', u'NN'), u'amod', (u'great', u'JJ'))
+((u'way', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'see', u'VBP'), u'dobj', (u'prize', u'NN'))
+((u'prize', u'NN'), u'compound', (u'pulitzer', u'NN'))
+((u'prize', u'NN'), u'acl', (u'winning', u'VBG'))
+((u'winning', u'VBG'), u'dobj', (u'doubt', u'NN'))
+((u'doubt', u'NN'), u'compound', (u'play', u'NN'))
+
+$$$$
+
+((u'quiet', u'JJ'), u'amod', (u'perfect', u'JJ'))
+((u'quiet', u'JJ'), u'dep', (u'relaxing', u'VBG'))
+((u'relaxing', u'VBG'), u'dobj', (u'theater', u'NN'))
+((u'theater', u'NN'), u'amod', (u'delicious', u'JJ'))
+((u'delicious', u'JJ'), u'dep', (u'afternoon', u'NN'))
+((u'afternoon', u'NN'), u'amod', (u'accompaniment', u'JJ'))
+
+$$$$
+
+((u'cheeseburger', u'NN'), u'compound', (u'chicken', u'NN'))
+((u'cheeseburger', u'NN'), u'compound', (u'pot', u'NN'))
+((u'cheeseburger', u'NN'), u'compound', (u'pie', u'NN'))
+((u'cheeseburger', u'NN'), u'compound', (u'excpetiona', u'NN'))
+((u'cheeseburger', u'NN'), u'dep', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'huge', u'JJ'))
+((u'service', u'NN'), u'compound', (u'delictable', u'NN'))
+((u'cheeseburger', u'NN'), u'dep', (u'wan', u'NN'))
+((u'wan', u'NN'), u'amod', (u'professional', u'JJ'))
+((u'wan', u'NN'), u'amod', (u'warm', u'JJ'))
+
+$$$$
+
+((u'find', u'VBP'), u'nsubj', (u'experiences', u'NNS'))
+((u'experiences', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'experiences', u'NNS'), u'amod', (u'poor', u'JJ'))
+((u'experiences', u'NNS'), u'acl:relcl', (u'district', u'NN'))
+((u'district', u'NN'), u'cop', (u'be', u'VB'))
+((u'district', u'NN'), u'compound', (u'theater', u'NN'))
+((u'district', u'NN'), u'amod', (u'excellent', u'JJ'))
+((u'excellent', u'JJ'), u'advmod', (u'truly', u'RB'))
+
+$$$$
+
+((u'return', u'VB'), u'dobj', (u'times', u'NNS'))
+((u'times', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'return', u'VB'), u'nsubj', (u'town', u'NN'))
+((u'town', u'NN'), u'nummod', (u'oasis', u'CD'))
+((u'town', u'NN'), u'amod', (u'mid', u'JJ'))
+
+$$$$
+
+((u'grew', u'VBD'), u'nsubj', (u'bagels', u'NNS'))
+
+$$$$
+
+((u'staff', u'VB'), u'dobj', (u'nonsense', u'NN'))
+((u'nonsense', u'NN'), u'neg', (u'no', u'DT'))
+
+$$$$
+
+((u'rule', u'VBP'), u'nsubj', (u'options', u'NNS'))
+((u'options', u'NNS'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'lived', u'VBD'), u'ccomp', (u'buy', u'VB'))
+((u'buy', u'VB'), u'nsubj', (u'while', u'NN'))
+((u'while', u'NN'), u'amod', (u'upstate', u'JJ'))
+((u'buy', u'VB'), u'aux', (u'would', u'MD'))
+((u'buy', u'VB'), u'ccomp', (u'better', u'JJR'))
+((u'better', u'JJR'), u'nsubj', (u'bagels', u'NNS'))
+((u'bagels', u'NNS'), u'compound', (u'freeze', u'NN'))
+((u'better', u'JJR'), u'aux', (u'would', u'MD'))
+((u'better', u'JJR'), u'advmod', (u'still', u'RB'))
+((u'better', u'JJR'), u'cop', (u'be', u'VB'))
+((u'lived', u'VBD'), u'nsubj', (u'else', u'RB'))
+
+$$$$
+
+((u'worth', u'JJ'), u'dep', (u'visiting', u'VBG'))
+((u'visiting', u'VBG'), u'dobj', (u'spot', u'NN'))
+((u'spot', u'NN'), u'amod', (u'st', u'JJ'))
+((u'spot', u'NN'), u'compound', (u'ave', u'NN'))
+((u'visiting', u'VBG'), u'nmod', (u'store', u'NN'))
+((u'store', u'NN'), u'case', (u'because', u'IN'))
+((u'store', u'NN'), u'amod', (u'original', u'JJ'))
+
+$$$$
+
+((u'stumbled', u'VBN'), u'nmod', (u'floor', u'NN'))
+((u'floor', u'NN'), u'case', (u'upon', u'IN'))
+((u'floor', u'NN'), u'amod', (u'second', u'JJ'))
+((u'stumbled', u'VBN'), u'dep', (u'walk', u'VBP'))
+((u'walk', u'VBP'), u'nmod:tmod', (u'fridays', u'NNS'))
+((u'fridays', u'NNS'), u'nummod', (u'two', u'CD'))
+((u'walk', u'VBP'), u'advmod', (u'ago', u'RB'))
+((u'ago', u'RB'), u'nmod:npmod', (u'friends', u'NNS'))
+((u'friends', u'NNS'), u'nummod', (u'two', u'CD'))
+((u'stumbled', u'VBN'), u'nsubj', (u'l', u'NNS'))
+((u'l', u'NNS'), u'compound', (u'town', u'NN'))
+
+$$$$
+
+((u'serious', u'JJ'), u'cop', (u'being', u'VBG'))
+((u'serious', u'JJ'), u'ccomp', (u'sat', u'VBD'))
+((u'sat', u'VBD'), u'nsubj', (u'lovers', u'NNS'))
+((u'lovers', u'NNS'), u'compound', (u'sushi', u'NN'))
+((u'sat', u'VBD'), u'ccomp', (u'closer', u'JJR'))
+((u'closer', u'JJR'), u'nsubj', (u'bar', u'NN'))
+((u'bar', u'NN'), u'compound', (u'sushi', u'NN'))
+((u'closer', u'JJR'), u'cop', (u'be', u'VB'))
+((u'closer', u'JJR'), u'dep', (u'action', u'NN'))
+
+$$$$
+
+((u'recommends', u'VBZ'), u'nsubj', (u'chef', u'NN'))
+((u'chef', u'NN'), u'amod', (u'asked', u'JJ'))
+((u'recommends', u'VBZ'), u'dep', (u'asked', u'VBN'))
+((u'asked', u'VBN'), u'nmod', (u'uni', u'NN'))
+((u'uni', u'NN'), u'case', (u'like', u'IN'))
+
+$$$$
+
+((u'don', u'VB'), u'xcomp', (u'know', u'VB'))
+((u'know', u'VB'), u'dobj', (u'sea', u'NN'))
+((u'sea', u'NN'), u'compound', (u'uni', u'NN'))
+((u'sea', u'NN'), u'acl:relcl', (u'happens', u'VBZ'))
+((u'happens', u'VBZ'), u'nsubj', (u'japanese', u'NN'))
+((u'japanese', u'NN'), u'compound', (u'urchin', u'NN'))
+((u'happens', u'VBZ'), u'xcomp', (u'favorite', u'JJ'))
+((u'favorite', u'JJ'), u'cop', (u'be', u'VB'))
+
+$$$$
+
+((u'served', u'VBD'), u'dobj', (u'roll', u'NN'))
+((u'roll', u'NN'), u'amod', (u'uni', u'JJ'))
+((u'roll', u'NN'), u'compound', (u'hand', u'NN'))
+((u'served', u'VBD'), u'neg', (u'never', u'RB'))
+((u'never', u'RB'), u'dep', (u'let', u'VB'))
+((u'served', u'VBD'), u'nsubj', (u'heaven', u'NN'))
+((u'heaven', u'NN'), u'nummod', (u'tell', u'CD'))
+
+$$$$
+
+((u'chef', u'NN'), u'dep', (u'aside', u'RB'))
+((u'chef', u'NN'), u'compound', (u'sea', u'NN'))
+((u'chef', u'NN'), u'compound', (u'urchin', u'NN'))
+((u'chef', u'NN'), u'acl', (u'recommended', u'VBN'))
+((u'recommended', u'VBN'), u'dobj', (u'fish', u'NN'))
+((u'fish', u'NN'), u'compound', (u'assortment', u'NN'))
+((u'fish', u'NN'), u'nmod', (u'etc', u'FW'))
+((u'etc', u'FW'), u'case', (u'including', u'VBG'))
+((u'etc', u'FW'), u'amod', (u'fatty', u'JJ'))
+((u'etc', u'FW'), u'compound', (u'yellow', u'NN'))
+((u'etc', u'FW'), u'compound', (u'tail', u'NN'))
+((u'etc', u'FW'), u'compound', (u'boton', u'NN'))
+((u'etc', u'FW'), u'compound', (u'shrimp', u'NN'))
+((u'etc', u'FW'), u'compound', (u'blue', u'NN'))
+((u'etc', u'FW'), u'compound', (u'fin', u'NN'))
+((u'etc', u'FW'), u'compound', (u'torro', u'NN'))
+((u'etc', u'FW'), u'compound', (u'fatty', u'NN'))
+((u'etc', u'FW'), u'compound', (u'tuna', u'NN'))
+((u'etc', u'FW'), u'compound', (u'sea', u'NN'))
+((u'etc', u'FW'), u'dep', (u'eel', u'NNS'))
+
+$$$$
+
+((u'overlooked', u'VBN'), u'nsubjpass', (u'menu', u'NN'))
+((u'menu', u'NN'), u'compound', (u'sake', u'NN'))
+((u'overlooked', u'VBN'), u'aux', (u'should', u'MD'))
+((u'overlooked', u'VBN'), u'neg', (u'not', u'RB'))
+((u'overlooked', u'VBN'), u'auxpass', (u'be', u'VB'))
+
+$$$$
+
+((u'became', u'VBD'), u'advmod', (u'instantly', u'RB'))
+((u'instantly', u'RB'), u'nmod:npmod', (u'gem', u'NN'))
+((u'gem', u'NN'), u'amod', (u'midtown', u'JJ'))
+((u'became', u'VBD'), u'xcomp', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'amod', (u'favorite', u'JJ'))
+((u'restaurants', u'NNS'), u'compound', (u'sushi', u'NN'))
+((u'became', u'VBD'), u'nsubj', (u'city', u'NN'))
+
+$$$$
+
+((u'try', u'VB'), u'ccomp', (u'rose', u'VBD'))
+((u'rose', u'VBD'), u'nsubj', (u'teriyaki', u'NNS'))
+((u'teriyaki', u'NNS'), u'compound', (u'lobster', u'NN'))
+((u'rose', u'VBD'), u'dobj', (u'roll', u'NN'))
+((u'roll', u'NN'), u'amod', (u'special', u'JJ'))
+
+$$$$
+
+((u'visited', u'VBD'), u'dobj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'orsay', u'JJ'))
+((u'restaurant', u'NN'), u'compound', (u'ny', u'NN'))
+((u'visited', u'VBD'), u'nmod:tmod', (u'week', u'NN'))
+((u'visited', u'VBD'), u'nsubj', (u'menu', u'NN'))
+((u'menu', u'NN'), u'nummod', (u'tried', u'CD'))
+
+$$$$
+
+((u'non', u'NN'), u'amod', (u'prompt', u'JJ'))
+((u'prompt', u'JJ'), u'nmod:npmod', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'non', u'NN'), u'amod', (u'attentive', u'JJ'))
+((u'non', u'NN'), u'dep', (u'intrusive', u'JJ'))
+
+$$$$
+
+((u'food', u'NN'), u'dep', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'good', u'JJ'), u'dep', (u'considering', u'VBG'))
+((u'considering', u'VBG'), u'advmod', (u'well', u'RB'))
+((u'considering', u'VBG'), u'dep', (u'tried', u'VBN'))
+((u'tried', u'VBN'), u'dobj', (u'selection', u'NN'))
+((u'selection', u'NN'), u'compound', (u'budget', u'NN'))
+((u'tried', u'VBN'), u'advcl', (u'melt', u'VB'))
+((u'melt', u'VB'), u'mark', (u'though', u'IN'))
+((u'melt', u'VB'), u'nsubj', (u'belly', u'NN'))
+((u'belly', u'NN'), u'compound', (u'wish', u'NN'))
+((u'belly', u'NN'), u'compound', (u'pork', u'NN'))
+((u'belly', u'NN'), u'acl', (u'ordered', u'VBN'))
+((u'ordered', u'VBN'), u'xcomp', (u'roasted', u'JJ'))
+((u'ordered', u'VBN'), u'xcomp', (u'fat', u'JJ'))
+((u'fat', u'JJ'), u'advmod', (u'longer', u'RBR'))
+((u'longer', u'RBR'), u'advmod', (u'bit', u'RB'))
+((u'melt', u'VB'), u'dobj', (u'experience', u'NN'))
+((u'experience', u'NN'), u'compound', (u'mouth', u'NN'))
+
+$$$$
+
+((u'selection', u'NN'), u'compound', (u'wine', u'NN'))
+((u'selection', u'NN'), u'compound', (u'list', u'NN'))
+((u'selection', u'NN'), u'acl:relcl', (u'filled', u'VBD'))
+((u'filled', u'VBD'), u'nsubj', (u'glass', u'NN'))
+((u'glass', u'NN'), u'amod', (u'good', u'JJ'))
+((u'glass', u'NN'), u'compound', (u'wine', u'NN'))
+((u'filled', u'VBD'), u'advmod', (u'generously', u'RB'))
+((u'filled', u'VBD'), u'dobj', (u'top', u'NN'))
+
+$$$$
+
+((u'maintain', u'VBP'), u'nsubj', (u'pleasant', u'NNS'))
+((u'pleasant', u'NNS'), u'amod', (u'traditional', u'JJ'))
+((u'pleasant', u'NNS'), u'amod', (u'french', u'JJ'))
+((u'pleasant', u'NNS'), u'compound', (u'decour', u'NN'))
+((u'pleasant', u'NNS'), u'acl:relcl', (u'voices', u'VBZ'))
+((u'voices', u'VBZ'), u'mark', (u'though', u'IN'))
+((u'voices', u'VBZ'), u'nsubj', (u'hall', u'NN'))
+((u'hall', u'NN'), u'nmod', (u'raise', u'NN'))
+((u'raise', u'NN'), u'advmod', (u'rather', u'RB'))
+((u'raise', u'NN'), u'amod', (u'noisy', u'JJ'))
+((u'raise', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'raise', u'NN'), u'amod', (u'full', u'JJ'))
+((u'voices', u'VBZ'), u'xcomp', (u'able', u'JJ'))
+((u'able', u'JJ'), u'cop', (u'be', u'VB'))
+((u'maintain', u'VBP'), u'dobj', (u'conversation', u'NN'))
+
+$$$$
+
+((u'spice', u'NN'), u'aux', (u've', u'VB'))
+((u'spice', u'NN'), u'cop', (u'been', u'VBN'))
+((u'spice', u'NN'), u'compound', (u'cafe', u'NN'))
+((u'spice', u'NN'), u'advmod', (u'probably', u'RB'))
+((u'spice', u'NN'), u'cc', (u'times', u'CC'))
+((u'spice', u'NN'), u'advmod', (u'probably', u'RB'))
+((u'spice', u'NN'), u'advmod', (u'still', u'RB'))
+((u'spice', u'NN'), u'dep', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'best', u'JJS'))
+((u'restaurant', u'NN'), u'compound', (u'indian', u'NN'))
+((u'restaurant', u'NN'), u'nmod', (u'square', u'NN'))
+((u'square', u'NN'), u'case', (u'around', u'IN'))
+((u'square', u'NN'), u'compound', (u'union', u'NN'))
+
+$$$$
+
+((u'varies', u'VBZ'), u'nsubj', (u'service', u'NN'))
+((u'service', u'NN'), u'compound', (u'sum', u'NN'))
+((u'varies', u'VBZ'), u'ccomp', (u'get', u'VB'))
+((u'get', u'VB'), u'nsubj', (u'mediorce', u'NN'))
+((u'mediorce', u'NN'), u'amod', (u'good', u'JJ'))
+((u'mediorce', u'NN'), u'nmod', (u'waiter', u'NN'))
+((u'waiter', u'NN'), u'case', (u'depending', u'VBG'))
+((u'get', u'VB'), u'dobj', (u'ok', u'NN'))
+((u'ok', u'NN'), u'advmod', (u'generally', u'RB'))
+((u'ok', u'NN'), u'amod', (u'average', u'JJ'))
+
+$$$$
+
+((u'seating', u'NN'), u'dep', (u'prompt', u'JJ'))
+((u'prompt', u'JJ'), u'advmod', (u'always', u'RB'))
+((u'prompt', u'JJ'), u'ccomp', (u'fill', u'VBP'))
+((u'fill', u'VBP'), u'mark', (u'though', u'IN'))
+((u'fill', u'VBP'), u'nsubj', (u'restaurant', u'NN'))
+((u'fill', u'VBP'), u'nmod:tmod', (u'evening', u'NN'))
+
+$$$$
+
+((u'freshmess', u'VBZ'), u'dep', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'usually', u'RB'))
+((u'good', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'good', u'JJ'), u'dep', (u'though', u'IN'))
+((u'good', u'JJ'), u'dep', (u'wondered', u'JJ'))
+((u'wondered', u'JJ'), u'advmod', (u'ocasionally', u'RB'))
+((u'freshmess', u'VBZ'), u'dobj', (u'vegatables', u'NNS'))
+((u'vegatables', u'NNS'), u'amod', (u'raw', u'JJ'))
+((u'freshmess', u'VBZ'), u'nsubj', (u'orders', u'NNS'))
+((u'orders', u'NNS'), u'compound', (u'side', u'NN'))
+
+$$$$
+
+((u'noticed', u'VBD'), u'nsubj', (u'reviewers', u'NNS'))
+((u'reviewers', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'noticed', u'VBD'), u'ccomp', (u'arrive', u'VBP'))
+((u'arrive', u'VBP'), u'nsubj', (u'order', u'NN'))
+((u'order', u'NN'), u'amod', (u'slow', u'JJ'))
+((u'slow', u'JJ'), u'advmod', (u'often', u'RB'))
+((u'arrive', u'VBP'), u'nmod:tmod', (u'evening', u'NN'))
+((u'evening', u'NN'), u'advmod', (u'particularly', u'RB'))
+((u'evening', u'NN'), u'amod', (u'true', u'JJ'))
+((u'arrive', u'VBP'), u'nmod', (u'time', u'NN'))
+((u'time', u'NN'), u'neg', (u'not', u'RB'))
+((u'time', u'NN'), u'compound', (u'problem', u'NN'))
+((u'time', u'NN'), u'compound', (u'lunch', u'NN'))
+
+$$$$
+
+((u'eye', u'NN'), u'compound', (u'decor', u'NN'))
+((u'eye', u'NN'), u'amod', (u'vibrant', u'JJ'))
+((u'eye', u'NN'), u'dep', (u'semi', u'NNS'))
+((u'semi', u'NNS'), u'amod', (u'pleasing', u'JJ'))
+((u'semi', u'NNS'), u'amod', (u'several', u'JJ'))
+((u'semi', u'NNS'), u'dep', (u'hall', u'NN'))
+((u'hall', u'NN'), u'amod', (u'private', u'JJ'))
+((u'hall', u'NN'), u'amod', (u'right', u'JJ'))
+((u'right', u'JJ'), u'amod', (u'boths', u'JJ'))
+((u'hall', u'NN'), u'compound', (u'side', u'NN'))
+((u'hall', u'NN'), u'compound', (u'dining', u'NN'))
+((u'eye', u'NN'), u'dep', (u'date', u'NN'))
+((u'date', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'disappointed', u'VBN'), u'neg', (u'never', u'RB'))
+((u'disappointed', u'VBN'), u'auxpass', (u'been', u'VBN'))
+((u'disappointed', u'VBN'), u'dobj', (u'eye', u'NN'))
+((u'eye', u'NN'), u'amod', (u'red', u'JJ'))
+
+$$$$
+
+((u'went', u'VBD'), u'dobj', (u'time', u'NN'))
+((u'time', u'NN'), u'amod', (u'first', u'JJ'))
+((u'went', u'VBD'), u'dep', (u'live', u'VBP'))
+((u'live', u'VBP'), u'csubj', (u'taken', u'VBN'))
+((u'taken', u'VBN'), u'advmod', (u'completely', u'RB'))
+((u'live', u'VBP'), u'ccomp', (u'ordered', u'VBD'))
+((u'ordered', u'VBD'), u'nsubj', (u'atmosphere', u'NN'))
+((u'atmosphere', u'NN'), u'compound', (u'jazz', u'NN'))
+((u'atmosphere', u'NN'), u'compound', (u'band', u'NN'))
+((u'went', u'VBD'), u'nsubj', (u'salad', u'NN'))
+((u'salad', u'NN'), u'nummod', (u'lobster', u'CD'))
+((u'salad', u'NN'), u'compound', (u'cobb', u'NN'))
+
+$$$$
+
+((u'ordered', u'VBD'), u'advmod', (u've', u'RB'))
+((u'ordered', u'VBD'), u'neg', (u'never', u'RB'))
+((u'ordered', u'VBD'), u'dobj', (u'menu', u'NN'))
+((u'menu', u'NN'), u'amod', (u'else', u'JJ'))
+((u'else', u'JJ'), u'nmod:npmod', (u'anything', u'NN'))
+((u'ordered', u'VBD'), u'nsubj', (u'need', u'NN'))
+((u'need', u'NN'), u'neg', (u'no', u'DT'))
+
+$$$$
+
+((u'nyc', u'NN'), u'amod', (u'best', u'JJS'))
+((u'best', u'JJS'), u'advmod', (u'simply', u'RB'))
+((u'nyc', u'NN'), u'amod', (u'meal', u'JJ'))
+
+$$$$
+
+((u'go', u'VB'), u'aux', (u'can', u'MD'))
+((u'go', u'VB'), u'neg', (u'not', u'RB'))
+((u'go', u'VB'), u'dobj', (u'eye', u'NN'))
+((u'eye', u'NN'), u'amod', (u'wrong', u'JJ'))
+((u'eye', u'NN'), u'amod', (u'red', u'JJ'))
+((u'go', u'VB'), u'nsubj', (u'grill', u'NN'))
+
+$$$$
+
+((u'move', u'VB'), u'ccomp', (u'miss', u'VB'))
+((u'miss', u'VB'), u'nsubj', (u'side', u'NN'))
+((u'side', u'NN'), u'amod', (u'upper', u'JJ'))
+((u'side', u'NN'), u'amod', (u'east', u'JJ'))
+((u'miss', u'VB'), u'aux', (u'would', u'MD'))
+((u'miss', u'VB'), u'advmod', (u'genuinely', u'RB'))
+((u'miss', u'VB'), u'dobj', (u'restaurant', u'NN'))
+
+$$$$
+
+((u'lived', u'VBD'), u'nsubj', (u've', u'NN'))
+((u'lived', u'VBD'), u'nmod:tmod', (u'years', u'NNS'))
+((u'years', u'NNS'), u'compound', (u'area', u'NN'))
+
+$$$$
+
+((u'restaurant', u'NN'), u'amod', (u'cute', u'JJ'))
+((u'restaurant', u'NN'), u'dep', (u'upscale', u'JJ'))
+((u'upscale', u'JJ'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'diamond', u'NN'), u'compound', (u'food', u'NN'))
+((u'diamond', u'NN'), u'dep', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'rough', u'JJ'))
+((u'food', u'NN'), u'dep', (u'herbs', u'NNS'))
+((u'herbs', u'NNS'), u'amod', (u'homemade', u'JJ'))
+((u'homemade', u'JJ'), u'amod', (u'delicious', u'JJ'))
+((u'herbs', u'NNS'), u'amod', (u'perfect', u'JJ'))
+((u'herbs', u'NNS'), u'compound', (u'balance', u'NN'))
+((u'diamond', u'NN'), u'dep', (u'tomatoes', u'NNS'))
+
+$$$$
+
+((u'recommend', u'VB'), u'aux', (u'would', u'MD'))
+((u'recommend', u'VB'), u'nsubj', (u'highly', u'NNP'))
+
+$$$$
+
+((u'eat', u'VBP'), u'nsubj', (u'places', u'NNS'))
+((u'places', u'NNS'), u'amod', (u'favorite', u'JJ'))
+((u'eat', u'VBP'), u'dobj', (u'ny', u'NN'))
+
+$$$$
+
+((u'time', u'NN'), u'amod', (u'great', u'JJ'))
+((u'time', u'NN'), u'dep', (u'pub', u'NN'))
+((u'pub', u'NN'), u'amod', (u'jekyll', u'JJ'))
+((u'pub', u'NN'), u'compound', (u'hyde', u'NN'))
+((u'pub', u'NN'), u'dep', (u'night', u'NN'))
+((u'night', u'NN'), u'amod', (u'last', u'JJ'))
+
+$$$$
+
+((u'went', u'VBD'), u'nsubj', (u'walking', u'NN'))
+((u'walking', u'NN'), u'nmod', (u'village', u'NN'))
+((u'village', u'NN'), u'case', (u'around', u'IN'))
+((u'went', u'VBD'), u'dobj', (u'drinks', u'NNS'))
+((u'drinks', u'NNS'), u'compound', (u'place', u'NN'))
+
+$$$$
+
+((u'enjoying', u'VBG'), u'advmod', (u'really', u'RB'))
+((u'enjoying', u'VBG'), u'ccomp', (u'sat', u'VBD'))
+((u'sat', u'VBD'), u'nsubj', (u'bar', u'NN'))
+((u'sat', u'VBD'), u'dobj', (u'dinner', u'NN'))
+((u'dinner', u'NN'), u'compound', (u'table', u'NN'))
+
+$$$$
+
+((u'served', u'VBD'), u'nsubj', (u'server', u'NN'))
+((u'server', u'NN'), u'amod', (u'cool', u'JJ'))
+((u'cool', u'JJ'), u'advmod', (u'really', u'RB'))
+((u'served', u'VBD'), u'ccomp', (u'smile', u'VBP'))
+((u'smile', u'VBP'), u'nsubj', (u'drinks', u'NNS'))
+((u'drinks', u'NNS'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'made', u'VBD'), u'nsubj', (u'bathrooms', u'NNS'))
+((u'bathrooms', u'NNS'), u'compound', (u'place', u'NN'))
+((u'bathrooms', u'NNS'), u'compound', (u'decor', u'NN'))
+((u'bathrooms', u'NNS'), u'amod', (u'hidden', u'JJ'))
+((u'made', u'VBD'), u'dobj', (u'laugh', u'NN'))
+((u'laugh', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'recommend', u'VB'), u'advmod', (u'highly', u'RB'))
+((u'recommend', u'VB'), u'dobj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'visiting', u'VBG'))
+((u'restaurant', u'NN'), u'acl', (u'having', u'VBG'))
+((u'having', u'VBG'), u'dobj', (u'drinks', u'NNS'))
+((u'drinks', u'NNS'), u'compound', (u'dinner', u'NN'))
+
+$$$$
+
+((u'likes', u'VBZ'), u'nsubj', (u'person', u'NN'))
+((u'person', u'NN'), u'compound', (u'type', u'NN'))
+((u'likes', u'VBZ'), u'xcomp', (u'scared', u'VBN'))
+((u'scared', u'VBN'), u'auxpass', (u'being', u'VBG'))
+((u'scared', u'VBN'), u'ccomp', (u'entertained', u'VBD'))
+((u'entertained', u'VBD'), u'ccomp', (u'go', u'VBP'))
+((u'go', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'great', u'JJ'))
+((u'go', u'VBP'), u'xcomp', (u'eat', u'VB'))
+
+$$$$
+
+((u'great', u'JJ'), u'nsubj', (u'thougt', u'NN'))
+((u'thougt', u'NN'), u'compound', (u'husband', u'NN'))
+((u'great', u'JJ'), u'aux', (u'would', u'MD'))
+((u'great', u'JJ'), u'cop', (u'be', u'VB'))
+((u'great', u'JJ'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'dobj', (u'surprise', u'NN'))
+((u'surprise', u'NN'), u'amod', (u'jekyll', u'JJ'))
+((u'surprise', u'NN'), u'compound', (u'hyde', u'NN'))
+((u'surprise', u'NN'), u'compound', (u'pub', u'NN'))
+((u'surprise', u'NN'), u'compound', (u'anniversary', u'NN'))
+((u'go', u'VB'), u'xcomp', (u'fantastic', u'JJ'))
+
+$$$$
+
+((u'offer', u'VBP'), u'nsubj', (u'beers', u'NNS'))
+((u'beers', u'NNS'), u'amod', (u'different', u'JJ'))
+((u'offer', u'VBP'), u'ccomp', (u'made', u'VBD'))
+((u'made', u'VBD'), u'nsubj', (u'guest', u'NN'))
+((u'guest', u'NN'), u'compound', (u'thier', u'NN'))
+((u'made', u'VBD'), u'ccomp', (u'tortelini', u'NNS'))
+((u'tortelini', u'NNS'), u'nsubj', (u'husband', u'NN'))
+((u'husband', u'NN'), u'acl:relcl', (u'recommend', u'VB'))
+((u'recommend', u'VB'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'happy', u'JJ'))
+((u'happy', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'food', u'NN'), u'amod', (u'delicious', u'JJ'))
+((u'recommend', u'VB'), u'aux', (u'must', u'MD'))
+((u'recommend', u'VB'), u'dobj', (u'dish', u'NN'))
+((u'tortelini', u'NNS'), u'aux', (u'must', u'MD'))
+((u'tortelini', u'NNS'), u'cop', (u'be', u'VB'))
+((u'tortelini', u'NNS'), u'compound', (u'pumkin', u'NN'))
+
+$$$$
+
+((u'go', u'VBP'), u'nsubj', (u'shows', u'NNS'))
+((u'shows', u'NNS'), u'compound', (u'entertainment', u'NN'))
+((u'shows', u'NNS'), u'amod', (u'great', u'JJ'))
+((u'go', u'VBP'), u'dobj', (u'dinner', u'NN'))
+
+$$$$
+
+((u'please', u'VB'), u'xcomp', (u'take', u'VB'))
+((u'take', u'VB'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'nsubj', (u'advice', u'NN'))
+((u'go', u'VB'), u'xcomp', (u'try', u'VB'))
+((u'try', u'VB'), u'dobj', (u'place', u'NN'))
+
+$$$$
+
+((u'located', u'VBN'), u'dobj', (u'village', u'NN'))
+((u'village', u'NN'), u'amod', (u'greenewich', u'JJ'))
+
+$$$$
+
+((u'disapointed', u'JJ'), u'neg', (u'not', u'RB'))
+((u'disapointed', u'JJ'), u'cop', (u'be', u'VB'))
+
+$$$$
+
+((u'time', u'NN'), u'amod', (u'first', u'JJ'))
+((u'time', u'NN'), u'dep', (u'try', u'NN'))
+((u'try', u'NN'), u'amod', (u'new', u'JJ'))
+((u'try', u'NN'), u'compound', (u'york', u'NN'))
+((u'time', u'NN'), u'dep', (u'bagel', u'NN'))
+((u'bagel', u'NN'), u'amod', (u'new', u'JJ'))
+((u'bagel', u'NN'), u'compound', (u'york', u'NN'))
+
+$$$$
+
+((u'dissappointed', u'VBD'), u'dep', (u'not', u'RB'))
+((u'dissappointed', u'VBD'), u'dobj', (u'gem', u'NN'))
+((u'gem', u'NN'), u'amod', (u'bit', u'NN'))
+((u'bit', u'NN'), u'dep', (u'least', u'JJS'))
+((u'gem', u'NN'), u'amod', (u'little', u'JJ'))
+
+$$$$
+
+((u'bagel', u'VB'), u'xcomp', (u'huge', u'JJ'))
+
+$$$$
+
+((u'served', u'VBD'), u'nsubj', (u'interior', u'NN'))
+((u'interior', u'NN'), u'nummod', (u'warm', u'CD'))
+((u'interior', u'NN'), u'amod', (u'soft', u'JJ'))
+((u'interior', u'NN'), u'amod', (u'fluffy', u'JJ'))
+
+$$$$
+
+((u'messy', u'JJ'), u'nsubj', (u'workers', u'NNS'))
+((u'workers', u'NNS'), u'acl:relcl', (u'load', u'NN'))
+((u'load', u'NN'), u'advmod', (u'also', u'RB'))
+((u'load', u'NN'), u'advmod', (u'absolutely', u'RB'))
+((u'load', u'NN'), u'dep', (u'cheese', u'NN'))
+((u'cheese', u'NN'), u'amod', (u'bagel', u'JJ'))
+((u'cheese', u'NN'), u'compound', (u'cream', u'NN'))
+((u'messy', u'JJ'), u'dep', (u'gets', u'VBZ'))
+((u'messy', u'JJ'), u'advmod', (u'little', u'RB'))
+
+$$$$
+
+((u'recommend', u'VB'), u'nsubj', (u'loved', u'NNP'))
+((u'recommend', u'VB'), u'aux', (u'would', u'MD'))
+((u'recommend', u'VB'), u'advmod', (u'highly', u'RB'))
+
+$$$$
+
+((u'st', u'VBP'), u'nsubj', (u'cafe', u'NN'))
+((u'cafe', u'NN'), u'amod', (u'frist', u'JJ'))
+((u'cafe', u'NN'), u'compound', (u'time', u'NN'))
+((u'st', u'VBP'), u'ccomp', (u'say', u'VB'))
+((u'say', u'VB'), u'nsubj', (u'bart', u'NN'))
+((u'say', u'VB'), u'aux', (u'must', u'MD'))
+((u'say', u'VB'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'delicous', u'JJ'))
+((u'service', u'NN'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'think', u'VBP'), u'nsubj', (u'didn', u'NN'))
+((u'didn', u'NN'), u'amod', (u'called', u'VBN'))
+((u'didn', u'NN'), u'compound', (u'morning', u'NN'))
+((u'think', u'VBP'), u'ccomp', (u'able', u'JJ'))
+((u'able', u'JJ'), u'aux', (u'would', u'MD'))
+((u'able', u'JJ'), u'cop', (u'be', u'VB'))
+((u'able', u'JJ'), u'ccomp', (u'get', u'VBP'))
+((u'get', u'VBP'), u'csubj', (u'able', u'JJ'))
+((u'able', u'JJ'), u'dep', (u'get', u'VB'))
+((u'get', u'VBP'), u'advmod', (u'guests', u'NNS'))
+((u'guests', u'NNS'), u'case', (u'along', u'IN'))
+((u'guests', u'NNS'), u'nummod', (u'four', u'CD'))
+
+$$$$
+
+((u'roll', u'VBP'), u'nsubj', (u'lobster', u'NN'))
+((u'lobster', u'NN'), u'amod', (u'recommend', u'JJ'))
+((u'recommend', u'JJ'), u'advmod', (u'highly', u'RB'))
+((u'roll', u'VBP'), u'neg', (u'not', u'RB'))
+((u'roll', u'VBP'), u'advmod', (u'much', u'RB'))
+((u'much', u'RB'), u'nmod:npmod', (u'mayo', u'CD'))
+((u'roll', u'VBP'), u'dep', (u'tell', u'VB'))
+((u'tell', u'VB'), u'dobj', (u'lobster', u'NN'))
+((u'lobster', u'NN'), u'amod', (u'fresh', u'JJ'))
+
+$$$$
+
+((u'enjoyed', u'VBD'), u'nsubj', (u'guests', u'NNS'))
+((u'enjoyed', u'VBD'), u'ccomp', (u'chopped', u'VBD'))
+((u'chopped', u'VBD'), u'nsubj', (u'fe', u'NN'))
+((u'fe', u'NN'), u'compound', (u'pizza', u'NN'))
+((u'fe', u'NN'), u'compound', (u'santa', u'NN'))
+((u'chopped', u'VBD'), u'dobj', (u'chips', u'NNS'))
+((u'chips', u'NNS'), u'compound', (u'salad', u'NN'))
+((u'chips', u'NNS'), u'compound', (u'fish', u'NN'))
+
+$$$$
+
+((u'recommend', u'VBP'), u'advmod', (u'highly', u'RB'))
+((u'recommend', u'VBP'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'compound', (u'cafe', u'NN'))
+((u'food', u'NN'), u'compound', (u'st', u'NN'))
+((u'food', u'NN'), u'compound', (u'bart', u'NN'))
+((u'recommend', u'VBP'), u'nsubj', (u'service', u'NN'))
+((u'service', u'NN'), u'nummod', (u'ambience', u'CD'))
+((u'service', u'NN'), u'amod', (u'wonderful', u'JJ'))
+
+$$$$
+
+((u'staff', u'NN'), u'dep', (u'professional', u'JJ'))
+((u'professional', u'JJ'), u'advmod', (u'absolutely', u'RB'))
+
+$$$$
+
+((u'see', u'VB'), u'advmod', (u'sometimes', u'RB'))
+((u'see', u'VB'), u'ccomp', (u'don', u'VB'))
+((u'don', u'VB'), u'nsubj', (u'waiters', u'NNS'))
+((u'don', u'VB'), u'dobj', (u'dishes', u'NNS'))
+((u'dishes', u'NNS'), u'amod', (u'enough', u'JJ'))
+((u'dishes', u'NNS'), u'compound', (u'knowledge', u'NN'))
+
+$$$$
+
+
+$$$$
+
+((u'must', u'MD'), u'neg', (u'not', u'RB'))
+((u'must', u'MD'), u'nsubj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'acl:relcl', (u'do', u'VBP'))
+
+$$$$
+
+((u'want', u'VB'), u'ccomp', (u'recommend', u'VB'))
+((u'recommend', u'VB'), u'nsubj', (u'party', u'NN'))
+((u'party', u'NN'), u'amod', (u'dine', u'JJ'))
+((u'party', u'NN'), u'amod', (u'large', u'JJ'))
+((u'recommend', u'VB'), u'xcomp', (u'make', u'VB'))
+((u'make', u'VB'), u'dobj', (u'basement', u'NN'))
+((u'basement', u'NN'), u'compound', (u'reservation', u'NN'))
+
+$$$$
+
+((u'quiet', u'JJ'), u'amod', (u'nice', u'JJ'))
+((u'quiet', u'JJ'), u'dep', (u'small', u'JJ'))
+((u'small', u'JJ'), u'advmod', (u'enough', u'RB'))
+
+$$$$
+
+((u'overhyped', u'VBD'), u'nsubj', (u'way', u'NN'))
+((u'way', u'NN'), u'compound', (u'restaurant', u'NN'))
+
+$$$$
+
+((u'see', u'VBP'), u'nsubj', (u'chow', u'NN'))
+((u'chow', u'NN'), u'compound', (u'chow', u'NN'))
+((u'chow', u'NN'), u'compound', (u'fun', u'NN'))
+((u'see', u'VBP'), u'dobj', (u'oily', u'NNS'))
+((u'oily', u'NNS'), u'amod', (u'bland', u'JJ'))
+((u'bland', u'JJ'), u'advmod', (u'really', u'RB'))
+
+$$$$
+
+((u'okay', u'JJ'), u'dep', (u'don', u'VB'))
+((u'don', u'VB'), u'xcomp', (u'mind', u'VB'))
+((u'mind', u'VB'), u'dobj', (u'cause', u'NN'))
+((u'cause', u'NN'), u'amod', (u'oily', u'JJ'))
+((u'cause', u'NN'), u'compound', (u'part', u'NN'))
+((u'cause', u'NN'), u'acl', (u'cooked', u'VBN'))
+((u'cooked', u'VBN'), u'xcomp', (u'bland', u'JJ'))
+((u'bland', u'JJ'), u'nsubj', (u'way', u'NN'))
+((u'way', u'NN'), u'compound', (u'way', u'NN'))
+((u'bland', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'pancakes', u'NNS'), u'compound', (u'scallion', u'NN'))
+((u'pancakes', u'NNS'), u'dep', (u'dumplings', u'NNS'))
+((u'dumplings', u'NNS'), u'amod', (u'fried', u'JJ'))
+((u'pancakes', u'NNS'), u'dep', (u'nothing', u'NN'))
+((u'nothing', u'NN'), u'amod', (u'ordinary', u'JJ'))
+
+$$$$
+
+((u'thing', u'NN'), u'compound', (u'service', u'NN'))
+((u'thing', u'NN'), u'dep', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'sushi', u'NN'), u'amod', (u'boring', u'JJ'))
+((u'sushi', u'NN'), u'amod', (u'inside', u'JJ'))
+((u'sushi', u'NN'), u'dep', (u'tuna', u'NN'))
+((u'tuna', u'NN'), u'amod', (u'average', u'JJ'))
+((u'average', u'JJ'), u'advmod', (u'pretty', u'RB'))
+((u'tuna', u'NN'), u'dep', (u'rolls', u'NNS'))
+((u'rolls', u'NNS'), u'amod', (u'soggy', u'JJ'))
+((u'sushi', u'NN'), u'dep', (u'flavor', u'NN'))
+((u'flavor', u'NN'), u'neg', (u'no', u'DT'))
+
+$$$$
+
+((u'wouldn', u'VB'), u'advmod', (u'definitely', u'RB'))
+((u'wouldn', u'VB'), u'xcomp', (u'go', u'VB'))
+((u'go', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'places', u'VBZ'), u'nsubj', (u'thai', u'NNS'))
+((u'thai', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'places', u'VBZ'), u'dobj', (u'city', u'NN'))
+((u'city', u'NN'), u'amod', (u'toons', u'JJ'))
+((u'toons', u'JJ'), u'advmod', (u'far', u'RB'))
+
+$$$$
+
+((u'pad', u'NN'), u'dep', (u'everything', u'NN'))
+((u'everything', u'NN'), u'amod', (u'delicious', u'JJ'))
+((u'delicious', u'JJ'), u'amod', (u'penang', u'JJ'))
+((u'everything', u'NN'), u'amod', (u'fantastic', u'JJ'))
+((u'fantastic', u'JJ'), u'amod', (u'else', u'JJ'))
+
+$$$$
+
+((u'price', u'NN'), u'amod', (u'reasonable', u'JJ'))
+((u'reasonable', u'JJ'), u'nmod', (u'service', u'NN'))
+((u'service', u'NN'), u'case', (u'although', u'IN'))
+((u'price', u'NN'), u'dep', (u'poor', u'JJ'))
+
+$$$$
+
+((u'restaurant', u'NN'), u'amod', (u'fresh', u'JJ'))
+((u'restaurant', u'NN'), u'dep', (u'course', u'NN'))
+((u'course', u'NN'), u'amod', (u'amazing', u'JJ'))
+((u'course', u'NN'), u'compound', (u'food', u'NN'))
+((u'course', u'NN'), u'compound', (u'delicious', u'NN'))
+((u'restaurant', u'NN'), u'dep', (u'fresh', u'JJ'))
+
+$$$$
+
+((u'fun', u'NN'), u'amod', (u'great', u'JJ'))
+((u'fun', u'NN'), u'amod', (u'romantic', u'JJ'))
+((u'fun', u'NN'), u'compound', (u'evening', u'NN'))
+((u'fun', u'NN'), u'dep', (u'friends', u'NNS'))
+((u'friends', u'NNS'), u'compound', (u'evening', u'NN'))
+
+$$$$
+
+((u'going', u'VBG'), u'aux', (u'be', u'VB'))
+((u'going', u'VBG'), u'compound:prt', (u'back', u'RP'))
+((u'going', u'VBG'), u'advmod', (u'soon', u'RB'))
+((u'soon', u'RB'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'keep', u'VB'), u'dobj', (u'work', u'NN'))
+((u'work', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'hats', u'NNS'), u'dep', (u'chef', u'NN'))
+
+$$$$
+
+((u'comes', u'VBZ'), u'nsubj', (u'person', u'NN'))
+((u'person', u'NN'), u'amod', (u'experienced', u'VBN'))
+((u'experienced', u'VBN'), u'neg', (u'not', u'RB'))
+((u'comes', u'VBZ'), u'ccomp', (u'took', u'VBD'))
+((u'took', u'VBD'), u'nsubj', (u'friend', u'NN'))
+((u'friend', u'NN'), u'amod', (u'thai', u'JJ'))
+((u'friend', u'NN'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'visited', u'VBD'), u'xcomp', (u'thailand', u'JJ'))
+((u'visited', u'VBD'), u'advmod', (u'quite', u'RB'))
+((u'visited', u'VBD'), u'nsubj', (u'cuisine', u'NN'))
+((u'cuisine', u'NN'), u'amod', (u'expert', u'JJ'))
+
+$$$$
+
+
+$$$$
+
+((u'salads', u'NNS'), u'amod', (u'refreshing', u'JJ'))
+((u'refreshing', u'JJ'), u'amod', (u'delicious', u'JJ'))
+((u'salads', u'NNS'), u'dep', (u'spicy', u'JJ'))
+((u'spicy', u'JJ'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'pam', u'VB'), u'xcomp', (u'amazing', u'JJ'))
+((u'amazing', u'JJ'), u'nsubj', (u'fish', u'NN'))
+((u'fish', u'NN'), u'amod', (u'special', u'JJ'))
+((u'fish', u'NN'), u'amod', (u'fried', u'JJ'))
+
+$$$$
+
+((u'left', u'VBD'), u'nsubj', (u'nothing', u'NN'))
+((u'nothing', u'NN'), u'advmod', (u'too', u'RB'))
+((u'nothing', u'NN'), u'amod', (u'large', u'JJ'))
+((u'nothing', u'NN'), u'nummod', (u'two', u'CD'))
+((u'nothing', u'NN'), u'compound', (u'people', u'NNS'))
+
+$$$$
+
+
+$$$$
+
+((u'dinner', u'NN'), u'amod', (u'late', u'JJ'))
+((u'dinner', u'NN'), u'compound', (u'night', u'NN'))
+((u'dinner', u'NN'), u'dep', (u'saturday', u'NNP'))
+((u'saturday', u'NNP'), u'dep', (u'night', u'NN'))
+
+$$$$
+
+((u'lots', u'NNS'), u'amod', (u'great', u'JJ'))
+((u'lots', u'NNS'), u'compound', (u'vibe', u'NN'))
+((u'lots', u'NNS'), u'dep', (u'people', u'NNS'))
+
+$$$$
+
+((u'ordered', u'VBD'), u'nsubj', (u'husband', u'NN'))
+((u'ordered', u'VBD'), u'dobj', (u'medium', u'NN'))
+((u'medium', u'NN'), u'compound', (u'steak', u'NN'))
+
+$$$$
+
+((u'perfect', u'JJ'), u'advmod', (u'husbands', u'RB'))
+((u'perfect', u'JJ'), u'dep', (u'dry', u'JJ'))
+((u'dry', u'JJ'), u'advmod', (u'done', u'RB'))
+((u'done', u'RB'), u'advmod', (u'well', u'RB'))
+
+$$$$
+
+((u'liked', u'VBD'), u'dep', (u'complain', u'VBP'))
+((u'complain', u'VBP'), u'nsubj', (u'didn', u'NN'))
+((u'liked', u'VBD'), u'dobj', (u'atmosphere', u'NN'))
+((u'liked', u'VBD'), u'nsubj', (u'much', u'RB'))
+
+$$$$
+
+((u'give', u'VB'), u'ccomp', (u'write', u'VB'))
+((u'write', u'VB'), u'nsubj', (u'chance', u'NN'))
+((u'chance', u'NN'), u'det', (u'another', u'DT'))
+
+$$$$
+
+((u'visited', u'VBD'), u'nmod', (u'vacation', u'NN'))
+((u'vacation', u'NN'), u'case', (u'while', u'IN'))
+((u'visited', u'VBD'), u'nsubj', (u'reviews', u'NNS'))
+((u'reviews', u'NNS'), u'amod', (u'reading', u'VBG'))
+
+$$$$
+
+((u'enjoy', u'VBP'), u'nsubj', (u'day', u'NN'))
+((u'day', u'NN'), u'amod', (u'hot', u'JJ'))
+((u'day', u'NN'), u'dep', (u'stop', u'NN'))
+((u'stop', u'NN'), u'amod', (u'fabulous', u'JJ'))
+((u'enjoy', u'VBP'), u'dobj', (u'lunch', u'NN'))
+
+$$$$
+
+((u'ambience', u'VB'), u'dobj', (u'business', u'NN'))
+((u'business', u'NN'), u'amod', (u'quaint', u'JJ'))
+((u'quaint', u'JJ'), u'amod', (u'cute', u'JJ'))
+((u'business', u'NN'), u'amod', (u'good', u'JJ'))
+((u'ambience', u'VB'), u'nmod', (u'vacation', u'NN'))
+((u'vacation', u'NN'), u'case', (u'although', u'IN'))
+
+$$$$
+
+((u'salads', u'JJ'), u'dep', (u'fantastic', u'JJ'))
+
+$$$$
+
+((u'great', u'JJ'), u'mark', (u'although', u'IN'))
+((u'great', u'JJ'), u'csubj', (u'looking', u'VBG'))
+((u'looking', u'VBG'), u'dobj', (u'salads', u'NNS'))
+((u'salads', u'NNS'), u'amod', (u'regular', u'JJ'))
+((u'salads', u'NNS'), u'compound', (u'lettuce', u'NN'))
+((u'salads', u'NNS'), u'compound', (u'walnuts', u'NNS'))
+((u'great', u'JJ'), u'dep', (u'got', u'VBD'))
+
+$$$$
+
+((u'ingredients', u'NNS'), u'dep', (u'plus', u'NN'))
+((u'plus', u'NN'), u'amod', (u'organic', u'JJ'))
+((u'plus', u'NN'), u'amod', (u'real', u'JJ'))
+
+$$$$
+
+((u'be', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'sushi', u'NN'), u'amod', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'really', u'RB'))
+((u'sushi', u'NN'), u'amod', (u'inexpensive', u'JJ'))
+
+$$$$
+
+((u'costs', u'VBZ'), u'iobj', (u'turn', u'NN'))
+((u'turn', u'NN'), u'amod', (u'extra', u'JJ'))
+((u'costs', u'VBZ'), u'dobj', (u'roll', u'NN'))
+((u'roll', u'NN'), u'amod', (u'regular', u'JJ'))
+((u'roll', u'NN'), u'nmod', (u'triples', u'NNS'))
+((u'triples', u'NNS'), u'case', (u'inside', u'IN'))
+((u'triples', u'NNS'), u'compound', (u'roll', u'NN'))
+((u'triples', u'NNS'), u'compound', (u'roll', u'NN'))
+((u'costs', u'VBZ'), u'nsubj', (u'size', u'NN'))
+((u'size', u'NN'), u'amod', (u'rice', u'JJ'))
+((u'rice', u'JJ'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'tuna', u'NN'), u'amod', (u'spicy', u'JJ'))
+((u'tuna', u'NN'), u'dep', (u'roll', u'NN'))
+((u'roll', u'NN'), u'dep', (u'range', u'NN'))
+((u'range', u'NN'), u'amod', (u'huge', u'JJ'))
+((u'range', u'NN'), u'amod', (u'best', u'JJS'))
+((u'best', u'JJS'), u'advmod', (u'probably', u'RB'))
+((u'range', u'NN'), u'compound', (u've', u'NN'))
+((u'range', u'NN'), u'compound', (u'price', u'NN'))
+
+$$$$
+
+((u'yellowtail', u'VB'), u'xcomp', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'particularly', u'RB'))
+((u'good', u'JJ'), u'advmod', (u'well', u'RB'))
+
+$$$$
+
+((u'eat', u'VBP'), u'nsubj', (u'reservations', u'NNS'))
+((u'eat', u'VBP'), u'dobj', (u'deal', u'NN'))
+((u'eat', u'VBP'), u'advmod', (u'however', u'RB'))
+((u'eat', u'VBP'), u'dep', (u'order', u'VB'))
+((u'order', u'VB'), u'nsubj', (u'choices', u'NNS'))
+((u'choices', u'NNS'), u'amod', (u'limited', u'JJ'))
+((u'limited', u'JJ'), u'advmod', (u'fairly', u'RB'))
+((u'order', u'VB'), u'advmod', (u'probably', u'RB'))
+((u'order', u'VB'), u'ccomp', (u'eat', u'VB'))
+((u'eat', u'VB'), u'nsubj', (u'food', u'NN'))
+((u'eat', u'VB'), u'dobj', (u'menu', u'NN'))
+((u'menu', u'NN'), u'amod', (u'less', u'JJR'))
+((u'menu', u'NN'), u'amod', (u'going', u'VBG'))
+
+$$$$
+
+((u'sure', u'JJ'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'compound', (u'event', u'NN'))
+((u'sure', u'JJ'), u'aux', (u'll', u'VBP'))
+((u'sure', u'JJ'), u'cop', (u'be', u'VB'))
+((u'sure', u'JJ'), u'ccomp', (u'stop', u'VB'))
+((u'stop', u'VB'), u'dobj', (u'town', u'NN'))
+((u'town', u'NN'), u'compound', (u'part', u'NN'))
+
+$$$$
+
+((u'gets', u'VBZ'), u'nsubj', (u'wong', u'NN'))
+((u'wong', u'NN'), u'amod', (u'big', u'JJ'))
+((u'gets', u'VBZ'), u'dobj', (u'establishment', u'NN'))
+((u'establishment', u'NN'), u'amod', (u'fine', u'JJ'))
+((u'fine', u'JJ'), u'nmod:npmod', (u'ups', u'NNS'))
+((u'ups', u'NNS'), u'amod', (u'big', u'JJ'))
+
+$$$$
+
+((u'price', u'NN'), u'amod', (u'great', u'JJ'))
+((u'price', u'NN'), u'dep', (u'service', u'NN'))
+((u'service', u'NN'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'literally', u'RB'), u'nsubj', (u'waiters', u'NNS'))
+((u'waiters', u'NNS'), u'compound', (u'atmosphere', u'NN'))
+((u'waiters', u'NNS'), u'compound', (u'noisy', u'NN'))
+((u'literally', u'RB'), u'xcomp', (u'walking', u'VBG'))
+((u'walking', u'VBG'), u'compound:prt', (u'around', u'RP'))
+((u'walking', u'VBG'), u'dobj', (u'things', u'NNS'))
+((u'walking', u'VBG'), u'advmod', (u'fast', u'RB'))
+
+$$$$
+
+((u'prepared', u'VBN'), u'nsubj', (u'food', u'NN'))
+((u'prepared', u'VBN'), u'advmod', (u'efficiently', u'RB'))
+((u'efficiently', u'RB'), u'advmod', (u'quickly', u'RB'))
+
+$$$$
+
+((u'comes', u'VBZ'), u'dobj', (u'price', u'NN'))
+((u'price', u'NN'), u'amod', (u'reasonable', u'JJ'))
+((u'reasonable', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'comes', u'VBZ'), u'nsubj', (u'noodles', u'NNS'))
+((u'noodles', u'NNS'), u'amod', (u'congee', u'JJ'))
+((u'noodles', u'NNS'), u'advmod', (u'no', u'RB'))
+((u'no', u'RB'), u'nmod:npmod', (u'dishes', u'NNS'))
+((u'dishes', u'NNS'), u'nummod', (u'rice', u'CD'))
+
+$$$$
+
+((u'takeout', u'VB'), u'xcomp', (u'great', u'JJ'))
+((u'great', u'JJ'), u'advmod', (u'too', u'RB'))
+((u'great', u'JJ'), u'ccomp', (u'give', u'VBP'))
+((u'give', u'VBP'), u'mark', (u'since', u'IN'))
+((u'give', u'VBP'), u'dobj', (u'tupperware', u'NN'))
+((u'tupperware', u'NN'), u'amod', (u'high', u'JJ'))
+((u'tupperware', u'NN'), u'compound', (u'quality', u'NN'))
+((u'give', u'VBP'), u'advmod', (u'well', u'RB'))
+
+$$$$
+
+((u'place', u'NN'), u'amod', (u'crowded', u'JJ'))
+((u'crowded', u'JJ'), u'advmod', (u'always', u'RB'))
+((u'crowded', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'place', u'NN'), u'dep', (u'popular', u'JJ'))
+
+$$$$
+
+((u'went', u'VBD'), u'nsubj', (u'reccomendation', u'NNS'))
+((u'reccomendation', u'NNS'), u'compound', (u'friend', u'NN'))
+
+$$$$
+
+((u'enjoyed', u'VBD'), u'dobj', (u'salad', u'NN'))
+((u'salad', u'NN'), u'amod', (u'nice', u'JJ'))
+((u'nice', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'salad', u'NN'), u'compound', (u'caesar', u'NN'))
+((u'enjoyed', u'VBD'), u'nmod', (u'arugula', u'NN'))
+((u'arugula', u'NN'), u'case', (u'while', u'IN'))
+((u'arugula', u'NN'), u'compound', (u'wife', u'NN'))
+((u'enjoyed', u'VBD'), u'nsubj', (u'cheese', u'NN'))
+((u'cheese', u'NN'), u'compound', (u'goat', u'NN'))
+((u'cheese', u'NN'), u'amod', (u'tasty', u'JJ'))
+((u'tasty', u'JJ'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'opted', u'VBD'), u'nsubj', (u'dish', u'NN'))
+((u'dish', u'NN'), u'compound', (u'pasta', u'NN'))
+((u'dish', u'NN'), u'acl', (u'served', u'VBN'))
+((u'served', u'VBN'), u'xcomp', (u'fresh', u'JJ'))
+((u'fresh', u'JJ'), u'amod', (u'timely', u'JJ'))
+
+$$$$
+
+((u'concluded', u'VBD'), u'nsubj', (u'cake', u'NN'))
+((u'cake', u'NN'), u'amod', (u'tiramisu', u'JJ'))
+((u'cake', u'NN'), u'compound', (u'chocolate', u'NN'))
+((u'cake', u'NN'), u'amod', (u'delicious', u'JJ'))
+
+$$$$
+
+((u'go', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'went', u'VBD'), u'advmod', (u'recently', u'RB'))
+((u'went', u'VBD'), u'dobj', (u'workers', u'NNS'))
+((u'workers', u'NNS'), u'compound', (u'restaurant', u'NN'))
+((u'workers', u'NNS'), u'compound', (u'co', u'NN'))
+((u'went', u'VBD'), u'nsubj', (u'time', u'NN'))
+((u'time', u'NN'), u'nummod', (u'lunch', u'CD'))
+((u'time', u'NN'), u'amod', (u'amazing', u'JJ'))
+
+$$$$
+
+((u'place', u'VBP'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'compound', (u'staff', u'NN'))
+((u'food', u'NN'), u'amod', (u'accomodating', u'VBG'))
+((u'food', u'NN'), u'amod', (u'delicious', u'JJ'))
+((u'delicious', u'JJ'), u'advmod', (u'absolutely', u'RB'))
+((u'place', u'VBP'), u'xcomp', (u'lovely', u'JJ'))
+
+$$$$
+
+((u'wanted', u'VBD'), u'advmod', (u'even', u'RB'))
+((u'wanted', u'VBD'), u'nsubj', (u'manager', u'NN'))
+((u'manager', u'NN'), u'compound', (u'visit', u'NN'))
+((u'wanted', u'VBD'), u'xcomp', (u'make', u'VB'))
+((u'make', u'VB'), u'xcomp', (u'sure', u'JJ'))
+((u'make', u'VB'), u'xcomp', (u'enjoying', u'VBG'))
+
+$$$$
+
+((u'felt', u'VBD'), u'nsubj', (u'prices', u'NNS'))
+((u'prices', u'NNS'), u'advmod', (u'yes', u'RB'))
+((u'prices', u'NNS'), u'advmod', (u'high', u'JJ'))
+((u'felt', u'VBD'), u'xcomp', (u'worth', u'JJ'))
+
+$$$$
+
+((u'felt', u'VBN'), u'xcomp', (u'worth', u'JJ'))
+
+$$$$
+
+((u'get', u'VB'), u'advmod', (u'sometimes', u'RB'))
+((u'get', u'VB'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'good', u'JJ'))
+((u'service', u'NN'), u'compound', (u'food', u'NN'))
+((u'service', u'NN'), u'compound', (u'ok', u'NN'))
+
+$$$$
+
+((u'get', u'VB'), u'advmod', (u'sometimes', u'RB'))
+((u'get', u'VB'), u'aux', (u'get', u'VB'))
+((u'get', u'VB'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'bad', u'JJ'))
+((u'service', u'NN'), u'compound', (u'food', u'NN'))
+((u'service', u'NN'), u'amod', (u'bad', u'JJ'))
+((u'get', u'VB'), u'advmod', (u'sometimes', u'RB'))
+((u'get', u'VB'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'good', u'JJ'))
+((u'good', u'JJ'), u'amod', (u'good', u'JJ'))
+((u'service', u'NN'), u'amod', (u'bad', u'JJ'))
+
+$$$$
+
+((u'not', u'RB'), u'dep', (u'consistent', u'JJ'))
+
+$$$$
+
+((u'depends', u'VBZ'), u'advmod', (u'really', u'RB'))
+((u'depends', u'VBZ'), u'nsubj', (u'luck', u'NN'))
+
+$$$$
+
+((u'means', u'VBZ'), u'nsubj', (u'bistro', u'NN'))
+((u'bistro', u'NN'), u'compound', (u'place', u'NN'))
+((u'means', u'VBZ'), u'dobj', (u'wine', u'NN'))
+((u'wine', u'NN'), u'amod', (u'simple', u'JJ'))
+((u'wine', u'NN'), u'compound', (u'dishes', u'NNS'))
+((u'wine', u'NN'), u'acl', (u'served', u'VBN'))
+((u'served', u'VBN'), u'advmod', (u'efficiently', u'RB'))
+((u'efficiently', u'RB'), u'nmod:npmod', (u'atmosphere', u'NN'))
+((u'atmosphere', u'NN'), u'amod', (u'bustling', u'JJ'))
+
+$$$$
+
+((u'go', u'VBP'), u'nsubj', (u'patis', u'NNS'))
+((u'go', u'VBP'), u'advmod', (u'no', u'RB'))
+((u'no', u'RB'), u'advmod', (u'wrong', u'JJ'))
+
+$$$$
+
+((u'eating', u'VBG'), u'neg', (u'not', u'RB'))
+((u'eating', u'VBG'), u'dobj', (u'hints', u'NNS'))
+((u'hints', u'NNS'), u'amod', (u'haut', u'JJ'))
+((u'hints', u'NNS'), u'amod', (u'cuisine', u'JJ'))
+((u'hints', u'NNS'), u'amod', (u'subtle', u'JJ'))
+((u'hints', u'NNS'), u'acl:relcl', (u'cassuolet', u'VBP'))
+((u'cassuolet', u'VBP'), u'nsubj', (u'whatever', u'WDT'))
+((u'cassuolet', u'VBP'), u'dobj', (u'tripe', u'NN'))
+((u'tripe', u'NN'), u'amod', (u'steake', u'JJ'))
+((u'tripe', u'NN'), u'compound', (u'fritte', u'NN'))
+((u'tripe', u'NN'), u'dep', (u'stuff', u'NN'))
+((u'stuff', u'NN'), u'compound', (u'stew', u'FW'))
+((u'stuff', u'NN'), u'compound', (u'etc', u'FW'))
+((u'stuff', u'NN'), u'amod', (u'simple', u'JJ'))
+
+$$$$
+
+((u'pastis', u'VBZ'), u'nsubj', (u'terms', u'NNS'))
+((u'terms', u'NNS'), u'amod', (u'evaluated', u'JJ'))
+((u'pastis', u'VBZ'), u'xcomp', (u'wonderful', u'JJ'))
+((u'wonderful', u'JJ'), u'advmod', (u'simply', u'RB'))
+
+$$$$
+
+((u'l', u'NN'), u'amod', (u'right', u'JJ'))
+((u'l', u'NN'), u'dep', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'brooklyn', u'JJ'))
+((u'place', u'NN'), u'amod', (u'nice', u'JJ'))
+((u'place', u'NN'), u'compound', (u'cozy', u'NN'))
+((u'l', u'NN'), u'dep', (u'pizza', u'NN'))
+((u'pizza', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'burnt', u'JJ'), u'advmod', (u'little', u'RB'))
+((u'burnt', u'JJ'), u'dep', (u'delicious', u'JJ'))
+((u'delicious', u'JJ'), u'advmod', (u'still', u'RB'))
+((u'burnt', u'JJ'), u'parataxis', (u'raddichio', u'NN'))
+((u'raddichio', u'NN'), u'compound', (u'cheese', u'NN'))
+((u'raddichio', u'NN'), u'compound', (u'panchetta', u'NN'))
+((u'raddichio', u'NN'), u'amod', (u'bitter', u'JJ'))
+((u'bitter', u'JJ'), u'amod', (u'kind', u'JJ'))
+((u'raddichio', u'NN'), u'dep', (u'though', u'IN'))
+
+$$$$
+
+((u'got', u'VBD'), u'nsubj', (u'friend', u'NN'))
+((u'got', u'VBD'), u'ccomp', (u'tasted', u'VBD'))
+((u'tasted', u'VBD'), u'nsubj', (u'pizza', u'NN'))
+((u'pizza', u'NN'), u'compound', (u'mushroom', u'NN'))
+((u'tasted', u'VBD'), u'advmod', (u'better', u'RBR'))
+
+$$$$
+
+((u'sangria', u'NN'), u'dep', (u'muggy', u'NN'))
+((u'muggy', u'NN'), u'amod', (u'tasty', u'JJ'))
+((u'tasty', u'JJ'), u'advmod', (u'pretty', u'RB'))
+((u'muggy', u'NN'), u'amod', (u'good', u'JJ'))
+((u'muggy', u'NN'), u'amod', (u'hot', u'JJ'))
+((u'muggy', u'NN'), u'dep', (u'day', u'NN'))
+
+$$$$
+
+((u'guess', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'compound', (u'kind', u'NN'))
+((u'place', u'NN'), u'amod', (u'small', u'JJ'))
+((u'guess', u'VBP'), u'xcomp', (u'busy', u'JJ'))
+((u'busy', u'JJ'), u'neg', (u'not', u'RB'))
+((u'busy', u'JJ'), u'advmod', (u'too', u'RB'))
+((u'busy', u'JJ'), u'ccomp', (u'kids', u'NNS'))
+((u'kids', u'NNS'), u'aux', (u'might', u'MD'))
+((u'kids', u'NNS'), u'cop', (u'be', u'VB'))
+((u'kids', u'NNS'), u'amod', (u'fit', u'JJ'))
+((u'fit', u'JJ'), u'amod', (u'able', u'JJ'))
+((u'kids', u'NNS'), u'compound', (u'group', u'NN'))
+
+$$$$
+
+((u'recommend', u'VB'), u'nsubj', (u'overall', u'JJ'))
+((u'recommend', u'VB'), u'aux', (u'would', u'MD'))
+((u'recommend', u'VB'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'kendall', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'coming', u'VBG'))
+((u'place', u'NN'), u'compound', (u'boston', u'NN'))
+((u'place', u'NN'), u'nmod', (u'pizza', u'NN'))
+((u'pizza', u'NN'), u'case', (u'like', u'IN'))
+((u'pizza', u'NN'), u'compound', (u'emma', u'NN'))
+((u'kendall', u'VBP'), u'xcomp', (u'cambridge', u'JJ'))
+((u'cambridge', u'JJ'), u'advmod', (u'square', u'RB'))
+((u'cambridge', u'JJ'), u'dep', (u'although', u'IN'))
+((u'cambridge', u'JJ'), u'dep', (u'toppings', u'JJ'))
+((u'toppings', u'JJ'), u'advmod', (u'funky', u'RB'))
+
+$$$$
+
+((u'started', u'VBD'), u'nsubj', (u'beer', u'NN'))
+((u'beer', u'NN'), u'amod', (u'bombay', u'JJ'))
+((u'beer', u'NN'), u'amod', (u'big', u'JJ'))
+((u'big', u'JJ'), u'advmod', (u'enough', u'RB'))
+((u'big', u'JJ'), u'dep', (u'two', u'CD'))
+
+$$$$
+
+((u'masala', u'NN'), u'compound', (u'dinner', u'NN'))
+((u'masala', u'NN'), u'compound', (u'chicken', u'NN'))
+((u'masala', u'NN'), u'compound', (u'tikka', u'NN'))
+((u'masala', u'NN'), u'dep', (u'naan', u'NN'))
+((u'naan', u'NN'), u'amod', (u'garlic', u'JJ'))
+
+$$$$
+
+((u'mmmmm', u'VB'), u'xcomp', (u'delicious', u'JJ'))
+
+$$$$
+
+((u'service', u'VB'), u'xcomp', (u'friendly', u'JJ'))
+((u'friendly', u'JJ'), u'nsubj', (u'people', u'NNS'))
+((u'people', u'NNS'), u'amod', (u'slow', u'JJ'))
+
+$$$$
+
+((u'relax', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'nice', u'JJ'))
+((u'relax', u'VBP'), u'dobj', (u'conversation', u'NN'))
+
+$$$$
+
+((u'wait', u'VB'), u'xcomp', (u'go', u'VB'))
+((u'go', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'lived', u'VBD'), u'dobj', (u'chelsea', u'NN'))
+((u'lived', u'VBD'), u'nsubj', (u'years', u'NNS'))
+((u'years', u'NNS'), u'nummod', (u'two', u'CD'))
+((u'years', u'NNS'), u'acl', (u'noticed', u'VBN'))
+((u'noticed', u'VBN'), u'neg', (u'never', u'RB'))
+((u'noticed', u'VBN'), u'dobj', (u'restaurant', u'NN'))
+
+$$$$
+
+((u'food', u'NN'), u'dep', (u'delicious', u'NNS'))
+((u'delicious', u'NNS'), u'amod', (u'authentic', u'JJ'))
+((u'delicious', u'NNS'), u'amod', (u'italian', u'JJ'))
+
+$$$$
+
+((u'pizza', u'NN'), u'dep', (u'pasta', u'NN'))
+((u'pasta', u'NN'), u'amod', (u'terrific', u'JJ'))
+((u'pasta', u'NN'), u'compound', (u'homemade', u'NN'))
+
+$$$$
+
+((u'ambience', u'VB'), u'xcomp', (u'impeccable', u'JJ'))
+((u'impeccable', u'JJ'), u'nsubj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'delightful', u'JJ'))
+
+$$$$
+
+((u'mad', u'JJ'), u'advmod', (u'still', u'RB'))
+((u'mad', u'JJ'), u'dep', (u'pay', u'VB'))
+((u'pay', u'VB'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'lousy', u'JJ'))
+
+$$$$
+
+((u'flavorless', u'VBZ'), u'nsubj', (u'steak', u'NN'))
+((u'steak', u'NN'), u'compound', (u'hanger', u'NN'))
+((u'steak', u'NN'), u'nmod', (u'tuna', u'NN'))
+((u'tuna', u'NN'), u'case', (u'like', u'IN'))
+((u'tuna', u'NN'), u'compound', (u'rubber', u'NN'))
+((u'flavorless', u'VBZ'), u'neg', (u'not', u'RB'))
+((u'flavorless', u'VBZ'), u'dep', (u'mention', u'VB'))
+((u'mention', u'VB'), u'xcomp', (u'tasted', u'JJ'))
+((u'tasted', u'JJ'), u'advcl', (u'thawed', u'VBN'))
+((u'thawed', u'VBN'), u'case', (u'like', u'IN'))
+((u'thawed', u'VBN'), u'auxpass', (u'been', u'VBN'))
+
+$$$$
+
+((u'service', u'NN'), u'dep', (u'ambience', u'NN'))
+((u'ambience', u'NN'), u'advmod', (u'also', u'RB'))
+((u'ambience', u'NN'), u'amod', (u'horrible', u'JJ'))
+((u'ambience', u'NN'), u'amod', (u'great', u'JJ'))
+((u'great', u'JJ'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'try', u'VB'), u'aux', (u'do', u'VBP'))
+((u'try', u'VB'), u'neg', (u'not', u'RB'))
+((u'try', u'VB'), u'advcl', (u'hang', u'VBP'))
+((u'hang', u'VBP'), u'mark', (u'unless', u'IN'))
+((u'hang', u'VBP'), u'nsubj', (u're', u'NN'))
+((u're', u'NN'), u'acl', (u'going', u'VBG'))
+((u'hang', u'VBP'), u'nmod', (u'hipsters', u'NNS'))
+((u'hipsters', u'NNS'), u'case', (u'like', u'IN'))
+((u'hipsters', u'NNS'), u'compound', (u'rest', u'NN'))
+((u'hang', u'VBP'), u'advmod', (u'apparently', u'RB'))
+((u'try', u'VB'), u'nsubj', (u'taste', u'NN'))
+((u'taste', u'NN'), u'neg', (u'no', u'DT'))
+((u'taste', u'NN'), u'compound', (u'sense', u'NN'))
+
+$$$$
+
+((u'go', u'VB'), u'xcomp', (u'eat', u'VB'))
+((u'eat', u'VB'), u'dobj', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'amod', (u'many', u'JJ'))
+((u'restaurants', u'NNS'), u'amod', (u'different', u'JJ'))
+((u'restaurants', u'NNS'), u'acl:relcl', (u'go', u'VBP'))
+((u'go', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'go', u'VBP'), u'xcomp', (u'try', u'VB'))
+
+$$$$
+
+((u'excellent', u'JJ'), u'dep', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'first', u'JJ'))
+((u'restaurant', u'NN'), u'compound', (u'time', u'NN'))
+((u'restaurant', u'NN'), u'compound', (u'writing', u'NN'))
+((u'restaurant', u'NN'), u'compound', (u'review', u'NN'))
+((u'restaurant', u'NN'), u'nmod', (u'service', u'NN'))
+((u'service', u'NN'), u'case', (u'because', u'IN'))
+((u'service', u'NN'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'filet', u'VB'), u'xcomp', (u'superb', u'JJ'))
+((u'superb', u'JJ'), u'nsubj', (u'dish', u'NN'))
+((u'dish', u'NN'), u'compound', (u'mignon', u'NN'))
+
+$$$$
+
+((u'come', u'VB'), u'aux', (u'would', u'MD'))
+((u'come', u'VB'), u'advmod', (u'defiantly', u'RB'))
+((u'come', u'VB'), u'advmod', (u'back', u'RB'))
+((u'come', u'VB'), u'nsubj', (u'choices', u'NNS'))
+((u'choices', u'NNS'), u'amod', (u'top', u'JJ'))
+
+$$$$
+
+((u'restaurant', u'NN'), u'amod', (u'cute', u'JJ'))
+((u'cute', u'JJ'), u'amod', (u'small', u'JJ'))
+
+$$$$
+
+((u'love', u'VB'), u'advmod', (u'absolutely', u'RB'))
+((u'love', u'VB'), u'dobj', (u'place', u'NN'))
+
+$$$$
+
+((u'looks', u'VBZ'), u'dep', (u'street', u'NN'))
+((u'looks', u'VBZ'), u'dobj', (u'hidden', u'JJ'))
+((u'hidden', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'looks', u'VBZ'), u'advmod', (u'actually', u'RB'))
+((u'looks', u'VBZ'), u'nsubj', (u'warehouse', u'NN'))
+((u'warehouse', u'NN'), u'amod', (u'old', u'JJ'))
+
+$$$$
+
+((u'like', u'VB'), u'dobj', (u'original', u'NN'))
+((u'original', u'NN'), u'amod', (u'ambience', u'JJ'))
+((u'original', u'NN'), u'amod', (u'dark', u'JJ'))
+((u'dark', u'JJ'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'came', u'VBD'), u'nsubj', (u'birthday', u'NN'))
+((u'birthday', u'NN'), u'nummod', (u'friend', u'CD'))
+((u'came', u'VBD'), u'dep', (u'keep', u'VB'))
+((u'keep', u'VB'), u'xcomp', (u'coming', u'VBG'))
+((u'coming', u'VBG'), u'advmod', (u'ever', u'RB'))
+((u'ever', u'RB'), u'advmod', (u'back', u'RB'))
+((u'coming', u'VBG'), u'nmod', (u'since', u'IN'))
+
+$$$$
+
+((u'sushi', u'VB'), u'xcomp', (u'amazing', u'JJ'))
+
+$$$$
+
+((u'cheap', u'JJ'), u'advmod', (u'amazingly', u'RB'))
+
+$$$$
+
+((u'thumbs', u'NNS'), u'amod', (u'big', u'JJ'))
+
+$$$$
+
+((u'ambient', u'NN'), u'amod', (u'affordable', u'JJ'))
+((u'affordable', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'ambient', u'NN'), u'amod', (u'excellent', u'JJ'))
+
+$$$$
+
+((u'ordered', u'VBD'), u'dobj', (u'dishes', u'NNS'))
+((u'dishes', u'NNS'), u'compound', (u'beef', u'NN'))
+((u'dishes', u'NNS'), u'compound', (u'noodle', u'NN'))
+((u'dishes', u'NNS'), u'compound', (u'soup', u'NN'))
+((u'ordered', u'VBD'), u'nsubj', (u'thai', u'NNS'))
+((u'thai', u'NNS'), u'appos', (u'nothing', u'NN'))
+((u'nothing', u'NN'), u'compound', (u'menu', u'NN'))
+((u'nothing', u'NN'), u'acl', (u'got', u'VBN'))
+((u'got', u'VBN'), u'dobj', (u'thai', u'NNS'))
+
+$$$$
+
+((u'disappointed', u'VBN'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'won', u'VBD'), u'xcomp', (u'go', u'VB'))
+((u'go', u'VB'), u'dobj', (u'place', u'NN'))
+((u'won', u'VBD'), u'nsubj', (u'meal', u'NN'))
+((u'meal', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'think', u'VBP'), u'advmod', (u'however', u'RB'))
+((u'think', u'VBP'), u'xcomp', (u'good', u'JJ'))
+((u'good', u'JJ'), u'nsubj', (u'place', u'NN'))
+((u'think', u'VBP'), u'nsubj', (u'spot', u'NN'))
+((u'spot', u'NN'), u'nummod', (u'hang', u'CD'))
+
+$$$$
+
+((u'dare', u'VBP'), u'nsubj', (u'wouldn', u'NN'))
+((u'wouldn', u'NN'), u'amod', (u'next', u'JJ'))
+((u'wouldn', u'NN'), u'compound', (u'time', u'NN'))
+((u'dare', u'VBP'), u'xcomp', (u'ordering', u'VBG'))
+((u'ordering', u'VBG'), u'dobj', (u'anything', u'NN'))
+((u'anything', u'NN'), u'acl:relcl', (u'drinks', u'VBZ'))
+((u'drinks', u'VBZ'), u'nsubj', (u'appetizers', u'NNS'))
+((u'appetizers', u'NNS'), u'advmod', (u'else', u'RB'))
+((u'appetizers', u'NNS'), u'amod', (u'simple', u'JJ'))
+((u'appetizers', u'NNS'), u'compound', (u'asian', u'NN'))
+
+$$$$
+
+((u'stumbled', u'VBD'), u'nsubj', (u'girlfriend', u'NN'))
+((u'stumbled', u'VBD'), u'advcl', (u'hopping', u'VBG'))
+((u'hopping', u'VBG'), u'mark', (u'onto', u'IN'))
+((u'hopping', u'VBG'), u'nmod:tmod', (u'night', u'NN'))
+((u'night', u'NN'), u'compound', (u'place', u'NN'))
+((u'hopping', u'VBG'), u'dobj', (u'time', u'NN'))
+((u'time', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'made', u'VBD'), u'nsubj', (u'wine', u'NN'))
+((u'wine', u'NN'), u'compound', (u'pizza', u'NN'))
+((u'made', u'VBD'), u'advmod', (u'too', u'RB'))
+((u'too', u'RB'), u'nmod:npmod', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'excellent', u'JJ'))
+((u'made', u'VBD'), u'advmod', (u'really', u'RB'))
+((u'made', u'VBD'), u'dobj', (u'area', u'NN'))
+((u'area', u'NN'), u'compound', (u'place', u'NN'))
+((u'area', u'NN'), u'compound', (u'backyard', u'NN'))
+((u'area', u'NN'), u'compound', (u'dining', u'NN'))
+
+$$$$
+
+((u'nicest', u'VB'), u'dobj', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'amod', (u'outdoor', u'JJ'))
+((u'restaurants', u'NNS'), u'acl', (u'seen', u'VBN'))
+((u'seen', u'VBN'), u'advmod', (u'ever', u'RB'))
+((u'seen', u'VBN'), u'dobj', (u'ones', u'NNS'))
+((u'ones', u'NNS'), u'amod', (u'ny', u'JJ'))
+((u'ones', u'NNS'), u'amod', (u'italy', u'JJ'))
+((u'ones', u'NNS'), u'compound', (u'place', u'NN'))
+((u'ones', u'NNS'), u'compound', (u'rivals', u'NNS'))
+((u'nicest', u'VB'), u'nsubj', (u'country', u'NN'))
+
+$$$$
+
+((u'tell', u'VB'), u'xcomp', (u'going', u'VBG'))
+((u'going', u'VBG'), u'ccomp', (u'cover', u'VB'))
+((u'cover', u'VB'), u'ccomp', (u'enjoy', u'VBP'))
+((u'enjoy', u'VBP'), u'nsubj', (u'winter', u'NN'))
+((u'winter', u'NN'), u'compound', (u'garden', u'NN'))
+((u'winter', u'NN'), u'compound', (u'glass', u'NN'))
+((u'winter', u'NN'), u'acl', (u'looking', u'VBG'))
+((u'looking', u'VBG'), u'advmod', (u'forward', u'RB'))
+((u'looking', u'VBG'), u'advcl', (u'going', u'VBG'))
+((u'going', u'VBG'), u'advmod', (u'snowy', u'RB'))
+((u'going', u'VBG'), u'nmod:tmod', (u'night', u'NN'))
+
+$$$$
+
+((u'check', u'VB'), u'dobj', (u'place', u'NN'))
+
+$$$$
+
+((u'recommended', u'JJ'), u'advmod', (u'highly', u'RB'))
+
+$$$$
+
+((u'claimed', u'VBD'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'first', u'JJ'))
+((u'place', u'NN'), u'amod', (u'romantic', u'JJ'))
+((u'romantic', u'JJ'), u'neg', (u'not', u'RB'))
+((u'claimed', u'VBD'), u'dobj', (u'review', u'NN'))
+((u'review', u'NN'), u'amod', (u'citysearch', u'JJ'))
+((u'review', u'NN'), u'compound', (u'editorial', u'NN'))
+
+$$$$
+
+((u'sharing', u'VBG'), u'nsubj', (u'romance', u'NN'))
+((u'romance', u'NN'), u'det', (u'either', u'DT'))
+((u'romance', u'NN'), u'compound', (u'editor', u'NN'))
+((u'romance', u'NN'), u'compound', (u'idea', u'NN'))
+((u'sharing', u'VBG'), u'aux', (u'must', u'MD'))
+((u'sharing', u'VBG'), u'aux', (u'be', u'VB'))
+((u'sharing', u'VBG'), u'dobj', (u'table', u'NN'))
+((u'table', u'NN'), u'compound', (u'conversation', u'NN'))
+((u'table', u'NN'), u'amod', (u'next', u'JJ'))
+((u'table', u'NN'), u'dep', (u'speak', u'VBP'))
+((u'speak', u'VBP'), u'mark', (u'while', u'IN'))
+((u'speak', u'VBP'), u'csubj', (u'trying', u'VBG'))
+((u'speak', u'VBP'), u'advmod', (u'louder', u'RBR'))
+((u'speak', u'VBP'), u'dobj', (u'th', u'NN'))
+((u'th', u'NN'), u'compound', (u'traffic', u'NN'))
+
+$$$$
+
+((u'crammed', u'VBD'), u'nsubj', (u'tables', u'NNS'))
+((u'crammed', u'VBD'), u'advmod', (u'close', u'JJ'))
+((u'close', u'JJ'), u'advmod', (u'way', u'RB'))
+((u'close', u'JJ'), u'advmod', (u'too', u'RB'))
+((u'crammed', u'VBD'), u'dobj', (u'list', u'NN'))
+((u'list', u'NN'), u'compound', (u'menu', u'NN'))
+((u'list', u'NN'), u'amod', (u'typical', u'JJ'))
+((u'list', u'NN'), u'amod', (u'italian', u'JJ'))
+((u'list', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'list', u'NN'), u'compound', (u'wine', u'NN'))
+((u'list', u'NN'), u'amod', (u'overpriced', u'JJ'))
+((u'overpriced', u'JJ'), u'advmod', (u'simply', u'RB'))
+
+$$$$
+
+((u'listed', u'VBN'), u'nsubj', (u'selection', u'NN'))
+((u'selection', u'NN'), u'advmod', (u'slightly', u'RB'))
+((u'selection', u'NN'), u'amod', (u'average', u'JJ'))
+((u'selection', u'NN'), u'compound', (u'wines', u'NNS'))
+((u'selection', u'NN'), u'compound', (u'start', u'NN'))
+
+$$$$
+
+((u'expect', u'VB'), u'nsubj', (u'service', u'NN'))
+((u'service', u'NN'), u'neg', (u'not', u'RB'))
+((u'expect', u'VB'), u'aux', (u'would', u'MD'))
+((u'expect', u'VB'), u'dobj', (u'category', u'NN'))
+((u'category', u'NN'), u'amod', (u'joint', u'JJ'))
+((u'category', u'NN'), u'compound', (u'price', u'NN'))
+
+$$$$
+
+((u'dumped', u'VBD'), u'nsubj', (u'plates', u'NNS'))
+((u'plates', u'NNS'), u'compound', (u'instance', u'NN'))
+((u'dumped', u'VBD'), u'ccomp', (u'handed', u'VBD'))
+((u'handed', u'VBD'), u'nsubj', (u'table', u'NN'))
+((u'handed', u'VBD'), u'iobj', (u'list', u'NN'))
+((u'list', u'NN'), u'compound', (u'wine', u'NN'))
+((u'handed', u'VBD'), u'dobj', (u'etc', u'FW'))
+((u'etc', u'FW'), u'amod', (u'upside', u'JJ'))
+
+$$$$
+
+((u'working', u'VBG'), u'advmod', (u'somehow', u'RB'))
+((u'working', u'VBG'), u'dobj', (u'charm', u'NN'))
+((u'charm', u'NN'), u'amod', (u'italian', u'JJ'))
+((u'charm', u'NN'), u'acl:relcl', (u'grazie', u'VBP'))
+((u'grazie', u'VBP'), u'nsubj', (u'mille', u'NN'))
+((u'mille', u'NN'), u'amod', (u'constant', u'JJ'))
+((u'grazie', u'VBP'), u'neg', (u'not', u'RB'))
+((u'grazie', u'VBP'), u'dep', (u'constitute', u'VB'))
+((u'constitute', u'VB'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'proper', u'JJ'))
+
+$$$$
+
+((u'fair', u'JJ'), u'cop', (u'be', u'VB'))
+((u'fair', u'JJ'), u'advmod', (u'completely', u'RB'))
+((u'fair', u'JJ'), u'xcomp', (u'redeeming', u'VBG'))
+((u'redeeming', u'VBG'), u'ccomp', (u'make', u'VB'))
+((u'make', u'VB'), u'nsubj', (u'couldn', u'NNS'))
+((u'couldn', u'NNS'), u'compound', (u'factor', u'NN'))
+((u'couldn', u'NNS'), u'compound', (u'food', u'NN'))
+((u'couldn', u'NNS'), u'compound', (u'average', u'NN'))
+((u'make', u'VB'), u'xcomp', (u'teodora', u'JJ'))
+((u'teodora', u'JJ'), u'nsubj', (u'deficiencies', u'NNS'))
+
+$$$$
+
+((u'celebrate', u'VB'), u'ccomp', (u'went', u'VBD'))
+((u'went', u'VBD'), u'nsubj', (u'birthday', u'NN'))
+((u'birthday', u'NN'), u'nummod', (u'three', u'CD'))
+((u'went', u'VBD'), u'dobj', (u'mare', u'NN'))
+((u'went', u'VBD'), u'xcomp', (u'anticipating', u'VBG'))
+((u'anticipating', u'VBG'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'made', u'VBD'), u'nsubj', (u'meals', u'NNS'))
+((u'meals', u'NNS'), u'neg', (u'not', u'RB'))
+((u'meals', u'NNS'), u'amod', (u'bland', u'JJ'))
+((u'bland', u'JJ'), u'amod', (u'edible', u'JJ'))
+((u'made', u'VBD'), u'dobj', (u'flavoring', u'NN'))
+((u'flavoring', u'NN'), u'amod', (u'weird', u'JJ'))
+((u'flavoring', u'NN'), u'amod', (u'orange', u'JJ'))
+((u'orange', u'JJ'), u'advmod', (u'rosemary', u'RB'))
+
+$$$$
+
+((u'fish', u'NN'), u'dep', (u'overdone', u'VBN'))
+
+$$$$
+
+((u'place', u'VBP'), u'nsubj', (u'cute', u'NNP'))
+((u'place', u'VBP'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'nsubj', (u'staff', u'NN'))
+((u'staff', u'NN'), u'amod', (u'nice', u'JJ'))
+((u'staff', u'NN'), u'compound', (u'wait', u'NN'))
+((u'go', u'VB'), u'aux', (u'would', u'MD'))
+((u'go', u'VB'), u'neg', (u'never', u'RB'))
+
+$$$$
+
+((u'left', u'VBN'), u'nsubj', (u'dessert', u'NN'))
+((u'dessert', u'NN'), u'advmod', (u'else', u'RB'))
+((u'dessert', u'NN'), u'amod', (u'recommended', u'JJ'))
+((u'left', u'VBN'), u'advmod', (u'also', u'RB'))
+
+$$$$
+
+((u'liked', u'VBD'), u'advmod', (u'actually', u'RB'))
+((u'liked', u'VBD'), u'nsubj', (u'expresso', u'NN'))
+
+$$$$
+
+((u'skip', u'VB'), u'dobj', (u'disappointment', u'NN'))
+((u'disappointment', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'disappointment', u'NN'), u'amod', (u'big', u'JJ'))
+
+$$$$
+
+((u'sound', u'NN'), u'dep', (u'myagi', u'NNS'))
+((u'myagi', u'NNS'), u'dep', (u'restaurants', u'NNS'))
+((u'restaurants', u'NNS'), u'amod', (u'favorite', u'JJ'))
+((u'sound', u'NN'), u'dep', (u'reviews', u'NNS'))
+((u'reviews', u'NNS'), u'compound', (u'city', u'NN'))
+((u'reviews', u'NNS'), u'compound', (u'place', u'NN'))
+((u'reviews', u'NNS'), u'amod', (u'negative', u'JJ'))
+((u'sound', u'NN'), u'amod', (u'describe', u'JJ'))
+((u'sound', u'NN'), u'nmod', (u'else', u'RB'))
+((u'else', u'RB'), u'case', (u'like', u'IN'))
+((u'else', u'RB'), u'advmod', (u'somewhere', u'RB'))
+
+$$$$
+
+((u've', u'VBP'), u'neg', (u'never', u'RB'))
+((u've', u'VBP'), u'nsubj', (u'fish', u'NN'))
+((u'fish', u'NN'), u'amod', (u'bad', u'JJ'))
+((u'fish', u'NN'), u'compound', (u'service', u'NN'))
+((u'fish', u'NN'), u'amod', (u'delicious', u'JJ'))
+((u'delicious', u'JJ'), u'amod', (u'fresh', u'JJ'))
+
+$$$$
+
+((u'die', u'VBP'), u'nsubj', (u'appetizer', u'NN'))
+((u'appetizer', u'NN'), u'compound', (u'tuna', u'NN'))
+((u'appetizer', u'NN'), u'compound', (u'tartar', u'NN'))
+
+$$$$
+
+((u'come', u'VB'), u'ccomp', (u'say', u'VBP'))
+((u'say', u'VBP'), u'nsubj', (u'owners', u'NNS'))
+((u'owners', u'NNS'), u'compound', (u'family', u'NN'))
+((u'owners', u'NNS'), u'compound', (u'pizzeria', u'NN'))
+((u'owners', u'NNS'), u'amod', (u'ashamed', u'JJ'))
+((u'ashamed', u'JJ'), u'advmod', (u'almost', u'RB'))
+((u'say', u'VBP'), u'ccomp', (u'receipies', u'VBZ'))
+((u'receipies', u'VBZ'), u'nsubj', (u'families', u'NNS'))
+((u'families', u'NNS'), u'compound', (u'pizza', u'NN'))
+((u'families', u'NNS'), u'compound', (u'fornino', u'NN'))
+((u'families', u'NNS'), u'compound', (u'blows', u'NNS'))
+((u'receipies', u'VBZ'), u'compound:prt', (u'away', u'RP'))
+
+$$$$
+
+((u'amazing', u'JJ'), u'advmod', (u'simply', u'RB'))
+
+$$$$
+
+((u'place', u'VB'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'cool', u'JJ'))
+((u'place', u'VB'), u'dep', (u'prompt', u'VB'))
+((u'prompt', u'VB'), u'dobj', (u'curtious', u'NNS'))
+
+$$$$
+
+((u'give', u'VBP'), u'nsubj', (u'anyone', u'NN'))
+((u'anyone', u'NN'), u'amod', (u'recommend', u'JJ'))
+((u'recommend', u'JJ'), u'advmod', (u'highly', u'RB'))
+((u'give', u'VBP'), u'ccomp', (u'try', u'VBP'))
+((u'try', u'VBP'), u'nsubj', (u'place', u'NN'))
+
+$$$$
+
+((u'find', u'VB'), u'xcomp', (u'returning', u'VBG'))
+((u'returning', u'VBG'), u'advmod', (u'often', u'RB'))
+((u'often', u'RB'), u'advmod', (u'quite', u'RB'))
+
+$$$$
+
+((u'p', u'VB'), u'ccomp', (u'eat', u'VBP'))
+((u'eat', u'VBP'), u'csubj', (u'don', u'VB'))
+((u'don', u'VB'), u'discourse', (u'please', u'VB'))
+((u'don', u'VB'), u'xcomp', (u'tell', u'VB'))
+((u'tell', u'VB'), u'dobj', (u'family', u'NN'))
+((u'family', u'NN'), u'compound', (u'anyone', u'NN'))
+
+$$$$
+
+
+$$$$
+
+((u'try', u'VBP'), u'nsubj', (u'doesn', u'NN'))
+((u'doesn', u'NN'), u'compound', (u'restaurant', u'NN'))
+((u'try', u'VBP'), u'xcomp', (u'do', u'VB'))
+((u'do', u'VB'), u'dobj', (u'anything', u'NN'))
+((u'do', u'VB'), u'dep', (u'serve', u'VB'))
+((u'serve', u'VB'), u'dep', (u'except', u'VB'))
+((u'serve', u'VB'), u'iobj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'great', u'JJ'))
+((u'serve', u'VB'), u'dobj', (u'atmosphere', u'NN'))
+((u'atmosphere', u'NN'), u'amod', (u'great', u'JJ'))
+((u'atmosphere', u'NN'), u'compound', (u'service', u'NN'))
+((u'atmosphere', u'NN'), u'amod', (u'pleasant', u'JJ'))
+
+$$$$
+
+((u'speaks', u'VBZ'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'neg', (u'no', u'DT'))
+((u'food', u'NN'), u'compound', (u'gimmicks', u'NNS'))
+((u'speaks', u'VBZ'), u'dobj', (u'preparation', u'NN'))
+((u'preparation', u'NN'), u'compound', (u'freshness', u'NN'))
+
+$$$$
+
+((u'shout', u'VBP'), u'nsubj', (u'room', u'NN'))
+((u'room', u'NN'), u'compound', (u'dining', u'NN'))
+((u'room', u'NN'), u'acl', (u'elegant', u'VBG'))
+((u'elegant', u'VBG'), u'advmod', (u'quietly', u'RB'))
+((u'elegant', u'VBG'), u'dobj', (u'music', u'NN'))
+((u'music', u'NN'), u'neg', (u'no', u'DT'))
+((u'shout', u'VBP'), u'xcomp', (u'refreshing', u'JJ'))
+
+$$$$
+
+((u'service', u'VB'), u'ccomp', (u'knows', u'VBZ'))
+((u'knows', u'VBZ'), u'nsubj', (u'staff', u'NN'))
+((u'staff', u'NN'), u'amod', (u'unobtrusive', u'JJ'))
+((u'unobtrusive', u'JJ'), u'amod', (u'impeccable', u'JJ'))
+((u'knows', u'VBZ'), u'xcomp', (u'know', u'VB'))
+((u'know', u'VB'), u'aux', (u'do', u'VB'))
+((u'know', u'VB'), u'ccomp', (u'attend', u'VB'))
+((u'attend', u'VB'), u'nsubj', (u'meal', u'NN'))
+((u'meal', u'NN'), u'compound', (u'menu', u'NN'))
+((u'meal', u'NN'), u'amod', (u'present', u'JJ'))
+((u'attend', u'VB'), u'dobj', (u'needs', u'NNS'))
+
+$$$$
+
+((u'looking', u'VBG'), u'compound:prt', (u'around', u'RP'))
+((u'looking', u'VBG'), u'dep', (u'saw', u'VBD'))
+((u'saw', u'VBD'), u'dobj', (u'room', u'NN'))
+((u'looking', u'VBG'), u'nsubj', (u'yorkers', u'NNS'))
+((u'yorkers', u'NNS'), u'amod', (u'full', u'JJ'))
+((u'yorkers', u'NNS'), u'amod', (u'new', u'JJ'))
+((u'yorkers', u'NNS'), u'acl', (u'enjoying', u'VBG'))
+((u'enjoying', u'VBG'), u'dobj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'real', u'JJ'))
+((u'restaurant', u'NN'), u'compound', (u'meal', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'real', u'JJ'))
+((u'enjoying', u'VBG'), u'dep', (u'clubhouse', u'VB'))
+((u'clubhouse', u'VB'), u'neg', (u'not', u'RB'))
+((u'clubhouse', u'VB'), u'dobj', (u'fabulous', u'JJ'))
+((u'fabulous', u'JJ'), u'acl', (u'trying', u'VBG'))
+((u'trying', u'VBG'), u'ccomp', (u'seen', u'VBN'))
+((u'seen', u'VBN'), u'auxpass', (u'be', u'VB'))
+
+$$$$
+
+((u'experience', u'NN'), u'amod', (u'beautiful', u'JJ'))
+
+$$$$
+
+((u'view', u'VB'), u'iobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'breathtaking', u'JJ'))
+((u'view', u'VB'), u'dobj', (u'notch', u'NN'))
+((u'notch', u'NN'), u'amod', (u'top', u'JJ'))
+((u'view', u'VB'), u'nsubj', (u'wonderfull', u'NN'))
+((u'wonderfull', u'NN'), u'amod', (u'ambiance', u'JJ'))
+
+$$$$
+
+((u'offers', u'VBZ'), u'nsubj', (u'staff', u'NN'))
+((u'offers', u'VBZ'), u'dobj', (u'service', u'NN'))
+((u'service', u'NN'), u'amod', (u'impeccable', u'JJ'))
+
+$$$$
+
+((u'lobster', u'NN'), u'amod', (u'oz', u'NN'))
+((u'oz', u'NN'), u'compound', (u'lobster', u'CD'))
+((u'oz', u'NN'), u'dep', (u'bisque', u'JJ'))
+((u'lobster', u'NN'), u'amod', (u'maine', u'JJ'))
+
+$$$$
+
+((u'think', u'VBP'), u'nsubj', (u'england', u'NN'))
+((u'england', u'NN'), u'compound', (u'boyfriend', u'NN'))
+((u'england', u'NN'), u'amod', (u'new', u'JJ'))
+((u'england', u'NN'), u'amod', (u'good', u'JJ'))
+((u'good', u'JJ'), u'amod', (u'chowder', u'JJ'))
+((u'think', u'VBP'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'nsubj', (u'award', u'NN'))
+((u'go', u'VB'), u'aux', (u'should', u'MD'))
+((u'go', u'VB'), u'dobj', (u'bisque', u'NN'))
+((u'bisque', u'NN'), u'compound', (u'lobster', u'NN'))
+
+$$$$
+
+((u'filet', u'VB'), u'dobj', (u'mash', u'NN'))
+((u'mash', u'NN'), u'amod', (u'mignon', u'JJ'))
+((u'mash', u'NN'), u'amod', (u'garlic', u'JJ'))
+
+$$$$
+
+((u'divine', u'VB'), u'dobj', (u'mouth', u'NN'))
+((u'mouth', u'NN'), u'amod', (u'melts', u'JJ'))
+
+$$$$
+
+((u'boyfriend', u'VB'), u'xcomp', (u'good', u'JJ'))
+((u'good', u'JJ'), u'nsubj', (u'rib', u'NN'))
+((u'rib', u'NN'), u'amod', (u'prime', u'JJ'))
+
+$$$$
+
+((u'got', u'VBD'), u'dep', (u'want', u'VBP'))
+((u'want', u'VBP'), u'nsubj', (u'didn', u'NN'))
+((u'want', u'VBP'), u'iobj', (u'bottle', u'NN'))
+((u'want', u'VBP'), u'dobj', (u'weekday', u'NN'))
+((u'weekday', u'NN'), u'amod', (u'bubbly', u'JJ'))
+((u'got', u'VBD'), u'xcomp', (u'korbett', u'JJ'))
+((u'korbett', u'JJ'), u'nsubj', (u'bottles', u'NNS'))
+((u'bottles', u'NNS'), u'amod', (u'little', u'JJ'))
+((u'got', u'VBD'), u'nsubj', (u'enough', u'RB'))
+
+$$$$
+
+((u'ordered', u'VBD'), u'nsubj', (u'cake', u'NN'))
+((u'cake', u'NN'), u'compound', (u'lava', u'NN'))
+((u'ordered', u'VBD'), u'ccomp', (u'came', u'VBD'))
+((u'came', u'VBD'), u'nsubj', (u'food', u'NN'))
+((u'came', u'VBD'), u'ccomp', (u'takes', u'VBZ'))
+((u'takes', u'VBZ'), u'advmod', (u'least', u'JJS'))
+((u'takes', u'VBZ'), u'dep', (u'make', u'VB'))
+
+$$$$
+
+((u'cuz', u'VB'), u'dobj', (u'taste', u'NN'))
+((u'taste', u'NN'), u'amod', (u'good', u'JJ'))
+((u'taste', u'NN'), u'compound', (u'need', u'NN'))
+
+$$$$
+
+((u're', u'VBP'), u'advmod', (u'already', u'RB'))
+((u're', u'VBP'), u'xcomp', (u'coming', u'VBG'))
+((u'coming', u'VBG'), u'ccomp', (u'go', u'VB'))
+((u'go', u'VB'), u'nsubj', (u'excuses', u'NNS'))
+((u'go', u'VB'), u'advmod', (u'soon', u'RB'))
+((u'soon', u'RB'), u'advmod', (u'ahead', u'RB'))
+((u'soon', u'RB'), u'advmod', (u'really', u'RB'))
+((u're', u'VBP'), u'nsubj', (u'wks', u'NN'))
+((u'wks', u'NN'), u'amod', (u'next', u'JJ'))
+
+$$$$
+
+((u'ate', u'VBD'), u'nsubj', (u'wife', u'NN'))
+((u'ate', u'VBD'), u'nmod:tmod', (u'week', u'NN'))
+((u'week', u'NN'), u'amod', (u'earlier', u'JJR'))
+((u'ate', u'VBD'), u'nmod', (u'food', u'NN'))
+((u'food', u'NN'), u'neg', (u'not', u'RB'))
+((u'food', u'NN'), u'amod', (u'stopped', u'VBN'))
+((u'food', u'NN'), u'amod', (u'ranting', u'JJ'))
+((u'food', u'NN'), u'amod', (u'raving', u'VBG'))
+
+$$$$
+
+((u'like', u'VB'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'spicy', u'JJ'))
+((u'like', u'VB'), u'dep', (u'get', u'VB'))
+((u'get', u'VB'), u'dobj', (u'vindaloo', u'NN'))
+((u'vindaloo', u'NN'), u'compound', (u'chicken', u'NN'))
+
+$$$$
+
+((u'spicy', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'spicy', u'JJ'), u'dep', (u'offensive', u'JJ'))
+((u'offensive', u'JJ'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'go', u'VB'), u'advmod', (u'definitely', u'RB'))
+((u'go', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'go', u'VB'), u'dobj', (u'class', u'NN'))
+((u'class', u'NN'), u'amod', (u'volare', u'JJ'))
+((u'class', u'NN'), u'compound', (u'st', u'NN'))
+((u'go', u'VB'), u'nmod', (u'food', u'NN'))
+((u'food', u'NN'), u'dep', (u'service', u'NN'))
+((u'food', u'NN'), u'amod', (u'terrific', u'JJ'))
+
+$$$$
+
+((u'portions', u'VB'), u'dobj', (u'servers', u'NNS'))
+((u'servers', u'NNS'), u'amod', (u'large', u'JJ'))
+((u'portions', u'VB'), u'advmod', (u'always', u'RB'))
+((u'portions', u'VB'), u'dep', (u'surprise', u'VB'))
+((u'surprise', u'VB'), u'dobj', (u'starter', u'NNS'))
+((u'starter', u'NNS'), u'amod', (u'different', u'JJ'))
+
+$$$$
+
+((u'list', u'VBP'), u'nsubj', (u'wine', u'NN'))
+((u'list', u'VBP'), u'xcomp', (u'excellent', u'JJ'))
+
+$$$$
+
+((u'get', u'VBP'), u'dep', (u'amazing', u'JJ'))
+((u'amazing', u'JJ'), u'nmod:npmod', (u'food', u'NN'))
+((u'get', u'VBP'), u'advmod', (u'especially', u'RB'))
+((u'get', u'VBP'), u'dobj', (u'menu', u'NN'))
+((u'menu', u'NN'), u'amod', (u'tasting', u'NN'))
+((u'tasting', u'NN'), u'dep', (u'chef', u'NN'))
+((u'get', u'VBP'), u'nsubj', (u'bottle', u'NN'))
+((u'bottle', u'NN'), u'amod', (u'favourite', u'JJ'))
+((u'bottle', u'NN'), u'dep', (u'wine', u'NN'))
+((u'wine', u'NN'), u'nummod', (u'two', u'CD'))
+((u'wine', u'NN'), u'dep', (u'wines', u'NNS'))
+((u'wines', u'NNS'), u'amod', (u'extensive', u'JJ'))
+((u'wines', u'NNS'), u'compound', (u'selection', u'NN'))
+
+$$$$
+
+((u'feel', u'VB'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'intimate', u'JJ'))
+((u'intimate', u'JJ'), u'amod', (u'small', u'JJ'))
+((u'feel', u'VB'), u'aux', (u'may', u'MD'))
+((u'feel', u'VB'), u'iobj', (u'service', u'NN'))
+((u'service', u'NN'), u'advmod', (u'little', u'RB'))
+((u'service', u'NN'), u'amod', (u'crowded', u'VBN'))
+((u'feel', u'VB'), u'dobj', (u'friends', u'NNS'))
+((u'friends', u'NNS'), u'amod', (u'excellent', u'JJ'))
+((u'friends', u'NNS'), u'amod', (u'great', u'JJ'))
+((u'friends', u'NNS'), u'dep', (u'occassion', u'NN'))
+((u'occassion', u'NN'), u'amod', (u'romantic', u'JJ'))
+((u'occassion', u'NN'), u'compound', (u'date', u'NN'))
+((u'occassion', u'NN'), u'amod', (u'special', u'JJ'))
+
+$$$$
+
+((u'gowns', u'VBZ'), u'nsubj', (u'suits', u'NNS'))
+((u'suits', u'NNS'), u'compound', (u'people', u'NNS'))
+((u'suits', u'NNS'), u'compound', (u'dress', u'NN'))
+((u'gowns', u'VBZ'), u'nsubj', (u'evening', u'NN'))
+((u'gowns', u'VBZ'), u'advmod', (u'well', u'RB'))
+((u'well', u'RB'), u'nmod:npmod', (u'jeans', u'NNS'))
+((u'jeans', u'NNS'), u'nummod', (u'shirts', u'CD'))
+
+$$$$
+
+((u'get', u'VBP'), u'nsubj', (u'food', u'NN'))
+((u'get', u'VBP'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'pricey', u'JJ'))
+((u'food', u'NN'), u'amod', (u'tasting', u'NN'))
+((u'tasting', u'NN'), u'amod', (u'prixe', u'JJ'))
+((u'tasting', u'NN'), u'amod', (u'fixe', u'JJ'))
+((u'food', u'NN'), u'compound', (u'menu', u'NN'))
+((u'food', u'NN'), u'compound', (u'greatest', u'NN'))
+((u'food', u'NN'), u'acl:relcl', (u'cater', u'VBP'))
+((u'cater', u'VBP'), u'nsubj', (u'price', u'NN'))
+((u'price', u'NN'), u'amod', (u'good', u'JJ'))
+((u'cater', u'VBP'), u'ccomp', (u'don', u'VB'))
+((u'don', u'VB'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'compound', (u'food', u'NN'))
+((u'food', u'NN'), u'compound', (u'food', u'NN'))
+((u'food', u'NN'), u'compound', (u'allergies', u'NNS'))
+((u'don', u'VB'), u'nmod', (u'like', u'IN'))
+
+$$$$
+
+((u'required', u'VBN'), u'nsubj', (u'course', u'NN'))
+((u'course', u'NN'), u'compound', (u'recommendations', u'NNS'))
+
+$$$$
+
+((u'please', u'VBP'), u'xcomp', (u'aware', u'JJ'))
+((u'aware', u'JJ'), u'cop', (u'be', u'VB'))
+((u'please', u'VBP'), u'nsubj', (u'amex', u'NNS'))
+((u'amex', u'NNS'), u'compound', (u'cash', u'NN'))
+
+$$$$
+
+((u'started', u'VBD'), u'nsubj', (u'eyes', u'NNS'))
+((u'eyes', u'NNS'), u'compound', (u'exception', u'NN'))
+((u'eyes', u'NNS'), u'compound', (u'lemon', u'NN'))
+((u'eyes', u'NNS'), u'compound', (u'salad', u'NN'))
+((u'eyes', u'NNS'), u'amod', (u'much', u'JJ'))
+((u'eyes', u'NNS'), u'compound', (u'pepper', u'NN'))
+((u'started', u'VBD'), u'xcomp', (u'watering', u'VBG'))
+((u'watering', u'VBG'), u'xcomp', (u'great', u'JJ'))
+((u'great', u'JJ'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'decent', u'JJ'))
+((u'great', u'JJ'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'think', u'VBP'), u'nsubj', (u'menu', u'NN'))
+((u'menu', u'NN'), u'amod', (u'limited', u'VBN'))
+((u'limited', u'VBN'), u'advmod', (u'very', u'RB'))
+((u'think', u'VBP'), u'dep', (u'counted', u'VBN'))
+((u'counted', u'VBN'), u'dobj', (u'entrees', u'NNS'))
+
+$$$$
+
+((u'ordered', u'VBD'), u'dobj', (u'branzino', u'NN'))
+((u'branzino', u'NN'), u'amod', (u'special', u'JJ'))
+((u'branzino', u'NN'), u'amod', (u'grilled', u'JJ'))
+((u'ordered', u'VBD'), u'nsubj', (u'bone', u'NN'))
+((u'bone', u'NN'), u'amod', (u'infused', u'JJ'))
+((u'bone', u'NN'), u'amod', (u'eat', u'JJ'))
+((u'eat', u'JJ'), u'amod', (u'difficult', u'JJ'))
+
+$$$$
+
+((u'diner', u'JJ'), u'dep', (u'place', u'NN'))
+((u'place', u'NN'), u'compound', (u'decor', u'NN'))
+((u'diner', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'diner', u'JJ'), u'ccomp', (u'expect', u'VBP'))
+((u'expect', u'VBP'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'compound', (u'ish', u'NN'))
+((u'place', u'NN'), u'compound', (u'kind', u'NN'))
+((u'expect', u'VBP'), u'dobj', (u'village', u'NN'))
+((u'village', u'NN'), u'amod', (u'east', u'JJ'))
+((u'expect', u'VBP'), u'nmod', (u'sparse', u'NN'))
+((u'sparse', u'NN'), u'neg', (u'not', u'RB'))
+((u'sparse', u'NN'), u'amod', (u'romantic', u'JJ'))
+((u'sparse', u'NN'), u'amod', (u'simple', u'JJ'))
+((u'sparse', u'NN'), u'amod', (u'small', u'JJ'))
+
+$$$$
+
+((u'nothing', u'NN'), u'compound', (u'problem', u'NN'))
+((u'nothing', u'NN'), u'dep', (u'prune', u'VB'))
+((u'prune', u'VB'), u'xcomp', (u'memorable', u'JJ'))
+((u'memorable', u'JJ'), u'advmod', (u'particularly', u'RB'))
+
+$$$$
+
+((u'return', u'VBP'), u'nsubj', (u'plans', u'NNS'))
+((u'plans', u'NNS'), u'neg', (u'no', u'DT'))
+((u'return', u'VBP'), u'advmod', (u'soon', u'RB'))
+((u'soon', u'RB'), u'advmod', (u'anytime', u'RB'))
+
+$$$$
+
+((u'place', u'VB'), u'dobj', (u'fun', u'NN'))
+((u'fun', u'NN'), u'amod', (u'much', u'JJ'))
+
+$$$$
+
+((u'expected', u'VBN'), u'nsubj', (u'family', u'NN'))
+((u'expected', u'VBN'), u'neg', (u'never', u'RB'))
+((u'expected', u'VBN'), u'dobj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'incredible', u'JJ'))
+((u'restaurant', u'NN'), u'compound', (u'entertainment', u'NN'))
+
+$$$$
+
+((u'cost', u'VB'), u'nsubj', (u'place', u'NN'))
+((u'cost', u'VB'), u'aux', (u'must', u'MD'))
+((u'cost', u'VB'), u'xcomp', (u'build', u'VB'))
+((u'build', u'VB'), u'nsubj', (u'owners', u'NNS'))
+((u'build', u'VB'), u'dep', (u'afortune', u'JJ'))
+
+$$$$
+
+((u'think', u'VB'), u'xcomp', (u'disney', u'JJ'))
+((u'disney', u'JJ'), u'nsubj', (u'stuff', u'NN'))
+((u'disney', u'JJ'), u'advmod', (u'better', u'RBR'))
+
+$$$$
+
+((u'food', u'NN'), u'amod', (u'great', u'JJ'))
+((u'great', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'portions', u'NNS'), u'dep', (u'really', u'RB'))
+((u'portions', u'NNS'), u'amod', (u'large', u'JJ'))
+
+$$$$
+
+((u'seen', u'VBN'), u'nsubj', (u'friendliest', u'NN'))
+((u'friendliest', u'NN'), u'compound', (u'staff', u'NN'))
+((u'seen', u'VBN'), u'dobj', (u'york', u'NN'))
+((u'york', u'NN'), u'amod', (u'new', u'JJ'))
+
+$$$$
+
+((u'go', u'VB'), u'compound:prt', (u'back', u'RP'))
+((u'go', u'VB'), u'dobj', (u'city', u'NN'))
+((u'city', u'NN'), u'compound', (u'time', u'NN'))
+
+$$$$
+
+((u'want', u'VB'), u'xcomp', (u'try', u'VB'))
+((u'try', u'VB'), u'nsubj', (u'something', u'NN'))
+((u'try', u'VB'), u'dep', (u'different', u'JJ'))
+((u'different', u'JJ'), u'advmod', (u'really', u'RB'))
+((u'try', u'VB'), u'dobj', (u'hyde', u'NN'))
+((u'hyde', u'NN'), u'amod', (u'jekyll', u'JJ'))
+
+$$$$
+
+((u'fun', u'NN'), u'compound', (u'lot', u'NN'))
+((u'fun', u'NN'), u'dep', (u'kinds', u'NNS'))
+((u'kinds', u'NNS'), u'amod', (u'live', u'JJ'))
+((u'kinds', u'NNS'), u'compound', (u'entertainment', u'NN'))
+((u'kinds', u'NNS'), u'dep', (u'type', u'NN'))
+((u'type', u'NN'), u'amod', (u'disney', u'JJ'))
+((u'fun', u'NN'), u'dep', (u'effects', u'NNS'))
+((u'effects', u'NNS'), u'amod', (u'special', u'JJ'))
+
+$$$$
+
+((u'food', u'NN'), u'amod', (u'tradional', u'JJ'))
+((u'tradional', u'JJ'), u'advmod', (u'pretty', u'RB'))
+((u'food', u'NN'), u'dep', (u'portions', u'NNS'))
+((u'portions', u'NNS'), u'amod', (u'hot', u'JJ'))
+((u'portions', u'NNS'), u'amod', (u'good', u'JJ'))
+((u'portions', u'NNS'), u'amod', (u'large', u'JJ'))
+
+$$$$
+
+((u'recommend', u'JJ'), u'advmod', (u'highly', u'RB'))
+
+$$$$
+
+((u'going', u'VBG'), u'dobj', (u'location', u'NN'))
+((u'location', u'NN'), u'amod', (u'mid', u'JJ'))
+((u'location', u'NN'), u'compound', (u'town', u'NN'))
+((u'going', u'VBG'), u'advmod', (u'next', u'JJ'))
+
+$$$$
+
+((u'place', u'VB'), u'dobj', (u'fun', u'NN'))
+((u'fun', u'NN'), u'compound', (u'lot', u'NN'))
+
+$$$$
+
+((u'loved', u'VBD'), u'nsubj', (u'year', u'NN'))
+((u'year', u'NN'), u'nummod', (u'six', u'CD'))
+((u'year', u'NN'), u'amod', (u'old', u'JJ'))
+
+$$$$
+
+((u'make', u'VBP'), u'nsubj', (u'characters', u'NNS'))
+((u'make', u'VBP'), u'advmod', (u'really', u'RB'))
+((u'make', u'VBP'), u'dobj', (u'experience', u'NN'))
+((u'experience', u'NN'), u'amod', (u'enjoyable', u'JJ'))
+
+$$$$
+
+((u'expect', u'VB'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'advmod', (u'however', u'RB'))
+((u'expect', u'VB'), u'aux', (u'might', u'MD'))
+
+$$$$
+
+((u'overpriced', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'overpriced', u'JJ'), u'dep', (u'tasty', u'JJ'))
+((u'tasty', u'JJ'), u'neg', (u'not', u'RB'))
+((u'tasty', u'JJ'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'think', u'VB'), u'advmod', (u'however', u'RB'))
+((u'think', u'VB'), u'ccomp', (u'places', u'VBZ'))
+((u'places', u'VBZ'), u'nsubj', (u'hydes', u'NNS'))
+((u'hydes', u'NNS'), u'amod', (u'jeckll', u'JJ'))
+((u'places', u'VBZ'), u'ccomp', (u'do', u'VBP'))
+((u'do', u'VBP'), u'nsubj', (u'fun', u'NN'))
+
+$$$$
+
+((u'time', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'went', u'VBD'), u'nsubj', (u'table', u'NN'))
+((u'table', u'NN'), u'compound', (u'wife', u'NN'))
+((u'table', u'NN'), u'compound', (u'wait', u'NN'))
+((u'table', u'NN'), u'dep', (u'see', u'VB'))
+((u'see', u'VB'), u'advmod', (u'even', u'RB'))
+((u'see', u'VB'), u'advmod', (u'though', u'RB'))
+((u'see', u'VB'), u'aux', (u'could', u'MD'))
+((u'see', u'VB'), u'dobj', (u'sigh', u'NN'))
+((u'sigh', u'NN'), u'amod', (u'many', u'JJ'))
+((u'sigh', u'NN'), u'amod', (u'empty', u'JJ'))
+((u'sigh', u'NN'), u'amod', (u'reservation', u'VBN'))
+((u'reservation', u'VBN'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'service', u'VB'), u'dobj', (u'order', u'NN'))
+((u'order', u'NN'), u'amod', (u'slow', u'JJ'))
+((u'order', u'NN'), u'compound', (u'wait', u'NN'))
+((u'service', u'VB'), u'dep', (u'get', u'VB'))
+((u'get', u'VB'), u'dobj', (u'food', u'NN'))
+((u'get', u'VB'), u'advcl', (u'crowded', u'JJ'))
+((u'crowded', u'JJ'), u'mark', (u'although', u'IN'))
+((u'crowded', u'JJ'), u'neg', (u'not', u'RB'))
+
+$$$$
+
+((u'priced', u'VBN'), u'nsubj', (u'drinks', u'NNS'))
+((u'priced', u'VBN'), u'advmod', (u'way', u'NN'))
+
+$$$$
+
+((u'good', u'NN'), u'compound', (u'food', u'NN'))
+((u'good', u'NN'), u'dep', (u'wait', u'NN'))
+((u'wait', u'NN'), u'amod', (u'great', u'JJ'))
+((u'great', u'JJ'), u'neg', (u'not', u'RB'))
+((u'wait', u'NN'), u'amod', (u'worth', u'JJ'))
+((u'worth', u'JJ'), u'neg', (u'not', u'RB'))
+((u'wait', u'NN'), u'dep', (u'visit', u'NN'))
+((u'visit', u'NN'), u'det', (u'another', u'DT'))
+
+$$$$
+
+((u'pizza', u'NN'), u'amod', (u'great', u'JJ'))
+((u'pizza', u'NN'), u'dep', (u'place', u'NN'))
+((u'place', u'NN'), u'compound', (u'lunch', u'NN'))
+
+$$$$
+
+((u'service', u'VB'), u'xcomp', (u'quick', u'JJ'))
+
+$$$$
+
+((u'pizza', u'NN'), u'advmod', (u'great', u'RB'))
+
+$$$$
+
+((u'quick', u'JJ'), u'dep', (u'important', u'JJ'))
+((u'important', u'JJ'), u'advmod', (u'very', u'RB'))
+
+$$$$
+
+((u'tea', u'NN'), u'amod', (u'iced', u'JJ'))
+
+$$$$
+
+
+$$$$
+
+((u'need', u'VB'), u'dep', (u'whenever', u'WRB'))
+((u'need', u'VB'), u'ccomp', (u'quality', u'JJ'))
+((u'quality', u'JJ'), u'nsubj', (u'mizu', u'NNS'))
+((u'mizu', u'NNS'), u'compound', (u'sushi', u'NN'))
+((u'mizu', u'NNS'), u'compound', (u'fix', u'NN'))
+((u'quality', u'JJ'), u'cop', (u'be', u'VB'))
+((u'quality', u'JJ'), u'dep', (u'service', u'NN'))
+((u'service', u'NN'), u'compound', (u'fish', u'NN'))
+((u'service', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'delivery', u'NN'), u'advmod', (u'too', u'RB'))
+((u'too', u'RB'), u'advmod', (u'fast', u'RB'))
+
+$$$$
+
+((u'service', u'NN'), u'amod', (u'great', u'JJ'))
+((u'service', u'NN'), u'amod', (u'friendly', u'JJ'))
+((u'service', u'NN'), u'dep', (u'seating', u'NN'))
+((u'seating', u'NN'), u'amod', (u'fast', u'JJ'))
+((u'service', u'NN'), u'dep', (u'sushi', u'NN'))
+((u'sushi', u'NN'), u'amod', (u'fast', u'JJ'))
+((u'sushi', u'NN'), u'compound', (u'delivery', u'NN'))
+((u'sushi', u'NN'), u'amod', (u'excellent', u'JJ'))
+
+$$$$
+
+((u'take', u'VBP'), u'nsubj', (u'worth', u'NN'))
+((u'worth', u'NN'), u'amod', (u'overpriced', u'JJ'))
+((u'overpriced', u'JJ'), u'advmod', (u'little', u'RB'))
+((u'take', u'VBP'), u'dobj', (u'bite', u'NN'))
+
+$$$$
+
+((u'growing', u'VBG'), u'dobj', (u'ny', u'NN'))
+((u'ny', u'NN'), u'acl', (u'eaten', u'VBN'))
+((u'eaten', u'VBN'), u'dobj', (u'bagels', u'NNS'))
+((u'bagels', u'NNS'), u'compound', (u'share', u'NN'))
+
+$$$$
+
+((u'bagel', u'NN'), u'compound', (u'ess', u'NN'))
+((u'bagel', u'NN'), u'dep', (u'midtown', u'NN'))
+((u'midtown', u'NN'), u'det', (u'either', u'DT'))
+((u'midtown', u'NN'), u'compound', (u'sty', u'NN'))
+((u'midtown', u'NN'), u'compound', (u'town', u'NN'))
+((u'midtown', u'NN'), u'dep', (u'ny', u'NN'))
+((u'ny', u'NN'), u'amod', (u'best', u'JJS'))
+((u'best', u'JJS'), u'advmod', (u'far', u'RB'))
+((u'ny', u'NN'), u'amod', (u'bagel', u'JJ'))
+
+$$$$
+
+((u'bagels', u'VBZ'), u'advmod', (u'always', u'RB'))
+((u'bagels', u'VBZ'), u'nsubj', (u'crispy', u'NN'))
+((u'crispy', u'NN'), u'amod', (u'warm', u'JJ'))
+((u'crispy', u'NN'), u'amod', (u'soft', u'JJ'))
+((u'crispy', u'NN'), u'amod', (u'inside', u'JJ'))
+((u'crispy', u'NN'), u'nmod', (u'size', u'NN'))
+((u'size', u'NN'), u'case', (u'outside', u'IN'))
+((u'size', u'NN'), u'amod', (u'enormous', u'JJ'))
+
+$$$$
+
+((u'salads', u'VBZ'), u'nsubj', (u'cheeses', u'NNS'))
+((u'cheeses', u'NNS'), u'amod', (u'huge', u'JJ'))
+((u'cheeses', u'NNS'), u'compound', (u'selection', u'NN'))
+((u'cheeses', u'NNS'), u'amod', (u'different', u'JJ'))
+((u'cheeses', u'NNS'), u'compound', (u'cream', u'NN'))
+((u'salads', u'VBZ'), u'xcomp', (u'great', u'JJ'))
+
+$$$$
+
+((u'lox', u'NN'), u'advmod', (u'always', u'RB'))
+((u'lox', u'NN'), u'dep', (u'fresh', u'JJ'))
+((u'fresh', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'recommended', u'JJ'), u'advmod', (u'highly', u'RB'))
+
+$$$$
+
+((u'agree', u'VB'), u'dobj', (u'reviewer', u'NN'))
+((u'reviewer', u'NN'), u'amod', (u'previous', u'JJ'))
+
+$$$$
+
+((u'don', u'VB'), u'xcomp', (u'get', u'VB'))
+((u'get', u'VB'), u'advmod', (u'either', u'RB'))
+
+$$$$
+
+((u'not', u'RB'), u'dep', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'impressed', u'JJ'))
+
+$$$$
+
+((u'cramped', u'VBD'), u'nsubj', (u'prices', u'NNS'))
+((u'prices', u'NNS'), u'amod', (u'high', u'JJ'))
+((u'high', u'JJ'), u'advmod', (u'too', u'RB'))
+((u'cramped', u'VBD'), u'dobj', (u'resturant', u'NN'))
+((u'resturant', u'NN'), u'amod', (u'unappealing', u'JJ'))
+
+$$$$
+
+((u'zero', u'VB'), u'dobj', (u'boot', u'NN'))
+((u'boot', u'NN'), u'amod', (u'ambiance', u'JJ'))
+
+$$$$
+
+((u'thought', u'VBD'), u'nsubj', (u'place', u'NN'))
+((u'place', u'NN'), u'amod', (u'overrated', u'JJ'))
+((u'overrated', u'JJ'), u'advmod', (u'totally', u'RB'))
+
+$$$$
+
+((u'great', u'JJ'), u'dep', (u'ok', u'NN'))
+((u'ok', u'NN'), u'compound', (u'everything', u'NN'))
+((u'ok', u'NN'), u'amod', (u'good', u'JJ'))
+((u'ok', u'NN'), u'advmod', (u'definitely', u'RB'))
+((u'great', u'JJ'), u'nmod:npmod', (u'nothing', u'NN'))
+
+$$$$
+
+((u'ambience', u'VB'), u'xcomp', (u'great', u'JJ'))
+((u'great', u'JJ'), u'nsubj', (u'wasn', u'NN'))
+((u'wasn', u'NN'), u'amod', (u'nice', u'JJ'))
+((u'wasn', u'NN'), u'compound', (u'service', u'NN'))
+
+$$$$
+
+((u'add', u'VB'), u'compound:prt', (u'together', u'RP'))
+((u'add', u'VB'), u'dobj', (u'doesn', u'NN'))
+((u'doesn', u'NN'), u'acl:relcl', (u'seem', u'VBP'))
+((u'seem', u'VBP'), u'xcomp', (u'worth', u'JJ'))
+((u'worth', u'JJ'), u'advmod', (u'especially', u'RB'))
+((u'worth', u'JJ'), u'dep', (u'considering', u'VBG'))
+((u'considering', u'VBG'), u'dobj', (u'prices', u'NNS'))
+
+$$$$
+
+((u'try', u'VBP'), u'nsubj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'amod', (u'shabu', u'JJ'))
+((u'shabu', u'JJ'), u'dep', (u'best', u'JJS'))
+((u'restaurant', u'NN'), u'amod', (u'shabu', u'JJ'))
+((u'try', u'VBP'), u'dobj', (u'area', u'NN'))
+((u'area', u'NN'), u'compound', (u'state', u'NN'))
+
+$$$$
+
+((u'lived', u'VBD'), u'ccomp', (u'taste', u'VBP'))
+((u'taste', u'VBP'), u'nsubj', (u'years', u'NNS'))
+((u'years', u'NNS'), u'compound', (u'japan', u'NN'))
+((u'taste', u'VBP'), u'ccomp', (u'feel', u'VBP'))
+((u'feel', u'VBP'), u'nsubj', (u'food', u'NN'))
+((u'lived', u'VBD'), u'nsubj', (u'restaurant', u'NN'))
+((u'restaurant', u'NN'), u'acl', (u'japan', u'VBN'))
+((u'japan', u'VBN'), u'mark', (u'like', u'IN'))
+((u'japan', u'VBN'), u'auxpass', (u'being', u'VBG'))
+((u'japan', u'VBN'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'thius', u'VBZ'), u'dobj', (u'must', u'MD'))
+((u'thius', u'VBZ'), u'nsubj', (u'shabu', u'NNP'))
+((u'shabu', u'NNP'), u'compound', (u'anyone', u'NN'))
+((u'shabu', u'NNP'), u'compound', (u'loves', u'NN'))
+((u'shabu', u'NNP'), u'compound', (u'shabu', u'NNP'))
+
+$$$$
+
+((u'feels', u'VBZ'), u'nsubj', (u'special', u'NN'))
+((u'special', u'NN'), u'compound', (u'atmosphere', u'NN'))
+((u'special', u'NN'), u'compound', (u'nothing', u'NN'))
+((u'feels', u'VBZ'), u'nmod', (u'tokyo', u'NN'))
+((u'tokyo', u'NN'), u'case', (u'like', u'IN'))
+((u'tokyo', u'NN'), u'compound', (u'sushi', u'NN'))
+((u'tokyo', u'NN'), u'compound', (u'establishment', u'NN'))
+
+$$$$
+
+((u'adds', u'VBZ'), u'nsubj', (u'japanese', u'NN'))
+((u'japanese', u'NN'), u'compound', (u'owner', u'NN'))
+((u'japanese', u'NN'), u'compound', (u'staff', u'NN'))
+((u'adds', u'VBZ'), u'advmod', (u'well', u'RB'))
+((u'adds', u'VBZ'), u'dobj', (u'ambiance', u'NN'))
+((u'ambiance', u'NN'), u'amod', (u'entire', u'JJ'))
+
+$$$$
+
+((u'prepared', u'VBD'), u'nmod', (u'everything', u'NN'))
+((u'everything', u'NN'), u'case', (u'despite', u'IN'))
+((u'everything', u'NN'), u'amod', (u'limited', u'JJ'))
+((u'limited', u'JJ'), u'advmod', (u'slightly', u'RB'))
+((u'everything', u'NN'), u'compound', (u'menu', u'NN'))
+((u'prepared', u'VBD'), u'dep', (u'done', u'VBN'))
+((u'prepared', u'VBD'), u'nsubj', (u'art', u'NN'))
+((u'art', u'NN'), u'nummod', (u'perfection', u'CD'))
+((u'art', u'NN'), u'amod', (u'ultra', u'JJ'))
+((u'art', u'NN'), u'amod', (u'fresh', u'JJ'))
+((u'art', u'NN'), u'compound', (u'work', u'NN'))
+((u'art', u'NN'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+((u'give', u'VB'), u'aux', (u'must', u'MD'))
+((u'give', u'VB'), u'iobj', (u'yon', u'RB'))
+((u'give', u'VB'), u'dobj', (u'yon', u'RB'))
+((u'give', u'VB'), u'nsubj', (u'stars', u'NNS'))
+
+$$$$
+
+((u'taxan', u'VB'), u'xcomp', (u'delicious', u'JJ'))
+
+$$$$
+
+((u'gozimas', u'NNS'), u'compound', (u'arigato', u'NN'))
+((u'gozimas', u'NNS'), u'dep', (u'yuka', u'NN'))
+
+$$$$
+
+((u'recommended', u'VBD'), u'nsubj', (u'restaurant', u'NN'))
+((u'recommended', u'VBD'), u'ccomp', (u'made', u'VBD'))
+((u'made', u'VBD'), u'nsubj', (u'fact', u'NN'))
+((u'fact', u'NN'), u'amod', (u'local', u'JJ'))
+((u'fact', u'NN'), u'compound', (u'matter', u'NN'))
+((u'made', u'VBD'), u'ccomp', (u'said', u'VBD'))
+((u'said', u'VBD'), u'nsubj', (u'reservation', u'NN'))
+((u'said', u'VBD'), u'ccomp', (u'disappointed', u'JJ'))
+((u'disappointed', u'JJ'), u'aux', (u'would', u'MD'))
+((u'disappointed', u'JJ'), u'neg', (u'not', u'RB'))
+((u'disappointed', u'JJ'), u'cop', (u'be', u'VB'))
+
+$$$$
+
+
+$$$$
+
+((u'compared', u'VBN'), u'nsubj', (u'prices', u'NNS'))
+((u'compared', u'VBN'), u'advmod', (u'cheap', u'RB'))
+((u'compared', u'VBN'), u'dobj', (u'food', u'NN'))
+((u'food', u'NN'), u'compound', (u'quality', u'NN'))
+((u'food', u'NN'), u'compound', (u'service', u'NN'))
+
+$$$$
+
+((u'liked', u'VBZ'), u'nsubj', (u'much', u'RB'))
+((u'liked', u'VBZ'), u'dep', (u'make', u'VB'))
+((u'make', u'VB'), u'advmod', (u'always', u'RB'))
+((u'make', u'VB'), u'ccomp', (u'visit', u'VB'))
+((u'visit', u'VB'), u'nsubj', (u'dine', u'NN'))
+((u'dine', u'NN'), u'compound', (u'point', u'NN'))
+((u'visit', u'VB'), u'dobj', (u'york', u'NN'))
+((u'york', u'NN'), u'amod', (u'new', u'JJ'))
+
+$$$$
+
+((u'went', u'VBD'), u'dobj', (u'office', u'NN'))
+((u'went', u'VBD'), u'nsubj', (u'lunch', u'VB'))
+
+$$$$
+
+((u'food', u'NN'), u'compound', (u'location', u'NN'))
+((u'food', u'NN'), u'compound', (u'ambience', u'NN'))
+((u'food', u'NN'), u'compound', (u'ok', u'NN'))
+((u'food', u'NN'), u'dep', (u'makes', u'VBZ'))
+
+$$$$
+
+((u'variety', u'NN'), u'compound', (u'lot', u'NN'))
+((u'variety', u'NN'), u'dep', (u'eat', u'VBP'))
+((u'eat', u'VBP'), u'advmod', (u'even', u'RB'))
+((u'eat', u'VBP'), u'nsubj', (u'people', u'NNS'))
+((u'eat', u'VBP'), u'dobj', (u'vegetarian', u'NN'))
+((u'eat', u'VBP'), u'nmod', (u'like', u'IN'))
+
+$$$$
+
+((u'try', u'VB'), u'dobj', (u'vegetables', u'NNS'))
+((u'vegetables', u'NNS'), u'amod', (u'green', u'JJ'))
+((u'vegetables', u'NNS'), u'compound', (u'curry', u'NN'))
+
+$$$$
+
+((u'come', u'VBP'), u'nsubj', (u'quantity', u'NN'))
+((u'quantity', u'NN'), u'advmod', (u'also', u'RB'))
+((u'quantity', u'NN'), u'amod', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'come', u'VBP'), u'xcomp', (u'satisfied', u'JJ'))
+
+$$$$
+
+((u'get', u'VBP'), u'nsubj', (u'didn', u'NN'))
+((u'didn', u'NN'), u'compound', (u'service', u'NN'))
+((u'didn', u'NN'), u'compound', (u'ok', u'NN'))
+((u'didn', u'NN'), u'compound', (u'people', u'NNS'))
+((u'get', u'VBP'), u'dep', (u'asked', u'VBN'))
+
+$$$$
+
+((u'sat', u'VBD'), u'dobj', (u'birthday', u'NN'))
+((u'sat', u'VBD'), u'nsubj', (u'time', u'NN'))
+((u'time', u'NN'), u'amod', (u'excellent', u'JJ'))
+
+$$$$
+
+((u'best', u'JJS'), u'dep', (u'ravioli', u'NNS'))
+((u'ravioli', u'NNS'), u'dep', (u'ever', u'RB'))
+
+$$$$
+
+((u'wine', u'NN'), u'dep', (u'service', u'VB'))
+((u'service', u'VB'), u'xcomp', (u'good', u'JJ'))
+((u'good', u'JJ'), u'advmod', (u'very', u'RB'))
+((u'good', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'prices', u'NNS'), u'amod', (u'moderate', u'JJ'))
+
+$$$$
+
+((u'think', u'VBP'), u'nsubj', (u'noise', u'NN'))
+((u'noise', u'NN'), u'amod', (u'little', u'JJ'))
+((u'think', u'VBP'), u'nmod', (u'party', u'NN'))
+((u'party', u'NN'), u'case', (u'because', u'IN'))
+
+$$$$
+
+((u'bene', u'NN'), u'amod', (u'molto', u'JJ'))
+
+$$$$
+
+((u'trattoria', u'NN'), u'amod', (u'quaint', u'JJ'))
+((u'trattoria', u'NN'), u'amod', (u'romantic', u'JJ'))
+((u'trattoria', u'NN'), u'dep', (u'manhattan', u'NN'))
+((u'manhattan', u'NN'), u'amod', (u'top', u'JJ'))
+((u'trattoria', u'NN'), u'dep', (u'list', u'NN'))
+((u'list', u'NN'), u'compound', (u'restaurant', u'NN'))
+
+$$$$
+
+((u'specials', u'NNS'), u'compound', (u'food', u'NN'))
+((u'specials', u'NNS'), u'compound', (u'delicious', u'NN'))
+((u'specials', u'NNS'), u'dep', (u'dishes', u'NNS'))
+((u'dishes', u'NNS'), u'amod', (u'regular', u'JJ'))
+((u'dishes', u'NNS'), u'compound', (u'menu', u'NN'))
+((u'dishes', u'NNS'), u'compound', (u'fare', u'NN'))
+((u'dishes', u'NNS'), u'acl:relcl', (u'disappointment', u'NN'))
+((u'disappointment', u'NN'), u'advmod', (u'never', u'RB'))
+
+$$$$
+
+((u'glazed', u'VBD'), u'mark', (u'whether', u'IN'))
+((u'glazed', u'VBD'), u'nsubj', (u'porcini', u'NNS'))
+((u'porcini', u'NNS'), u'compound', (u'parmesean', u'NN'))
+((u'porcini', u'NNS'), u'amod', (u'lamb', u'JJ'))
+((u'lamb', u'JJ'), u'amod', (u'souffle', u'JJ'))
+((u'glazed', u'VBD'), u'ccomp', (u'transported', u'VBN'))
+((u'transported', u'VBN'), u'nsubjpass', (u'vinegar', u'NN'))
+((u'vinegar', u'NN'), u'amod', (u'balsamic', u'JJ'))
+((u'transported', u'VBN'), u'advmod', (u'surely', u'RB'))
+((u'transported', u'VBN'), u'auxpass', (u'be', u'VB'))
+((u'transported', u'VBN'), u'dobj', (u'bite', u'NN'))
+((u'bite', u'NN'), u'amod', (u'northern', u'JJ'))
+((u'bite', u'NN'), u'compound', (u'italy', u'NN'))
+
+$$$$
+
+((u'situated', u'VBN'), u'mark', (u'although', u'IN'))
+((u'situated', u'VBN'), u'nsubjpass', (u'tables', u'NNS'))
+((u'situated', u'VBN'), u'aux', (u'may', u'MD'))
+((u'situated', u'VBN'), u'auxpass', (u'be', u'VB'))
+((u'situated', u'VBN'), u'advmod', (u'closely', u'RB'))
+((u'situated', u'VBN'), u'dep', (u'candle', u'VBG'))
+((u'candle', u'VBG'), u'dobj', (u'overcompensate', u'NN'))
+((u'overcompensate', u'NN'), u'amod', (u'light', u'JJ'))
+((u'overcompensate', u'NN'), u'compound', (u'food', u'NN'))
+((u'overcompensate', u'NN'), u'compound', (u'quality', u'NN'))
+((u'overcompensate', u'NN'), u'compound', (u'service', u'NN'))
+
+$$$$
+
+((u'delight', u'NN'), u'amod', (u'guaranteeed', u'JJ'))
+
+$$$$
+
+((u'known', u'VBN'), u'dobj', (u'godfather', u'NN'))
+((u'godfather', u'NN'), u'amod', (u'secret', u'JJ'))
+((u'godfather', u'NN'), u'amod', (u'last', u'JJ'))
+((u'godfather', u'NN'), u'compound', (u'years', u'NNS'))
+((u'godfather', u'NN'), u'compound', (u'emilio', u'NN'))
+((u'known', u'VBN'), u'dep', (u'continued', u'VBD'))
+((u'continued', u'VBD'), u'xcomp', (u'serve', u'VB'))
+((u'serve', u'VB'), u'dobj', (u'gods', u'NNS'))
+((u'gods', u'NNS'), u'compound', (u'food', u'NN'))
+((u'gods', u'NNS'), u'compound', (u'wine', u'NN'))
+((u'known', u'VBN'), u'nsubj', (u'prices', u'NNS'))
+((u'prices', u'NNS'), u'amod', (u'mortal', u'JJ'))
+
+$$$$
+
+((u'go', u'VB'), u'xcomp', (u'try', u'VB'))
+((u'try', u'VB'), u'xcomp', (u'delicious', u'JJ'))
+((u'delicious', u'JJ'), u'nsubj', (u'mozzarella', u'NN'))
+((u'mozzarella', u'NN'), u'amod', (u'marinara', u'JJ'))
+((u'mozzarella', u'NN'), u'compound', (u'arrabiatta', u'NN'))
+((u'mozzarella', u'NN'), u'compound', (u'sauce', u'NN'))
+((u'mozzarella', u'NN'), u'nmod', (u'everything', u'NN'))
+((u'everything', u'NN'), u'case', (u'en', u'IN'))
+((u'everything', u'NN'), u'compound', (u'carozza', u'NN'))
+((u'everything', u'NN'), u'compound', (u'mmmmmmmm', u'NN'))
+
+$$$$
+
+((u'check', u'VB'), u'dobj', (u'room', u'NN'))
+((u'room', u'NN'), u'amod', (u'secret', u'JJ'))
+((u'room', u'NN'), u'amod', (u'back', u'JJ'))
+
+$$$$
+
+((u'meets', u'VBZ'), u'nsubj', (u'school', u'NN'))
+((u'school', u'NN'), u'amod', (u'old', u'JJ'))
+((u'meets', u'VBZ'), u'dobj', (u'world', u'NN'))
+((u'world', u'NN'), u'amod', (u'new', u'JJ'))
+
+$$$$
+
+((u'open', u'VBP'), u'nsubj', (u'stays', u'NNS'))
+((u'stays', u'NNS'), u'amod', (u'pray', u'JJ'))
+((u'open', u'VBP'), u'advmod', (u'forever', u'RB'))
+
+$$$$
+
+((u'thank', u'VB'), u'dobj', (u'emilio', u'NN'))
+
+$$$$
+
+((u'bella', u'NNP'), u'compound', (u'ciao', u'NNP'))
+
+$$$$
+
+((u'found', u'VBD'), u'dobj', (u'value', u'NN'))
+((u'value', u'NN'), u'compound', (u'food', u'NN'))
+((u'value', u'NN'), u'compound', (u'service', u'NN'))
+((u'found', u'VBD'), u'nsubj', (u'everytime', u'NN'))
+((u'everytime', u'NN'), u'amod', (u'exceptional', u'JJ'))
+((u'everytime', u'NN'), u'acl', (u'been', u'VBN'))
+
+$$$$
+
+((u'food', u'NN'), u'nummod', (u'authentic', u'CD'))
+
+$$$$
+
+((u'felt', u'VBD'), u'advmod', (u'though', u'RB'))
+((u'felt', u'VBD'), u'nsubj', (u'paris', u'NNS'))
+((u'paris', u'NNS'), u'compound', (u'eating', u'NN'))
+
+$$$$
+
+((u'service', u'VB'), u'dobj', (u'attentive', u'NN'))
+((u'attentive', u'NN'), u'amod', (u'excellent', u'JJ'))
+((u'attentive', u'NN'), u'amod', (u'friendly', u'JJ'))
+
+$$$$
+
+((u'prices', u'NNS'), u'amod', (u'low', u'JJ'))
+((u'low', u'JJ'), u'advmod', (u'wonderfully', u'RB'))
+
+$$$$
+
+((u'choices', u'NNS'), u'amod', (u'very', u'JJ'))
+((u'choices', u'NNS'), u'compound', (u'good', u'NN'))
+((u'choices', u'NNS'), u'compound', (u'wine', u'NN'))
+
+$$$$
+
+((u'believe', u'VB'), u'ccomp', (u'complain', u'VBP'))
+((u'complain', u'VBP'), u'nsubj', (u'people', u'NNS'))
+((u'complain', u'VBP'), u'ccomp', (u'sticks', u'VBZ'))
+((u'sticks', u'VBZ'), u'nsubj', (u'cheese', u'NN'))
+((u'cheese', u'NN'), u'neg', (u'no', u'DT'))
+
+$$$$
+
+((u'cheesesticks', u'NNS'), u'compound', (u'room', u'NN'))
+((u'cheesesticks', u'NNS'), u'dep', (u'best', u'JJS'))
+((u'cheesesticks', u'NNS'), u'dep', (u'nyc', u'NN'))
+((u'nyc', u'NN'), u'compound', (u'pizza', u'NN'))
+
+$$$$
+
+((u'get', u'VB'), u'dobj', (u'salad', u'NN'))
+((u'salad', u'NN'), u'amod', (u'pepperoni', u'JJ'))
+((u'salad', u'NN'), u'compound', (u'yum', u'NN'))
+((u'salad', u'NN'), u'compound', (u'family', u'NN'))
+((u'salad', u'NN'), u'compound', (u'style', u'NN'))
+
+$$$$
+
+((u'staff', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'service', u'NN'), u'dep', (u'always', u'RB'))
+((u'service', u'NN'), u'amod', (u'great', u'JJ'))
+
+$$$$
+
+((u'go', u'VB'), u'nmod:tmod', (u'month', u'NN'))
+((u'month', u'NN'), u'advmod', (u'twice', u'RB'))
+
+$$$$
+
+
+$$$$
+
+((u'lie', u'VBP'), u'nsubj', (u'food', u'NN'))
+((u'food', u'NN'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'staff', u'VB'), u'xcomp', (u'horrible', u'JJ'))
+
+$$$$
+
+((u'waitress', u'NN'), u'amod', (u'hostess', u'JJ'))
+((u'waitress', u'NN'), u'dep', (u'incredibly', u'RB'))
+((u'incredibly', u'RB'), u'ccomp', (u'rush', u'VB'))
+((u'rush', u'VB'), u'nsubj', (u'everything', u'NN'))
+((u'everything', u'NN'), u'amod', (u'rude', u'JJ'))
+((u'rush', u'VB'), u'aux', (u'could', u'MD'))
+
+$$$$
+
+((u'get', u'VBP'), u'dep', (u'planning', u'NN'))
+((u'get', u'VBP'), u'dobj', (u'waitress', u'NN'))
+((u'waitress', u'NN'), u'compound', (u'dessert', u'NN'))
+((u'get', u'VBP'), u'nsubj', (u'order', u'NN'))
+((u'order', u'NN'), u'nummod', (u'basically', u'CD'))
+((u'order', u'NN'), u'compound', (u'bill', u'NN'))
+((u'order', u'NN'), u'compound', (u'chance', u'NN'))
+
+$$$$
+
+((u'feel', u'VBP'), u'nsubj', (u'service', u'NN'))
+((u'service', u'NN'), u'compound', (u'place', u'NN'))
+((u'service', u'NN'), u'amod', (u'pricey', u'JJ'))
+((u'service', u'NN'), u'amod', (u'yes', u'JJ'))
+((u'service', u'NN'), u'compound', (u'food', u'NN'))
+((u'service', u'NN'), u'compound', (u'worth', u'NN'))
+((u'service', u'NN'), u'dep', (u'makes', u'VBZ'))
+((u'feel', u'VBP'), u'advcl', (u'paying', u'VBG'))
+((u'paying', u'VBG'), u'mark', (u'like', u'IN'))
+((u'paying', u'VBG'), u'aux', (u'should', u'MD'))
+((u'paying', u'VBG'), u'aux', (u'be', u'VB'))
+((u'paying', u'VBG'), u'dobj', (u'price', u'NN'))
+((u'price', u'NN'), u'compound', (u'quater', u'NN'))
+
+$$$$
+
+((u'save', u'VB'), u'ccomp', (u'skip', u'VB'))
+((u'skip', u'VB'), u'nsubj', (u'trouble', u'NN'))
+((u'trouble', u'NN'), u'compound', (u'time', u'NN'))
+
+$$$$
+
+((u'keep', u'VB'), u'advmod', (u'll', u'RB'))
+((u'keep', u'VB'), u'xcomp', (u'short', u'JJ'))
+
+$$$$
+
+((u'nothing', u'NN'), u'compound', (u'amma', u'NN'))
+((u'nothing', u'NN'), u'dep', (u'special', u'JJ'))
+
+$$$$
+
+((u'chefs', u'NNS'), u'nummod', (u'two', u'CD'))
+((u'chefs', u'NNS'), u'compound', (u'star', u'NN'))
+((u'chefs', u'NNS'), u'acl', (u'left', u'VBN'))
+((u'left', u'VBN'), u'dobj', (u'time', u'NN'))
+((u'time', u'NN'), u'advmod', (u'quite', u'RB'))
+((u'chefs', u'NNS'), u'dep', (u'place', u'NN'))
+((u'place', u'NN'), u'dep', (u'open', u'JJ'))
+((u'open', u'JJ'), u'advmod', (u'ago', u'RB'))
+
+$$$$
+
+((u'ate', u'VBD'), u'dobj', (u'dishes', u'NNS'))
+((u'dishes', u'NNS'), u'amod', (u'found', u'VBN'))
+((u'found', u'VBN'), u'advmod', (u'week', u'NN'))
+((u'week', u'NN'), u'case', (u'ago', u'IN'))
+((u'ate', u'VBD'), u'nsubj', (u'average', u'NN'))
+((u'average', u'NN'), u'amod', (u'expensive', u'JJ'))
+((u'expensive', u'JJ'), u'advmod', (u'best', u'RBS'))
+((u'expensive', u'JJ'), u'advmod', (u'too', u'RB'))
+
+$$$$
+
+((u'be', u'VB'), u'neg', (u'not', u'RB'))
+((u'be', u'VB'), u'advmod', (u'back', u'RB'))
+
+$$$$
+
+((u'don', u'VB'), u'dobj', (u'dishes', u'NNS'))
+((u'dishes', u'NNS'), u'amod', (u'dine', u'JJ'))
+((u'dishes', u'NNS'), u'amod', (u'tamarind', u'JJ'))
+((u'dishes', u'NNS'), u'compound', (u'vegetarian', u'NN'))
+((u'don', u'VB'), u'nmod', (u'selections', u'NNS'))
+((u'selections', u'NNS'), u'advmod', (u'simply', u'RB'))
+((u'selections', u'NNS'), u'neg', (u'not', u'RB'))
+((u'selections', u'NNS'), u'amod', (u'par', u'JJ'))
+((u'selections', u'NNS'), u'compound', (u'non', u'NN'))
+((u'selections', u'NNS'), u'compound', (u'veg', u'NN'))
+
+$$$$
+
+((u'decor', u'NN'), u'dep', (u'nice', u'JJ'))
+((u'nice', u'JJ'), u'ccomp', (u'spotty', u'JJ'))
+((u'spotty', u'JJ'), u'mark', (u'though', u'IN'))
+((u'spotty', u'JJ'), u'nsubj', (u'service', u'NN'))
+((u'spotty', u'JJ'), u'cop', (u'be', u'VB'))
+
+$$$$
+
+((u'place', u'NN'), u'dep', (u'packed', u'VBN'))
+((u'packed', u'VBN'), u'advmod', (u'always', u'RB'))
+
+$$$$
+
+((u'know', u'VB'), u'advcl', (u'live', u'VBP'))
+((u'live', u'VBP'), u'mark', (u'because', u'IN'))
+((u'live', u'VBP'), u'advmod', (u'nearby', u'RB'))
+
+$$$$
+
+((u'importantly', u'VB'), u'xcomp', (u'excellent', u'JJ'))
+((u'excellent', u'JJ'), u'nsubj', (u'food', u'NN'))
+
+$$$$
+
+((u'try', u'VB'), u'dobj', (u'bass', u'NN'))
+((u'bass', u'NN'), u'compound', (u'sea', u'NN'))
+
+$$$$
+
+((u'recommended', u'JJ'), u'advmod', (u'highly', u'RB'))
+
+$$$$
+
+((u'rocks', u'NNS'), u'amod', (u'first', u'JJ'))
+((u'rocks', u'NNS'), u'compound', (u'dal', u'NN'))
+((u'rocks', u'NNS'), u'compound', (u'bukhara', u'NN'))
+
+$$$$
+
+((u'place', u'NN'), u'compound', (u'student', u'NN'))
+((u'place', u'NN'), u'compound', (u'nyu', u'NN'))
+((u'place', u'NN'), u'compound', (u'need', u'NN'))
+((u'place', u'NN'), u'dep', (u'eat', u'VB'))
+((u'eat', u'VB'), u'dobj', (u'work', u'NN'))
+((u'work', u'NN'), u'amod', (u'hard', u'JJ'))
+((u'work', u'NN'), u'compound', (u'day', u'NN'))
+((u'eat', u'VB'), u'advmod', (u'usually', u'RB'))
+((u'eat', u'VB'), u'dep', (u'go', u'VB'))
+((u'go', u'VB'), u'dobj', (u'restraunt', u'NN'))
+((u'restraunt', u'NN'), u'compound', (u'indian', u'NN'))
+((u'go', u'VB'), u'nmod', (u'near', u'IN'))
+
+$$$$
+
+((u'heard', u'VBD'), u'nsubj', (u'ive', u'NN'))
+((u'heard', u'VBD'), u'ccomp', (u'decided', u'VBD'))
+((u'decided', u'VBD'), u'nsubj', (u'yrs', u'NN'))
+((u'yrs', u'NN'), u'advmod', (u'lot', u'RB'))
+((u'yrs', u'NN'), u'amod', (u'past', u'JJ'))
+((u'decided', u'VBD'), u'advmod', (u'finally', u'RB'))
+((u'decided', u'VBD'), u'xcomp', (u'eat', u'VB'))
+
+$$$$
+
+((u'awsome', u'NNS'), u'amod', (u'happy', u'JJ'))
+((u'awsome', u'NNS'), u'compound', (u'food', u'NN'))
+
+$$$$
+
+
+$$$$
+
+((u'dam', u'NN'), u'advmod', (u'yes', u'RB'))
+((u'dam', u'NN'), u'compound', (u'dal', u'NN'))
+((u'dam', u'NN'), u'compound', (u'bukhara', u'NN'))
+((u'dam', u'NN'), u'dep', (u'kababs', u'NNS'))
+((u'kababs', u'NNS'), u'amod', (u'good', u'JJ'))
+
+$$$$
+
+((u'opening', u'VBG'), u'dobj', (u'places', u'NNS'))
+((u'places', u'NNS'), u'nummod', (u'two', u'CD'))
+((u'opening', u'VBG'), u'dep', (u'saw', u'VBD'))
+((u'saw', u'VBD'), u'dobj', (u'yonkers', u'NNS'))
+((u'yonkers', u'NNS'), u'compound', (u'flyer', u'NN'))
+((u'opening', u'VBG'), u'nsubj', (u'hall', u'NN'))
+((u'hall', u'NN'), u'amod', (u'restraunt', u'JJ'))
+((u'hall', u'NN'), u'compound', (u'banquet', u'NN'))
+((u'hall', u'NN'), u'dep', (u'jersey', u'NN'))
+((u'jersey', u'NN'), u'det', (u'another', u'DT'))
+((u'jersey', u'NN'), u'amod', (u'parsipanny', u'JJ'))
+((u'jersey', u'NN'), u'amod', (u'new', u'JJ'))
+
+$$$$
+
+((u'give', u'VB'), u'advmod', (u'overall', u'RB'))
+
+$$$$
+
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(got ok I it)
+(got ok I it)
+(got ok I it)
+['The food was good but the?? ??  service !!! people working ? in the hotel for ? so many years were rude!', 'ok, I got it']
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(good
+  (food The)
+  was
+  but
+  (!!!
+    (service the ?? ??)
+    (people working)
+    (rude (hotel in the for) so (years many) were)))
+(got ok I it)
+(got ok I it)
+(got ok I it)
