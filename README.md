@@ -1,1 +1,8 @@
-# FlowModel Sentiment Analysis
+# Aspect Based Sentiment Analysis using Sentiment Flow with Local and Non-local Neighbor Information
+(Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers)
+
+https://www.aclweb.org/anthology/C16-1248/
+
+Aspect-level analysis of sentiments contained in a review text is important to reveal a detailed picture of consumer opinions. While a plethora of methods have been traditionally employed for this task, majority focus has been on analyzing only aspect-centered local information. However, incorporating context information from non-local aspect neighbors may capture richer structure in review text and enhance prediction. This may especially be helpful to resolve ambiguous predictions. The context around an aspect can be incorporated using semantic relations within text and inter-label dependencies in the output. On the output side, this becomes a structured prediction task. However, non-local label correlations are computationally heavy and intractable to infer for structured prediction models like Conditional Random Fields (CRF). Moreover, some prior intuition is required to incorporate non-local context. Thus, inspired by previous research on multi-stage prediction, we propose a two-level model for aspect-based analysis. The proposed model uses predicted probability estimates from first level to incorporate neighbor information in the second level. The model is evaluated on data taken from SemEval Workshops and Bing Liu’s review collection. It shows comparatively better performance against few existing methods. Overall, we get prediction accuracy in a range of 83-88% and almost 3-4 point increment against baseline (first level only) scores.
+
+
